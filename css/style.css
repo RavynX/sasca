@@ -1,0 +1,365 @@
+html {
+	height: 100%;
+	background: #02012d; /* Old browsers */
+}
+
+body {
+	height: 100%;
+    margin: 0;
+	background: #02012d; /* Old browsers */
+	/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+	background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzE1MWVhNyIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjU3JSIgc3RvcC1jb2xvcj0iIzAyMDEyZCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgPC9saW5lYXJHcmFkaWVudD4KICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSJ1cmwoI2dyYWQtdWNnZy1nZW5lcmF0ZWQpIiAvPgo8L3N2Zz4=);
+	background: -moz-linear-gradient(top,  #151ea7 0%, #02012d 57%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#151ea7), color-stop(57%,#02012d)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #151ea7 0%,#02012d 57%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #151ea7 0%,#02012d 57%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #151ea7 0%,#02012d 57%); /* IE10+ */
+	background: linear-gradient(to bottom,  #151ea7 0%,#02012d 57%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#151ea7', endColorstr='#02012d',GradientType=0 ); /* IE6-8 */
+}
+
+a, a:visited {
+	color: #ED002F;
+	text-decoration: none;
+}
+
+a:hover, a:active {
+	color: #0f5bf7;
+	text-decoration: none;
+}
+
+body h1 {
+	font-size: 22px;
+	font-weight: bold;
+}
+
+body h2 {
+	font-size: 18px;
+	font-weight: bold;
+}
+
+#page-container {
+	margin: 0 auto;
+	min-height: 100%;
+	width: 960px;
+	background: #000;
+}
+
+#header-container {
+	position: relative;
+	margin-top: 0;
+	width: 100%;
+	height: 202px;
+	color: #333;
+	/*background-image:url('../images/sasca_header.png');*/
+}
+
+#logo {
+	width: 100%;
+	height: 175px;
+	background-image:url('../images/sasca_header.png');
+}
+
+#nav {
+	position: absolute;
+	bottom: 0;
+	background: #000;
+	width: 100%;
+	height: 27px;
+	float: left;
+}
+
+#nav li {
+	list-style: none; 
+	float: left; 
+	width: 120px; 
+	height: 27px; 
+	line-height: 27px; 
+	text-align: center;
+}
+
+#nav li a { 
+	color: white; 
+	text-decoration: none; 
+	display: block; 
+} 
+
+#nav li a:hover { 
+	background-color: #151ea7;
+}
+
+#nav li ul { 
+	position: absolute;  
+	display: none; 
+} 
+#nav li:hover ul { 
+	display: block; 
+} 
+#nav li ul li { 
+	float: none; 
+	display: inline; 
+	text-align: left;
+}
+
+#nav li ul li a { 
+	width: 120px; 
+	position: relative; 
+	border-left: 1px solid black; 
+	border-right: 1px solid black; 
+	border-bottom: 1px solid black; 
+	background: #333; 
+	color: #fff; 
+	padding-left: 5px;
+}
+#nav li ul li a:hover { 
+	background: #151ea7; 
+	color: #FFF; 
+} 
+
+#content-container {
+	min-height: 500px;
+	background: #FFF;
+	color: #000;
+	padding: 20px;
+}
+
+#footer-container {
+	height: 75px;
+	background: #000;
+	color: #333;
+}
+
+
+/* BOD */
+table.chairs {
+	margin: 5px 0px 0px 15px;
+	background: #fff;
+	border: 1px solid #ccc;
+}
+
+table.chairs td {
+	margin-right: 1px;
+	padding: 2px 5px;
+	border-left: 1px solid #ccc;
+}
+
+table.chairs td.title {
+	width: 175px;
+	font-weight: bold;
+}
+
+table.chairs td.name {
+	width: 250px;
+}
+
+table.chairs td.email {
+}
+
+table.chairs tr.even {
+	background-color: #b8d0e8;
+}
+
+table.chairs tr.even td.name, table.chairs tr.even td.email {
+	border-left: 1px solid #fff;
+}
+
+table.chairs tr.odd td.name, table.chairs tr.odd td.email {
+	border-left: 1px solid #ddd;
+}
+
+/* Calendar */
+#calendar-frame {
+	display: block;
+	margin: 0 auto;
+}
+
+
+/* By Laws */
+#bylaws .heading {
+	font-weight: bold;
+	text-align: center;
+	margin-top: 25px;
+}
+
+#bylaws .top {
+	margin-top: 0 !important;
+}
+
+#bylaws .subheading {
+	text-align: center;
+	margin-top: 5px;
+}
+
+#bylaws .section {
+	margin-top: 20px;
+}
+
+#bylaws .description {
+	margin-top: 15px;
+	margin-left: 20px;
+}
+
+
+/* Registration Page */
+#events {
+	
+}
+
+#events td {
+	text-align: center;
+	vertical-align: middle;
+	height: 25px;
+}
+
+#events th {
+	height: 23px;
+	vertical-align: middle;
+	background: #151ea7;
+	color: #FFF;
+	font-weight: bold;
+}
+
+#events th.number {
+	width: 15px;
+}
+
+#events th.date {
+	width: 150px;
+}
+
+#events th.location {
+	width: 150px;
+}
+
+#events th.register {
+	width: 150px;
+}
+
+#events th.info {
+	width: 300px;
+}
+
+#events td.number {
+	text-align: left;
+}
+
+#events td.date {
+	text-align: left;
+	padding-left: 15px;
+}
+
+#events td.location {
+	text-align: center;
+}
+
+#events td.register {
+	text-align: center;
+}
+
+#events td.info {
+	text-align: left;
+	padding-left: 15px;
+}
+
+#events tr.even {
+	background: #b8d0e8;
+}
+
+#events tr.odd {
+	background: #FFF;
+}
+
+
+/* Tech Inspection Page */
+#tech p {
+	padding-left: 20px;
+}
+
+#tech p.top {
+	padding-top: 15px;
+}
+
+#tech p.heading {
+	padding-top: 15px;
+	padding-left: 0px;
+	font-weight: bold;
+}
+
+#tech ol {
+	margin-top: 5px;
+	margin-left: 20px;
+}
+
+#tech li {
+	margin-left: 15px;
+	list-style-type: decimal;
+}
+
+
+/* Club Rules */
+#rules .heading {
+	font-weight: bold;
+	text-align: center;
+}
+
+#rules ol {
+	margin-top: 5px;
+	margin-left: 20px;
+}
+
+#rules li {
+	margin-top: 15px;
+	margin-left: 15px;
+	list-style-type: upper-roman;
+}
+
+#rules ol ol {
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+#rules ol ol li {
+	margin-top: 10px;
+	margin-left: 15px;
+	list-style-type: upper-alpha;
+}
+
+#rules ol ul {
+	list-style-type: none;
+}
+
+#rules ol ul li {
+	list-style-type: none;
+}
+
+#rules ol ul ol {
+
+}
+
+#rules ol ul ol li {
+	list-style-type: upper-alpha;
+}
+
+#rules table.schedule {
+	text-align: left;
+}
+
+#rules table.schedule td {
+	width: 175px;
+}
+
+
+/* History Page */
+#history {
+
+}
+
+#history p {
+	margin-bottom: 20px;
+}
+
+
+/* Novice - First Time */
+#firsttime p {
+	margin-bottom: 20px;
+}
