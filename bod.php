@@ -62,7 +62,7 @@
 	</tr>
 	<tr>
 		<td class="title">Webmaster</td>
-		<td class="name">Shane Poewll & Chris Leclair</td>
+		<td class="name">Shane Powell & Chris Leclair</td>
 	</tr>
 </table>
 

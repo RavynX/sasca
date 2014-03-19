@@ -14,8 +14,9 @@
 								<li><a href="history.php">History</a></li>
 							</ul>
 						</li>
+						<li><a href="schedule.php">Schedule</a></li>
 						<li><a href="register.php">Register</a></li>
-						<li><a href="novices.php">Novices</a>
+						<li><a href="firsttime.php">Novices</a>
 							<ul>
 					        	<li><a href="firsttime.php">First Time?</a></li>
 					          	<li><a href="improve.php">How to Improve</a></li>
@@ -23,7 +24,7 @@
 					        </ul>
 						</li>
 						<li><a href="calendar.php">Calendar</a></li>
-						<li><a href="http://www.sasca.org/forum/">Forum</a></li>
+						<li><a target="_blank" href="http://www.sasca.org/forum/">Forum</a></li>
 						<li><a target="_blank" href="https://www.facebook.com/groups/99973330301/">Facebook</a></li>
 					</ul>
 				</div>
