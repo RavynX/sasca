@@ -21,6 +21,12 @@ html {
 
 body {
 	height: 100%;
+	margin: 0;
+	background: url('../images/sweeping_blue_lines.jpg') no-repeat fixed #000000;
+}
+
+.body1 {
+	height: 100%;
     margin: 0;
 	background: #02012d; /* Old browsers */
 	/* IE9 SVG, needs conditional override of 'filter' to 'none' */
@@ -135,13 +141,14 @@ body h2 {
 
 #content-container {
 	min-height: 500px;
+	height: 100%;
 	background: #FFF;
 	color: #000;
 	padding: 20px;
 }
 
 #footer-container {
-	height: 75px;
+	height: 35px;
 	background: #000;
 	color: #333;
 }
