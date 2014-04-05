@@ -16,30 +16,17 @@
 
 html {
 	height: 100%;
-	background: #02012d; /* Old browsers */
+	background: #00000; /* Old browsers */
 }
 
 body {
 	height: 100%;
 	margin: 0;
-	background: url('../images/sweeping_blue_lines.jpg') no-repeat fixed #000000;
+	background: url('../images/blue_flag_1.png') no-repeat fixed #000000;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:center top; 
 }
-
-.body1 {
-	height: 100%;
-    margin: 0;
-	background: #02012d; /* Old browsers */
-	/* IE9 SVG, needs conditional override of 'filter' to 'none' */
-	background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzE1MWVhNyIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjU3JSIgc3RvcC1jb2xvcj0iIzAyMDEyZCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgPC9saW5lYXJHcmFkaWVudD4KICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSJ1cmwoI2dyYWQtdWNnZy1nZW5lcmF0ZWQpIiAvPgo8L3N2Zz4=);
-	background: -moz-linear-gradient(top,  #151ea7 0%, #02012d 57%); /* FF3.6+ */
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#151ea7), color-stop(57%,#02012d)); /* Chrome,Safari4+ */
-	background: -webkit-linear-gradient(top,  #151ea7 0%,#02012d 57%); /* Chrome10+,Safari5.1+ */
-	background: -o-linear-gradient(top,  #151ea7 0%,#02012d 57%); /* Opera 11.10+ */
-	background: -ms-linear-gradient(top,  #151ea7 0%,#02012d 57%); /* IE10+ */
-	background: linear-gradient(to bottom,  #151ea7 0%,#02012d 57%); /* W3C */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#151ea7', endColorstr='#02012d',GradientType=0 ); /* IE6-8 */
-}
-
 
 a, a:visited {
 	color: #ED002F;
@@ -140,8 +127,8 @@ body h2 {
 } 
 
 #content-container {
-	min-height: 500px;
 	height: 100%;
+	min-height: 500px;
 	background: #FFF;
 	color: #000;
 	padding: 20px;
