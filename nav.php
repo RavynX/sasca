@@ -4,7 +4,7 @@
 				<div id="nav">
 					<ul>
 						<li><a href="index.php">Home</a></li>
-						<li><a href="about.php">Club Info</a>
+						<li>Club Info
 							<ul>
 								<li><a href="about.php">Who We Are</a></li>
 								<li><a href="bod.php">BOD &amp; Chairs</a></li>
@@ -16,7 +16,7 @@
 						</li>
 						<li><a href="schedule.php">Schedule</a></li>
 						<li><a href="register.php">Register</a></li>
-						<li><a href="firsttime.php">Novices</a>
+						<li>Novices
 							<ul>
 					        	<li><a href="firsttime.php">First Time?</a></li>
 					          	<li><a href="improve.php">How to Improve</a></li>

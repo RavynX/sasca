@@ -80,6 +80,7 @@ body h2 {
 }
 
 #nav li {
+	color: #FFFFFF;
 	list-style: none; 
 	float: left; 
 	width: 120px; 
@@ -89,12 +90,12 @@ body h2 {
 }
 
 #nav li a { 
-	color: white; 
+	color: #FFFFFF;
 	text-decoration: none; 
 	display: block; 
 } 
 
-#nav li a:hover { 
+#nav li:hover, #nav li a:hover { 
 	background-color: #151ea7;
 }
 
@@ -138,6 +139,8 @@ body h2 {
 	height: 35px;
 	background: #000;
 	color: #333;
+	padding-top: 13px;
+	text-align: center;
 }
 
 
@@ -199,6 +202,11 @@ body h2 {
 /* ******************************************************* */
 
 /* BOD */
+#bod {
+	width: 600px;
+	margin: 0 auto 0 auto;
+}
+
 table.chairs {
 	margin: 5px 0px 0px 15px;
 	background: #fff;
@@ -322,6 +330,10 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
 }
 
 /* Registration Page */
+#register {
+	margin: 0 auto 0 auto;
+}
+
 #events {
 	
 }
