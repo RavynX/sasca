@@ -300,14 +300,18 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
 
 #schedule table th {
 	height: 23px;
+	padding-left: 0px;
 	vertical-align: middle;
 	background: #151ea7;
 	color: #FFF;
 	font-weight: bold;
+	white-space: nowrap;
 }
 
 #schedule table td {
 	vertical-align: middle;
+	height: 25px;
+	padding-left: 10px;
 }
 
 #schedule table td.desc {
@@ -331,6 +335,7 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
 
 /* Registration Page */
 #register {
+	width: 750px;
 	margin: 0 auto 0 auto;
 }
 
@@ -350,6 +355,7 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
 	background: #151ea7;
 	color: #FFF;
 	font-weight: bold;
+	white-space: nowrap;
 }
 
 #events th.number {
