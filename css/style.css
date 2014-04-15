@@ -500,17 +500,18 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
 
 /* Novice - First Time */
 #firsttime p {
-	margin-bottom: 20px;
+	margin-bottom: 15px;
+}
+
+#firsttime p.heading {
+	margin-left: 0px;
+	margin-bottom: 10px;
+	font-weight: bold;
+}
+
+#firsttime p.desc, #firsttime ul {
+	margin-left: 20px;
+	margin-bottom: 10px;
 }
 
 /* Novice - Improve Page */
-#improve p {
-	margin-left: 20px;
-	margin-bottom: 20px;
-}
-
-#improve p.title {
-	margin-left: 0px;
-	margin-bottom: 15px;
-	font-weight: bold;
-}
