@@ -8,6 +8,7 @@
 							<ul>
 								<li><a href="about.php">Who We Are</a></li>
 								<li><a href="bod.php">BOD &amp; Chairs</a></li>
+								<li><a href="membership.php">Become a Member</a></li>
 								<li><a href="clubrules.php">Club Rules</a></li>
 								<li><a href="tech.php">Tech Inspection</a></li>
 								<li><a href="bylaws.php">By Laws</a></li>

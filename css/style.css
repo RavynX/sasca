@@ -408,6 +408,14 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
 	background: #FFF;
 }
 
+#faq {
+	margin-top: 20px;
+}
+
+#faq p.ans {
+	margin: 5px 0 15px 20px;
+}
+
 
 /* Tech Inspection Page */
 #tech p {
@@ -512,6 +520,14 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
 #firsttime p.desc, #firsttime ul {
 	margin-left: 20px;
 	margin-bottom: 10px;
+}
+
+#firsttime ul {
+	list-style-type: disc;
+}
+
+#firsttime ul li {
+	margin-bottom: 5px;
 }
 
 /* Novice - Improve Page */

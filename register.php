@@ -1,8 +1,7 @@
 <?php include('header.php') ?>
 <?php include('nav.php') ?>
+<h1>Online Registration</h1><br/>
 <div id="register">
-	<h1>Online Registration</h1>
-	<br/>
 	<h2>2014 SASCA Schedule</h2>
 	<table id="events">
 		<tr>
@@ -98,4 +97,21 @@
 		</tr>
 	</table>
 </div>
+
+<div id="faq">
+	<h1>Frequently Asked Questions</h1><br/>
+	
+	<h2>Do I have to register online?</h2>
+	<p class="ans">No, you may register on-site the day of the event but it's easier on both you and us if you pre-register online to streamline your time through checking in at the trailer in the morning.</p>
+
+	<h2>Do I pay online or at the event?</h2>
+	<p class="ans">Whether you register online or on-site you will pay when you check in at the trailer on race day.</p>
+
+	<h2>How long do I have to pre-register online?</h2>
+	<p class="ans">You have until midnight on the Friday before the event to pre-register on online.</p>
+
+	<h2>What if I'm pre-registered and I have to change a numer/class/car/etc on race day?</h2>
+	<p class="ans">You may change what you need to on race day during the check-in process at the trailer.  Just go to the non-pre-registered side of the trailer (the side with the computer) in order to change details on your registration.</p>
+</div>
+
 <?php include('footer.php') ?>

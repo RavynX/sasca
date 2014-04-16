@@ -37,7 +37,7 @@
 			<td class="desc">Tech Inspection</td>
 			<td class="time">8:30 am</td>
 			<td class="dash">-</td>
-			<td>9:30 am</td>
+			<td>9:45 am</td>
 		</tr>
 		<tr>
 			<td class="desc">Novice Walkthrough</td>
