@@ -15,7 +15,7 @@
 	<p class="desc">
 		<ul type="dot">
 			<li><u>DOT-approved helmet</u> if you have one.  We have loaner helmets to use if you don't have one.</li>
-			<li><u>Water</u> : Bring plenty of water to stay hydrated through the day.  We also have water for sale by the timing trailer.</li>
+			<li><u>Water</u> : Bring plenty of water to stay hydrated through the day.</li>
 			<li><u>Sunscreen, Hats, Umbrellas</u> or whatever you prefer for protection from the sun.  It gets toasty in Texas summers so bring what you need to keep your skin from burning.</li>
 			<li><u>Wind jacket</u> or <u>rain coat</u> if inclement weather is expected.  Texas weather changes throughout the day so it's good to pack these just in case.</li>
 			<li><u>Tire Gauge</u> : We have an air compressor on site to fill your tires.  Bring a tire gauge to check and monitor tire pressures.</li>
@@ -30,6 +30,7 @@
 		<ul type="dot">
 			<li><u>Register</u> : As soon as you arrive on site you'll want to go check in at the trailer.  The people working registration will get you entered into the computer and help find out what class your car falls under.</li>
 			<li><u>Tape</u> :  After you've registered and gotten your car Class and Number you'll want to label your car as such.  Numbers should be at least 8" tall and letters should be at least 4" tall.  Don't use blue tape on a blue car, white tape on a white car, etc.  Make sure the numbers and letters are legible and don't make a 5 look like an S and vice versa.  We have tape provided at the event either in the trailer or in Tech Inspection.</li>
+			<li><u>Prepparing your car</u> : You will need to remove the driver's side floor mat and remove all loose items in the car before heading over to Tech Inspection.
 			<li><u>Tech Inspection</u> : Once you've registered and added your Number and Class to your car you'll want to bring your car over to the Tech Inspection area where they'll check for items such as wheel bearing, seat belts, gas pedal return, etc.  You can view the full list <a href="tech.php">here</a>.</li>
 		</ul>
 	</p>
