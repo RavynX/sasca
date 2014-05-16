@@ -6,9 +6,8 @@
 						<li><a href="index.php">Home</a></li>
 						<li>Club Info
 							<ul>
-								<li><a href="about.php">Who We Are</a></li>
+								<li><a style="color:yellow	" href="membership.php">Become a Member</a></li>
 								<li><a href="bod.php">BOD &amp; Chairs</a></li>
-								<li><a href="membership.php">Become a Member</a></li>
 								<li><a href="clubrules.php">Club Rules</a></li>
 								<li><a href="tech.php">Tech Inspection</a></li>
 								<li><a href="bylaws.php">By Laws</a></li>
@@ -16,7 +15,7 @@
 							</ul>
 						</li>
 						<li><a href="schedule.php">Schedule</a></li>
-						<li><a href="register.php">Register</a></li>
+						<li><a href="register.php">Event Sign Up</a></li>
 						<li>Novices
 							<ul>
 					        	<li><a href="firsttime.php">First Time?</a></li>

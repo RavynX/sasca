@@ -47,7 +47,7 @@
         			</tr>
         			<tr>
         				<td>Tech Inspection</td>
-        				<td class="time">08:30 - 09:30</td>
+        				<td class="time">08:30 - 09:45</td>
         			</tr>
         			<tr>
         				<td>Novice Walkthrough</td>

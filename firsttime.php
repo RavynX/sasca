@@ -7,7 +7,6 @@
 	<p class="desc">
 		<ul>
 			<li>Driver's License.  You must be 16 years old with a valid driver's license.  Permits do not count.</li>
-			<li>Your Car</li>
 		</ul>
 	</p>
 

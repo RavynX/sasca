@@ -101,6 +101,9 @@
 <div id="faq">
 	<h1>Frequently Asked Questions</h1><br/>
 	
+	<h2>What payment types are accepted?</h2>
+	<p class="ans">SASCA accepts Cash, Checks, Debit, and Credit Cards.</p>	
+
 	<h2>Do I have to register online?</h2>
 	<p class="ans">No, you may register on-site the day of the event but it's easier on both you and us if you pre-register online to streamline your time through checking in at the trailer in the morning.</p>
 
