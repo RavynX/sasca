@@ -18,6 +18,10 @@
 	<p>Anyone 18 years old and with a valid driver's license is able to join.  Family Memberships are available.</p>
 	<br/>
 
+	<h2>Where can I join SASCA?</h2>
+	<p>You can either pay at the event during Registration or you can sign up on Axware after logging in and navigating to My Controls &gt; My Clubs.  <a href="https://axwaresystems.com/axorm/memberdata_main.php" target="_blank">https://axwaresystems.com/axorm/memberdata_main.php</a>.  There is an additional $1 charge for registering on Axware versus at an event.</p>
+	<br/>
+
 	<h2>Any other details I should know?</h2>
 	<p>Regular Membership is $25 annually and you can sign up during anytime of the year either on Axware or at an event.  Memberships can be renewed during the month you signed up of the following year.  Family Memberships are $45 and include immediate family members.  See the SASCA By Laws for more details.</p>
 	<br/>
