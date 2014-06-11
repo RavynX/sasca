@@ -1,6 +1,6 @@
 @viewport{
-    zoom: 1.0;
-    width: extend-to-zoom;
+    /*zoom: 1.0;
+    width: extend-to-zoom;*/
 }
 
 @-ms-viewport{
@@ -205,13 +205,36 @@ body h2 {
 /* ******************************************************* */
 
 /* Index Page */
-#meeting {
-	padding: 10px;
-	border: 1px dashed #000000;
-	width: 200px;
+#sidebar {
 	float: right;
+	margin-left: 10px;
 }
 
+#sidebar .action_item {
+	margin-bottom: 10px;
+	width: 200px;
+}
+
+#sidebar .action_item .heading {
+	display: block;
+	width: 100%;
+	background-color: #000;
+	color: #FFF;
+	padding: 5px 0px;
+	text-align: center;
+}
+
+#sidebar .action_item .description {
+	background-color: #DDD;
+	padding: 7px;
+}
+
+.date {
+	font-weight: bold;
+	font-size: 12px;
+	margin-bottom: 5px;
+	color: #0f5bf7;
+}
 
 /* BOD */
 #bod {
@@ -347,7 +370,7 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
 
 /* Registration Page */
 #register {
-	width: 750px;
+	width: 775px;
 	margin: 0 auto 0 auto;
 }
 
@@ -368,10 +391,12 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
 	color: #FFF;
 	font-weight: bold;
 	white-space: nowrap;
+	font-size: 16px;
+	padding-left: 5px;
 }
 
 #events th.number {
-	width: 15px;
+	width: 55px;
 }
 
 #events th.date {
@@ -379,11 +404,11 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
 }
 
 #events th.location {
-	width: 150px;
+	width: 175px;
 }
 
 #events th.register {
-	width: 150px;
+	width: 125px;
 }
 
 #events th.info {
