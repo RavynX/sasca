@@ -24,7 +24,7 @@
         <li>Fees</li>
         <ol>
         	<li>Membership dues will be $25 per year.</li>
-        	<li>The autocross fee for pre-registered SASCA members is $20.00.</li>
+        	<li>The autocross fee for preregistered SASCA members is $20.00.</li>
         	<li>The autocross fee for all others is $25.00.</li>
         	<li>Autocross fees may be changed for special events.</li>
         	<li>Members holding a SASCA Chairman position receive free club membership during their active tenure.</li>
@@ -39,27 +39,27 @@
         		<table class="schedule">
         			<tr>
         				<td>Registration</td>
-        				<td class="time">08:30 - 09:30</td>
+        				<td class="time">08:30 - 09:30 am</td>
         			</tr>
         			<tr>
         				<td>Late Registration</td>
-        				<td class="time">09:30 - 09:45</td>
+        				<td class="time">09:30 - 09:45 am</td>
         			</tr>
         			<tr>
         				<td>Tech Inspection</td>
-        				<td class="time">08:30 - 09:45</td>
+        				<td class="time">08:30 - 09:45 am</td>
         			</tr>
         			<tr>
         				<td>Novice Walkthrough</td>
-        				<td class="time">10:00 - 10:30</td>
+        				<td class="time">10:00 - 10:30 am</td>
         			</tr>
         			<tr>
         				<td>Driver's Meeting</td>
-        				<td class="time">10:30 - 10:45</td>
+        				<td class="time">10:30 - 10:45 am</td>
         			</tr>
         			<tr>
         				<td>First Car Out</td>
-        				<td class="time">11:00 - </td>
+        				<td class="time">11:00 am </td>
         			</tr>
         		</table>
         	</li>
