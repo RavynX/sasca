@@ -7,7 +7,7 @@
 	<p class="desc">
 		<ul>
 			<li>Drivers License.  You must be 16 years old with a valid drivers license.  Permits do not count.</li>
-			<li>If you are under 18 years old you must have 
+			<li>If you are under 18 years old you must have parental consent.</li>
 		</ul>
 	</p>
 
