@@ -46,6 +46,10 @@
 			<td class="name">James-Erik Ferguson</td>
 		</tr>
 		<tr>
+			<td class="title" class="title">Sound Steward</td>
+			<td class="name">James Bricken</td>
+		</tr>
+		<tr>
 			<td class="title">Equipment Manager</td>
 			<td class="name">Walt Motley</td>
 		</tr>
