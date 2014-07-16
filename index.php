@@ -29,6 +29,11 @@
 <p style="margin-top: 8px;">Thanks for swinging on by!  We're your local autocross club for the San Antonio, TX area.  Interested in seeing what we're about?  Come to our next event or one of our monthly meetings and introduce yourself.  It's free to spectate and many people offer their passenger seat for ride-alongs.</p>
 <br/>
 
+<h1>Spokes Co-Hosted Event at CoTA, July 20th!</h1>
+<p class="date">July 15, 2014</p>
+<p>Spokes is hosting their July 20th event at Circuit of the Americas in Lot H!  The event is limited to 160 entrants so you must register and pre-pay on Axware.  Other limitations include (1) must be at least 18 years old with a valid drivers license (2) Entry fee of $36 for members or $41 for non-members (3) you must register and pre-pay on Axware (no refunds or walk ups) (4) and lastly no Double entries are allowed at this time but may open up later this week.  Check the <a href="register.php">Event Sign-Up page</a> for more information.</p>
+<br/>
+
 <h1>Points Event #6 Venue Lot Change</h1>
 <p class="date">June 20, 2014</p>
 <p>Attenion everyone: If you are planning to attend SASCA Points Event #6 out at Retama please be advised that for this event in particular Retama staff has asked the club to run the event in the vallet lot on the East side of the venue due to the horse races.  Please click the image for a full view.<br/><br/><a href="images/retama_revised.jpg" target="_blank"><img src="images/retama_revised.jpg" height="200px;"></a></p>

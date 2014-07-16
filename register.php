@@ -56,9 +56,9 @@
 		<tr>
 			<td>#7 </td>
 			<td>July 20</td>
-			<td><a href="#" target="_blank">TBD</a></td>
+			<td><a href="http://goo.gl/maps/lrzOI" target="_blank">CoTA</a></td>
 			<td><a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=11737" target="_blank">Register Here</a></td>
-			<td class="info"><a href="http://www.spokes.org/" target="_blank">Spokes</a> hosted Co-Event</td>
+			<td class="info"><a href="http://www.spokes.org/" target="_blank">Spokes</a> hosted Co-Event (Must Prepay on Axware)</td>
 		</tr>
 		<tr>
 			<td>#8 </td>
