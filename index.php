@@ -36,7 +36,7 @@
 
 <h1>Points Event #6 Venue Lot Change</h1>
 <p class="date">June 20, 2014</p>
-<p>Attenion everyone: If you are planning to attend SASCA Points Event #6 out at Retama please be advised that for this event in particular Retama staff has asked the club to run the event in the vallet lot on the East side of the venue due to the horse races.  Please click the image for a full view.<br/><br/><a href="images/retama_revised.jpg" target="_blank"><img src="images/retama_revised.jpg" height="200px;"></a></p>
+<p>Attenion everyone: If you are planning to attend SASCA Points Event #6 out at Retama please be advised that for this event in particular Retama staff has asked the club to run the event in the vallet lot on the East side of the venue due to the horse races.  Please click the image for a full view.<br/><br/><a href="images/retama_revised.jpg" target="_blank"><img src="images/retama_revised.jpg" height="200px;" /></a></p>
 <br/>
 
 <h1>SCCA Solo National Championship Registration Opens</h1>
