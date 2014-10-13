@@ -4,16 +4,16 @@
 	<div id="event" class="action_item">
 		<p class="heading">Next Event</p>
 		<p class="description">Retama Park<br/>
-		June 22, 2014<br/>
+		November 9th, 2014<br/>
 		<br/>
 		<a href="register.php">See the Schedule</a><br/>
-		<a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=11673" target="_blank">Click here to Register</a>
+		<a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=11677" target="_blank">Click here to Register</a>
 		</p>
 	</div>
 
 	<div id="meeting" class="action_item">
 		<p class="heading">Monthly Meeting</p>
-		<p class="description">June 25th, 2014<br/>
+		<p class="description">October 15th, 2014<br/>
 			Chat Starts at 6:45pm<br/>
 			Meeting at 7:30pm<br/>
 			<br/>
