@@ -59,7 +59,7 @@
 		</tr>
 		<tr>
 			<td class="title">Timing and Scoring</td>
-			<td class="name">James-Erik Ferguson</td>
+			<td class="name">Ricky Crow</td>
 		</tr>
 		<tr>
 			<td class="title">Worker Chief</td>
