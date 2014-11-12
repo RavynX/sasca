@@ -4,16 +4,16 @@
 	<div id="event" class="action_item">
 		<p class="heading">Next Event</p>
 		<p class="description">Retama Park<br/>
-		November 9th, 2014<br/>
+		December 7th, 2014<br/>
 		<br/>
 		<a href="register.php">See the Schedule</a><br/>
-		<a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=11677" target="_blank">Click here to Register</a>
+		<a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=11675" target="_blank">Click here to Register</a>
 		</p>
 	</div>
 
 	<div id="meeting" class="action_item">
 		<p class="heading">Monthly Meeting</p>
-		<p class="description">October 15th, 2014<br/>
+		<p class="description">November 12th, 2014<br/>
 			Chat Starts at 6:45pm<br/>
 			Meeting at 7:30pm<br/>
 			<br/>
@@ -27,6 +27,11 @@
 </div>
 <h1>Welcome to SASCA!</h1>
 <p style="margin-top: 8px;">Thanks for swinging on by!  We're your local autocross club for the San Antonio, TX area.  Interested in seeing what we're about?  Come to our next event or one of our monthly meetings and introduce yourself.  It's free to spectate and many people offer their passenger seat for ride-alongs.</p>
+<br/>
+
+<h1>Board of Directors and Chair Elections!</h1>
+<p class="date">November 12, 2014</p>
+<p>It's that time of year again, to elect your 2015 BOD and nominate chair positions.  The BOD committe is selected by the club members present at the December 2014 meeting and the chair positions are elected by the existing BOD.  Tonight we will be having our November meeting to discuss this and the SASCA By Laws further.  Come on out!</p>
 <br/>
 
 <h1>Spokes Co-Hosted Event at CoTA, July 20th!</h1>
