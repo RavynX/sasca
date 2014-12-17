@@ -42,20 +42,20 @@
 			<td class="name">Jason Kupka</td>
 		</tr>
 		<tr>
-			<td class="title" class="title">Safety Steward</td>
-			<td class="name">James-Erik Ferguson</td>
+			<td class="title">Safety Steward</td>
+			<td class="name">Matt Harrell</td>
 		</tr>
 		<tr>
-			<td class="title" class="title">Sound Steward</td>
+			<td class="title">Sound Steward</td>
 			<td class="name">James Bricken</td>
 		</tr>
 		<tr>
 			<td class="title">Equipment Manager</td>
-			<td class="name">Walt Motley</td>
+			<td class="name">Jeff Chesnut</td>
 		</tr>
 		<tr>
 			<td class="title">Tech Inspection</td>
-			<td class="name">Alyssa Roetheli & Erika Robinson</td>
+			<td class="name">Alyssa Roetheli &nbsp; Erika Robinson</td>
 		</tr>
 		<tr>
 			<td class="title">Timing and Scoring</td>
@@ -67,7 +67,7 @@
 		</tr>
 		<tr>
 			<td class="title">Webmaster</td>
-			<td class="name">Shane Powell & Chris Leclair</td>
+			<td class="name">Shane Powell &nbsp; Chris Leclair</td>
 		</tr>
 	</table>
 </div>
