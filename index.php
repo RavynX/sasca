@@ -23,6 +23,10 @@
 			<br/>
 		</p>
 	</div>
+	<div id="twitter_feed">
+		<a class="twitter-timeline" href="https://twitter.com/sascaracing" data-widget-id="555167603816022016">Tweets by @sascaracing</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+	</div>
 </div>
 <h1>Welcome to SASCA!</h1>
 <p style="margin-top: 8px;">Thanks for swinging on by!  We're your local autocross club for the San Antonio, TX area.  Interested in seeing what we're about?  Come to our next event or one of our monthly meetings and introduce yourself.  It's free to spectate and many people offer their passenger seat for ride-alongs.</p>

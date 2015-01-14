@@ -25,7 +25,7 @@
 						</li>
 						<li><a href="calendar.php">Calendar</a></li>
 						<li><a target="_blank" href="http://www.sasca.org/forum/">Forum</a></li>
-						<li><a target="_blank" href="https://www.facebook.com/groups/99973330301/">Facebook</a></li>
+						<li><a target="_blank" href="https://www.facebook.com/SASCAracing">Facebook</a></li>
 					</ul>
 				</div>
 				<div id="logo"></div>
