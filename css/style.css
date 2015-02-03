@@ -25,7 +25,7 @@ body {
 	background: url('../images/blue_flag_1.png') no-repeat fixed #000000;
 	background-repeat:no-repeat;
 	background-attachment:fixed;
-	background-position:center top; 
+	background-position:center top;
 }
 
 a, a:visited {
@@ -81,54 +81,54 @@ body h2 {
 
 #nav li {
 	color: #FFFFFF;
-	list-style: none; 
-	float: left; 
-	width: 120px; 
-	height: 27px; 
-	line-height: 27px; 
+	list-style: none;
+	float: left;
+	width: 120px;
+	height: 27px;
+	line-height: 27px;
 	text-align: center;
 	white-space: none;
 }
 
-#nav li a { 
+#nav li a {
 	color: #FFFFFF;
-	text-decoration: none; 
-	display: block; 
-} 
+	text-decoration: none;
+	display: block;
+}
 
-#nav li:hover, #nav li a:hover { 
+#nav li:hover, #nav li a:hover {
 	background-color: #151ea7;
 }
 
-#nav li ul { 
-	position: absolute;  
-	display: none; 
-} 
-#nav li:hover ul { 
-	display: block; 
-} 
-#nav li ul li { 
-	float: none; 
-	display: inline; 
+#nav li ul {
+	position: absolute;
+	display: none;
+}
+#nav li:hover ul {
+	display: block;
+}
+#nav li ul li {
+	float: none;
+	display: inline;
 	text-align: left;
 	white-space: nowrap;
 }
 
-#nav li ul li a { 
+#nav li ul li a {
 	/*width: 150px; */
-	position: relative; 
-	border-left: 1px solid #000000; 
-	border-right: 1px solid #000000; 
-	border-bottom: 1px solid #000000; 
-	background: #333; 
-	color: #fff; 
+	position: relative;
+	border-left: 1px solid #000000;
+	border-right: 1px solid #000000;
+	border-bottom: 1px solid #000000;
+	background: #333;
+	color: #fff;
 	padding-left: 7px;
 	padding-right: 15px;
 }
-#nav li ul li a:hover { 
-	background: #151ea7; 
-	color: #FFF; 
-} 
+#nav li ul li a:hover {
+	background: #151ea7;
+	color: #FFF;
+}
 
 #content-container {
 	height: 100%;
@@ -144,6 +144,10 @@ body h2 {
 	color: #333;
 	padding-top: 13px;
 	text-align: center;
+}
+
+#twitter_feed {
+  height: 300px;
 }
 
 
@@ -172,7 +176,7 @@ body h2 {
 
 	}
 
-	nav ul, nav:active ul { 
+	nav ul, nav:active ul {
 
 		display: none;
 		position: absolute;
@@ -375,7 +379,7 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
 }
 
 #events {
-	
+
 }
 
 #events td {

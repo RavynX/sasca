@@ -4,23 +4,25 @@
 	<div id="event" class="action_item">
 		<p class="heading">Next Event</p>
 		<p class="description">Retama Park<br/>
-		Valet Lot<br/>
-		January 11, 2015<br/>
+		Lot 4<br/>
+		February 8, 2015<br/>
 		<br/>
 		<a href="register.php">See the Schedule</a><br/>
-		<a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=11940" target="_blank">Click here to Register</a>
+		<a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=11941" target="_blank">Click here to Register</a>
 		</p>
 	</div>
 
 	<div id="meeting" class="action_item">
-		<p class="heading">2014 Awards Banquet</p>
-		<p class="description">January 17th, 2015<br/>
-			6:30pm - 9:30pm<br/>
-			<a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=11939&selectclubid=25&curmonthindex=0&curyearindex=9">Click Here for Details</a><br/>
-			<a href="http://goo.gl/maps/SU52D" target="_blank">Retama Park<br/>
-				1 Retama Parkway<br/>
-				Selma, TX 78154</a><br/>
+		<p class="heading">February Meeting</p>
+			<p class="description">February 11th, 2015<br/>
+			Chat Starts at 6:45pm<br/>
+			Meeting at 7:30pm<br/>
 			<br/>
+			<a href="https://goo.gl/maps/4lY9l" target="_blank">Grady's Bar B Que<br/>
+			327 E Nakoma Dr<br/>
+			San Antonio, TX 78216</a><br/>
+			<br/>
+			Didn't get a chance to make it to the monthly meeting? <a href="http://www.sasca.org/forum/index.php/board,35.0.html" target="_blank">Click here</a> to view prior meeting minutes and see what's been going on.
 		</p>
 	</div>
 	<div id="twitter_feed">
