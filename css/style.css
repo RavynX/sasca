@@ -146,9 +146,6 @@ body h2 {
 	text-align: center;
 }
 
-#twitter_feed {
-  height: 300px;
-}
 
 
 
@@ -209,17 +206,34 @@ body h2 {
 /* ******************************************************* */
 
 /* Index Page */
-#sidebar {
+
+#sidebar_left {
+  float: left;
+  margin-right: 15px;
+}
+
+#twitter_feed {
+  height: 300px;
+}
+
+#content {
+  width: 500px;
+  display: inline-block;
+}
+
+#sidebar_right {
+  width: 200px;
 	float: right;
+  display: inline-block;
 	margin-left: 10px;
 }
 
-#sidebar .action_item {
+#sidebar_right .action_item {
 	margin-bottom: 10px;
 	width: 200px;
 }
 
-#sidebar .action_item .heading {
+#sidebar_right .action_item .heading {
 	display: block;
 	width: 100%;
 	background-color: #000;
@@ -228,7 +242,7 @@ body h2 {
 	text-align: center;
 }
 
-#sidebar .action_item .description {
+#sidebar_right .action_item .description {
 	background-color: #DDD;
 	padding: 7px;
 }
