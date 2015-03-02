@@ -27,73 +27,73 @@
 		</tr>
 		<tr>
 			<td>#3 </td>
-			<td>March 22</td>
-			<td><a href="http://goo.gl/maps/SU52D" target="_blank">Retama Park</a></td>
-			<td><a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=11942" target="_blank">Register Here</a></td>
-			<td class="info"></td>
+			<td>March 21</td>
+			<td><a href="http://goo.gl/maps/nIz4r" target="_blank">RCCC</a></td>
+			<td><a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=" target="_blank">Soon!</a></td>
+			<td class="info">Saturday Event!</td>
 		</tr>
 		<tr>
 			<td>#4 </td>
-			<td>April 19</td>
-			<td>TBD</td>
-			<td></td>
-			<td class="info"></td>
+			<td>May 2</td>
+			<td><a href="http://goo.gl/maps/nIz4r">RCCC</a></td>
+			<td><a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=" target="_blank">Soon!</a></td>
+			<td class="info">Saturday Event!</td>
 		</tr>
 		<tr>
 			<td>#5 </td>
-			<td>May 17</td>
-			<td>TBD</td>
-			<td></td>
-			<td class="info"></td>
+			<td>May 30</td>
+			<td><a href="http://goo.gl/maps/nIz4r">RCCC</a></td>
+			<td><a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=" target="_blank">Soon!</a></td>
+			<td class="info">Saturday Event!</td>
 		</tr>
 		<tr>
 			<td>#6 </td>
-			<td>June 28</td>
-			<td>TBD</td>
-			<td></td>
-			<td class="info"></td>
+			<td>June 27</td>
+			<td><a href="http://goo.gl/maps/nIz4r">RCCC</a></td>
+			<td><a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=" target="_blank">Soon!</a></td>
+			<td class="info">Saturday Event!</td>
 		</tr>
 		<tr>
 			<td>#7 </td>
-			<td>July 26</td>
-			<td>TBD</td>
-			<td></td>
-			<td class="info"></td>
+			<td>July 25</td>
+			<td><a href="http://goo.gl/maps/nIz4r">RCCC</a></td>
+			<td><a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=" target="_blank">Soon!</a></td>
+			<td class="info">Saturday Event!</td>
 		</tr>
 		<tr>
 			<td>#8 </td>
-			<td>August 16</td>
-			<td>TBD</td>
-			<td></td>
-			<td class="info"></td>
+			<td>August 15</td>
+			<td><a href="http://goo.gl/maps/nIz4r">RCCC</a></td>
+			<td><a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=" target="_blank">Soon!</a></td>
+			<td class="info">Saturday Event!</td>
 		</tr>
 		<tr>
 			<td>#9 </td>
-			<td>September 27</td>
-			<td>TBD</td>
-			<td></td>
-			<td class="info"></td>
+			<td>September 26</td>
+			<td><a href="http://goo.gl/maps/nIz4r">RCCC</a></td>
+			<td><a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=" target="_blank">Soon!</a></td>
+			<td class="info">Saturday Event!</td>
 		</tr>
 		<tr>
 			<td>#10 </td>
-			<td>October 18</td>
-			<td>TBD</td>
-			<td></td>
-			<td class="info"></td>
+			<td>October 17</td>
+			<td><a href="http://goo.gl/maps/nIz4r">RCCC</a></td>
+			<td><a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=" target="_blank">Soon!</a></td>
+			<td class="info">Saturday Event!</td>
 		</tr>
 		<tr>
 			<td>#11 </td>
-			<td>November 15</td>
-			<td>TBD</td>
-			<td></td>
-			<td class="info"></td>
+			<td>November 14</td>
+			<td><a href="http://goo.gl/maps/nIz4r">RCCC</a></td>
+			<td><a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=" target="_blank">Soon!</a></td>
+			<td class="info">Saturday Event!</td>
 		</tr>
 		<tr>
 			<td>#12 </td>
-			<td>December 6</td>
-			<td>TBD</td>
-			<td></td>
-			<td class="info"></td>
+			<td>December 5</td>
+			<td><a href="http://goo.gl/maps/nIz4r">RCCC</a></td>
+			<td><a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=" target="_blank">Soon!</a></td>
+			<td class="info">Saturday Event!</td>
 		</tr>
 	</table>
 </div>
@@ -111,10 +111,13 @@
 	<p class="ans">Whether you register online or on-site, you will pay when you check in at the trailer on race day.</p>
 
 	<h2>How long do I have to preregister online?</h2>
-	<p class="ans">You have until midnight on the Friday before the event to preregister on online.</p>
+	<p class="ans">You have until midnight on the Friday before the event to preregister online.</p>
 
 	<h2>What if I'm preregistered and I have to change a numer/class/car/etc on race day?</h2>
 	<p class="ans">You may change what you need to on race day during the check-in process at the trailer.  Just go to the non-preregistered side of the trailer (the side with the computer) in order to change details on your registration.</p>
+
+	<h2>How do I register for the 'Double' PAX class?</h2>
+	<p class="ans">Doubles are no longer pre-register option.  We are currently limiting the Double class to the first 15 drivers who sign up at the event.  You must be a member to register as a Double participant and you must work two assignments.</p>
 </div>
 
 <?php include('footer.php') ?>

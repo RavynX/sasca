@@ -9,9 +9,11 @@
 	    <meta name="viewport" content="initial-scale=1, maximum-scale=1">
 		<link rel="stylesheet" type="text/css" href="css/reset.css" />
 		<link rel="stylesheet" type="text/css" href="css/style.css" />
-		
+		<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
+
 		<!--[if IE]> <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-		
-		<script src="js/jquery-1.10.2.min.js"></script>
+
+		<script type="text/javascript" src="js/jquery-1.11.2.min.js"></script>
+		<script type="text/javascript" src="js/bootstrap.min.js"></script>
 		<!-- sasca.js script included in footer.php -->
 	</head>
