@@ -36,63 +36,63 @@
 			<td>#4 </td>
 			<td>May 2</td>
 			<td><a href="http://goo.gl/maps/nIz4r">RCCC</a></td>
-			<td>Soon!</td>
+			<td><a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=12080" target="_blank">Register Here</a></td>
 			<td class="info">Saturday Event!</td>
 		</tr>
 		<tr>
 			<td>#5 </td>
 			<td>May 30</td>
 			<td><a href="http://goo.gl/maps/nIz4r">RCCC</a></td>
-			<td>Soon!</td>
+			<td><a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=12081" target="_blank">Register Here</a></td>
 			<td class="info">Saturday Event!</td>
 		</tr>
 		<tr>
 			<td>#6 </td>
 			<td>June 27</td>
 			<td><a href="http://goo.gl/maps/nIz4r">RCCC</a></td>
-			<td>Soon!</td>
+			<td><a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=12082" target="_blank">Register Here</a></td>
 			<td class="info">Saturday Event!</td>
 		</tr>
 		<tr>
 			<td>#7 </td>
 			<td>July 25</td>
 			<td><a href="http://goo.gl/maps/nIz4r">RCCC</a></td>
-			<td>Soon!</td>
+			<td><a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=12083" target="_blank">Register Here</a></td>
 			<td class="info">Saturday Event!</td>
 		</tr>
 		<tr>
 			<td>#8 </td>
 			<td>August 15</td>
 			<td><a href="http://goo.gl/maps/nIz4r">RCCC</a></td>
-			<td>Soon!</td>
+			<td><a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=12084" target="_blank">Register Here</a></td>
 			<td class="info">Saturday Event!</td>
 		</tr>
 		<tr>
 			<td>#9 </td>
 			<td>September 26</td>
 			<td><a href="http://goo.gl/maps/nIz4r">RCCC</a></td>
-			<td>Soon!</td>
+			<td><a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=12085" target="_blank">Register Here</a></td>
 			<td class="info">Saturday Event!</td>
 		</tr>
 		<tr>
 			<td>#10 </td>
 			<td>October 17</td>
 			<td><a href="http://goo.gl/maps/nIz4r">RCCC</a></td>
-			<td>Soon!</td>
+			<td><a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=12086" target="_blank">Register Here</a></td>
 			<td class="info">Saturday Event!</td>
 		</tr>
 		<tr>
 			<td>#11 </td>
 			<td>November 14</td>
 			<td><a href="http://goo.gl/maps/nIz4r">RCCC</a></td>
-			<td>Soon!</td>
+			<td><a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=12087" target="_blank">Register Here</a></td>
 			<td class="info">Saturday Event!</td>
 		</tr>
 		<tr>
 			<td>#12 </td>
 			<td>December 5</td>
 			<td><a href="http://goo.gl/maps/nIz4r">RCCC</a></td>
-			<td>Soon!</td>
+			<td><a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=12088"Soon target="_blank">Register Here</a></td>
 			<td class="info">Saturday Event!</td>
 		</tr>
 	</table>
