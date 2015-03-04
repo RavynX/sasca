@@ -35,18 +35,18 @@
 			<div id="sidebar_right">
 			<div id="event" class="action_item">
 			<p class="heading">Next Event</p>
-			<p class="description">Retama Park<br/>
-			Lot 4<br/>
-			February 8, 2015<br/>
+			<p class="description">River City Community Church<br/>
+			Saturday, Event #3<br/>
+			March 21, 2015<br/>
 			<br/>
 			<a href="register.php">See the Schedule</a><br/>
-			<a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=11941" target="_blank">Click here to Register</a>
+			<a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=12078" target="_blank">Click here to Register</a>
 			</p>
 			</div>
 
 			<div id="meeting" class="action_item">
-			<p class="heading">February Meeting</p>
-			<p class="description">February 11th, 2015<br/>
+			<p class="heading">Next Meeting</p>
+			<p class="description">March 25th, 2015<br/>
 			Chat Starts at 6:45pm<br/>
 			Meeting at 7:30pm<br/>
 			<br/>
