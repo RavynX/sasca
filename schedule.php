@@ -32,19 +32,19 @@
 					<td class="desc">Registration</td>
 					<td class="time">7:30 am</td>
 					<td class="dash">-</td>
-					<td>8:45 am</td>
+					<td>8:30 am</td>
 				</tr>
 				<tr>
 					<td class="desc">Late Registration</td>
-					<td class="time">8:45 am</td>
+					<td class="time">8:30 am</td>
 					<td class="dash">-</td>
-					<td>9:00 am</td>
+					<td>8:45 am</td>
 				</tr>
 				<tr>
 					<td class="desc">Tech Inspection</td>
 					<td class="time">7:30 am</td>
 					<td class="dash">-</td>
-					<td>9:00 am</td>
+					<td>8:45 am</td>
 				</tr>
 				<tr>
 					<td class="desc">Novice Walkthrough</td>
