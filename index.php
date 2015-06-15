@@ -46,7 +46,7 @@
 
 			<div id="meeting" class="action_item">
 			<p class="heading">Next Meeting</p>
-			<p class="description">June 3rd, 2015<br/>
+			<p class="description">July 1st, 2015<br/>
 			Chat Starts at 6:45pm<br/>
 			Meeting at 7:30pm<br/>
 			<br/>
