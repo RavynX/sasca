@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en" ng-app="sascaApp">
+	<head>
+		<base href="/index.html">
+		<title>SASCA - San Antonio Sports Car Association</title>
+		<meta name="description" content="SASCA - San Antonio Sports Car Association : The Autocrossing community from San Antonio, TX.">
+		<meta name="author" content="Chris Leclair">
+		<meta charset="utf-8"/>
+
+		<!--Mobile specific meta goodness :)-->
+		<meta name="viewport" content="initial-scale=1, maximum-scale=1">
+
+		<script src="node_modules/angular/angular.js"></script>
+		<script src="node_modules/angular/angular-route.js"></script>
+		<script src="app.js"></script>
+
+		<link rel="stylesheet" type="text/css" href="assets/css/reset.css"/>
+		<link rel="stylesheet" type="text/css" href="assets/css/bootstrap/bootstrap.css"/>
+		<link rel="stylesheet" type="text/css" href="assets/css/style.css"/>
+		<link rel="SHORTCUT ICON" href="/favicon.ico">
+
+		<!--[if IE]> <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
+		<script type="text/javascript" src="assets/js/jquery-1.11.2.min.js"></script>
+		<script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
+		<!-- sasca.js script included in footer -->
+	</head>
+
+	<body ng-controller="HomeCtrl">
+		<div id="page-container">
+			<div id="header-container">
+				<div id="nav" ng-include="'modules/nav/navView.html'"></div>
+				<div id="logo"></div>
+			</div>
+			<div id="content-container" ng-view>
+
+			</div>
+			<div id="footer-container">
+				<script src="assets/js/sasca.js"></script>
+					©2009 SASCA All rights reserved
+				</div>
+			</div>
+		<script src="modules/home/homeCtrl.js"></script>
+    <script src="modules/info/infoCtrl.js"></script>
+    <script src="modules/schedule/scheduleCtrl.js"></script>
+    <script src="modules/events/eventsCtrl.js"></script>
+    <script src="modules/novice/noviceCtrl.js"></script>
+    <script src="modules/calendar/calendarCtrl.js"></script>
+	</body>
+</html>
