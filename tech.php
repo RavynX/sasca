@@ -1,5 +1,5 @@
-<?php include('header.php') ?>
-<?php include('nav.php') ?>
+<?php include 'index.php' ?>
+<?php startblock('content') ?>
 <h1>Tech Inspection Checklist</h1>
 <div id="tech">
 	<p class="top">This is a list of items that will be checked in order to pass tech inspection for SASCA autocross.  If you have a SASCA annual tech inspection sticker you must perform these checks every event yourself.</p>
@@ -42,4 +42,4 @@
 	    <li>Special classing letters such as Novice (N) or Double (D) should precede the classing letters.
 	</ol>
 </div>
-<?php include('footer.php') ?>
+<?php endblock() ?>

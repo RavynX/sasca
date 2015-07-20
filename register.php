@@ -1,5 +1,5 @@
-<?php include('header.php') ?>
-<?php include('nav.php') ?>
+<?php include 'index.php' ?>
+<?php startblock('content') ?>
 <h1>Online Registration</h1><br/>
 <div id="register">
 	<h2>2015 SASCA Schedule</h2>
@@ -120,4 +120,4 @@
 	<p class="ans">Doubles are no longer pre-register option.  We are currently limiting the Double class to the first 15 drivers who sign up at the event.  You must be a member to register as a Double participant and you must work two assignments.</p>
 </div>
 
-<?php include('footer.php') ?>
+<?php endblock() ?>

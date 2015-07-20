@@ -1,15 +1,15 @@
-<?php include('header.php') ?>
-<?php include('nav.php') ?>
+<?php include 'index.php' ?>
+<?php startblock('content') ?>
 <div id="bylaws">
 	<p class="heading top">BY-LAWS OF SASCA, INC.</p>
 	<p class="subheading">(Formerly known as San Antonio Sports Car Association, Inc.)</p>
-	
+
 	<p class="heading">ARTICLE I</p>
 	<p class="subheading">Name, Purpose and Emblem</p>
-	
+
 	<p class="section">Section 1</p>
 	<p class="description"><u>Name.</u> The name of the corporation shall be SASCA, INC.</p>
-	
+
 	<p class="section">Section 2</p>
 	<p class="description"><u>Purpose.</u> The general purpose of the corporation shall be to encourage the preservation, ownership and operation of Sports Cars, to act as a source of technical information, to establish rules and regulations covering all activities of the corporation, to provide and regulate motor sports events, activities and exhibitions for Sports Cars and their owners, to encourage careful and skillful driving on the public highways, and to own real and personal property, as incidental to the foregoing purposes.</p>
 
@@ -69,7 +69,7 @@
 	<p class="description"><u>Meeting Quorum.</u> At all meetings of the members, those regular members present shall constitute a meeting quorum.</p>
 
 	<p class="section">Section 6</p>
-	<p class="description"><u>Voting.</u> All action except amendment of the By-Laws and elections of Officers shall be by majority of those present and voting. Voting by proxy and absentee shall not be allowed for regular business.</p>	 
+	<p class="description"><u>Voting.</u> All action except amendment of the By-Laws and elections of Officers shall be by majority of those present and voting. Voting by proxy and absentee shall not be allowed for regular business.</p>
 
 	<p class="heading">ARTICLE IV</p>
 	<p class="subheading">Sanctioned Events or Activities</p>
@@ -154,4 +154,4 @@
 	<p class="description"><u>Notice of Proposal and Approval.</u> Formal notice of the proposed amendment to the By-Laws or Articles of Incorporation shall be emailed to the membership at the email address noted on their membership application or as updated in writing to SASCA's Secretary no later than ten days prior to the next meeting at which the pro­posal will be voted upon. Approval shall constitute a majority vote of those who vote. Proxy votes shall be accepted.</p>
 
 </div>
-<?php include('footer.php') ?>
+<?php endblock() ?>

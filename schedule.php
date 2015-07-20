@@ -1,5 +1,5 @@
-<?php include('header.php') ?>
-<?php include('nav.php') ?>
+<?php include 'index.php' ?>
+<?php startblock('content') ?>
 <div class="schedule">
 	<ul class="nav nav-tabs" id="scheduleTabs">
 		<li class="active"><a href="#rccc">RCCC</a></li>
@@ -130,4 +130,4 @@
 	<br/>
 </div>
 
-<?php include('footer.php') ?>
+<?php endblock() ?>

@@ -1,5 +1,5 @@
-<?php include('header.php') ?>
-<?php include('nav.php') ?>
+<?php include 'index.php' ?>
+<?php startblock('content') ?>
 <div id="bod">
 	<h1>2014 Board of Directors</h1>
 	<table class="chairs">
@@ -71,4 +71,4 @@
 		</tr>
 	</table>
 </div>
-<?php include('footer.php') ?>
+<?php endblock() ?>

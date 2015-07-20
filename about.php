@@ -1,4 +1,4 @@
-<?php include('header.php') ?>
-<?php include('nav.php') ?>
+<?php include 'index.php' ?>
+<?php startblock('content') ?>
 About page...
-<?php include('footer.php') ?>
+<?php endblock() ?>

@@ -1,5 +1,5 @@
-<?php include('header.php') ?>
-<?php include('nav.php') ?>
+<?php include 'index.php' ?>
+<?php startblock('content') ?>
 <div id="rules">
 	<p class="heading">San Antonio Sports Car Association</p>
 	<p class="heading">2014 Autocross Rules</p>
@@ -12,7 +12,7 @@
 			<li>Unless otherwise stated below, autocross events are governed by the Sports Car Club of America's (SCCA) SOLO I & II RULES.  Since the new rulebook is not available on 1 January, the old rules are used until it is available.  The Autocross Chair ensures that copies of the current rules and this document are available at events.</li>
 			<li>SCCA rules may be modified by statements in the FASTRACK section of SPORTS CAR magazine. A driver is responsible for providing the appropriate FASTRACK if necessary to resolve disputes.</li>
         </ol>
-        
+
         <li>Autocross and Safety Chairs</li>
         <ol>
 			<li>These Chairs are responsible for ensuring that courses are appropriate and safe.  If they can't attend an event, the BOD names temporary Chairs.</li>
@@ -20,7 +20,7 @@
 			<li>The Chairs may change a course at any time if driver or vehicle safety is compromised.  If they do so, drivers who have completed any runs get reruns.  With the concurrence of the BOD members present, they may suspend or terminate an event if factors other than the course (e.g., weather) compromise driver safety.</li>
 			<li>Anyone at an event may bring a safety issue to the Chairs' attention.</li>
         </ol>
-        
+
         <li>Fees</li>
         <ol>
         	<li>Membership dues will be $25 per year.</li>
@@ -30,7 +30,7 @@
         	<li>Members holding a SASCA Chairman position receive free club membership during their active tenure.</li>
         	<li>An additional event fee of $5 will be levied during the late registration period.</li>
         </ol>
-        
+
         <li>Schedule</li>
         <ul>
         	<li>Generally, no registration will be allowed after the close of late registration. The President or his representative may consider allowing a driver late registration under dire circumstances. The BOD may modify the default schedule below if events warrent a change.</li>
@@ -64,14 +64,14 @@
         		</table>
         	</li>
         </ul>
-        
+
         <li>Driver Restrictions</li>
         <ol>
         	<li>Drivers may double enter an event but only one entry will have standings count for end-of-year Class or Pax trophies.  The number of drivers allowed to double enter may be restricted on a first come first served basis.</li>
         	<li>The Eventmaster, Autocross Chair, or Safety Chair may drive the course before an event to estimate the course time or evaluate course safety.  If they are competing, the car used must be other than the one used in competition.</li>
         	<li>Drivers who do not promptly report to the Eventmaster for work when required will not be allowed to take any further runs.  Additionally, any runs taken prior to that time will be changed to DNS (did not show) and their names will be stricken from all results. The BOD may blacklist a driver from future SASCA events for a pattern of failures to report for worker duty.</li>
         </ol>
-        
+
         <li>Bumping</li>
         <ul>
         	<li>Bumping (SCCA Rules) is not required.  A driver in a single car class may bump to make a two car class.</li>
@@ -150,4 +150,4 @@
         </ul>
     </ol>
 </div>
-<?php include('footer.php') ?>
+<?php endblock() ?>

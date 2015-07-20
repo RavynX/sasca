@@ -1,5 +1,5 @@
-<?php include('header.php') ?>
-<?php include('nav.php') ?>
+<?php include 'index.php' ?>
+<?php startblock('content') ?>
 <div id="firsttime">
 	<p>Welcome!  So you've taken the first step to starting autocross.  Kudos!  Check out the lists below to help you prepare for you first event to make it enjoyable and fun.</p>
 
@@ -40,4 +40,4 @@
 	<p class="desc">Course is usually open for walking starting around 9:00 to 9:30 am but around 9:45 am we have the Novice Stewards walk the novices through the course giving them tips on taking the proper line and noting key cones to look for.  It is highly recommended to attend the Novice Course Walk.</p>
 
 </div>
-<?php include('footer.php') ?>
+<?php endblock() ?>

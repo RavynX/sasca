@@ -7,13 +7,13 @@
 		<meta name="author" content="Chris Leclair">
 		<!--Mobile specific meta goodness :)-->
 	    <meta name="viewport" content="initial-scale=1, maximum-scale=1">
-		<link rel="stylesheet" type="text/css" href="css/reset.css" />
-		<link rel="stylesheet" type="text/css" href="css/style.css" />
-		<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
+		<link rel="stylesheet" type="text/css" href="assets/css/reset.css" />
+		<link rel="stylesheet" type="text/css" href="assets/css/style.css" />
+		<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css" />
 
 		<!--[if IE]> <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 
-		<script type="text/javascript" src="js/jquery-1.11.2.min.js"></script>
-		<script type="text/javascript" src="js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="assets/js/jquery-1.11.2.min.js"></script>
+		<script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
 		<!-- sasca.js script included in footer.php -->
 	</head>
