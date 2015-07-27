@@ -398,6 +398,10 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
 
 }
 
+#events tr:nth-child(odd) {
+  background: #b8d0e8;
+}
+
 #events td {
 	text-align: center;
 	vertical-align: middle;
@@ -420,14 +424,17 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
 }
 
 #events th.date {
+  text-align: center;
 	width: 150px;
 }
 
 #events th.location {
+  text-align: center;
 	width: 175px;
 }
 
 #events th.register {
+  text-align: center;
 	width: 125px;
 }
 
