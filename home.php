@@ -18,7 +18,7 @@
 			Racing at RCCC means no more going back to work on Monday dragging due to heat exhaustion (at least for us old timers), earlier first-car-out times, two large, dedicated paddock and grid areas, and possibility of food vendors.<br/>
 			More to be posted on the SASCA forum <a href="http://www.sasca.org/forum/index.php/topic,5132.msg58518.html#msg58518" target="_blank">located here</a>.</p>
 			<br/>
-			<a href="images/rccc_lot.jpg" target="_blank"><img src="images/rccc_lot.jpg" style="width: 480px;"></a>
+			<a href="assets/images/rccc_lot.jpg" target="_blank"><img src="assets/images/rccc_lot.jpg" style="width: 480px;"></a>
 
 			<h1>2014 Awards Banquet!</h1>
 			<p class="date">January 5, 2015</p>
