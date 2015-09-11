@@ -34,17 +34,17 @@
 			<div id="event" class="action_item">
 			<p class="heading">Next Event</p>
 			<p class="description">River City Community Church<br/>
-			Saturday, Event #8<br/>
-			August 15, 2015<br/>
+			Saturday, Event #9<br/>
+			September 26, 2015<br/>
 			<br/>
 			<a href="register.php">See the Schedule</a><br/>
-			<a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=12084" target="_blank">Click here to Register</a>
+			<a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=12085" target="_blank">Click here to Register</a>
 			</p>
 			</div>
 
 			<div id="meeting" class="action_item">
 			<p class="heading">Next Meeting</p>
-			<p class="description">July 29th, 2015<br/>
+			<p class="description">September 30th, 2015<br/>
 			Chat Starts at 6:45pm<br/>
 			Meeting at 7:30pm<br/>
 			<br/>
