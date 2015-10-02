@@ -1,9 +1,3 @@
-<div id="sidebar_left">
-	<div id="twitter_feed">
-		<a class="twitter-timeline" href="https://twitter.com/sascaracing" data-widget-id="555167603816022016">Tweets by @sascaracing</a>
-		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-		</div>
-		</div>
 		<div id="content">
 			<h1>Welcome to SASCA!</h1>
 			<p style="margin-top: 8px;">Thanks for swinging on by!  We're your local autocross club for the San Antonio, TX area.  Interested in seeing what we're about?  Come to our next event or one of our monthly meetings and introduce yourself.  It's free to spectate and many people offer their passenger seat for ride-alongs.</p>
@@ -31,28 +25,28 @@
 			<br/>
 			</div>
 			<div id="sidebar_right">
-			<div id="event" class="action_item">
-			<p class="heading">Next Event</p>
-			<p class="description">River City Community Church<br/>
-			Saturday, Event #9<br/>
-			September 26, 2015<br/>
-			<br/>
-			<a href="register.php">See the Schedule</a><br/>
-			<a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=12085" target="_blank">Click here to Register</a>
-			</p>
-			</div>
+				<div id="event" class="action_item">
+				<p class="heading">Next Event</p>
+				<p class="description">River City Community Church<br/>
+				Saturday, Event #10<br/>
+				October 17, 2015<br/>
+				<br/>
+				<a href="register.php">See the Schedule</a><br/>
+				<a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=12086" target="_blank">Click here to Register</a>
+				</p>
+				</div>
 
-			<div id="meeting" class="action_item">
-			<p class="heading">Next Meeting</p>
-			<p class="description">September 30th, 2015<br/>
-			Chat Starts at 6:45pm<br/>
-			Meeting at 7:30pm<br/>
-			<br/>
-			<a href="https://goo.gl/maps/4lY9l" target="_blank">Grady's Bar B Que<br/>
-			327 E Nakoma Dr<br/>
-			San Antonio, TX 78216</a><br/>
-			<br/>
-			Didn't get a chance to make it to the monthly meeting? <a href="http://www.sasca.org/forum/index.php/board,35.0.html" target="_blank">Click here</a> to view prior meeting minutes and see what's been going on.
-			</p>
+				<div id="meeting" class="action_item">
+				<p class="heading">Next Meeting</p>
+				<p class="description">September 21st, 2015<br/>
+				Chat Starts at 6:45pm<br/>
+				Meeting at 7:30pm<br/>
+				<br/>
+				<a href="https://goo.gl/maps/4lY9l" target="_blank">Grady's Bar B Que<br/>
+				327 E Nakoma Dr<br/>
+				San Antonio, TX 78216</a><br/>
+				<br/>
+				Didn't get a chance to make it to the monthly meeting? <a href="http://www.sasca.org/forum/index.php/board,35.0.html" target="_blank">Click here</a> to view prior meeting minutes and see what's been going on.
+				</p>
+				</div>
 			</div>
-		</div>
