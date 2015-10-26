@@ -27,23 +27,24 @@
 			<div id="sidebar_right">
 				<div id="event" class="action_item">
 				<p class="heading">Next Event</p>
-				<p class="description">River City Community Church<br/>
-				Saturday, Event #10<br/>
-				October 17, 2015<br/>
+				<p class="description">TBD<br/>
+				Saturday, Event #11<br/>
+				November 14th, 2015<br/>
 				<br/>
 				<a href="register.php">See the Schedule</a><br/>
-				<a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=12086" target="_blank">Click here to Register</a>
+				<a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=12087" target="_blank">Click here to Register</a>
 				</p>
 				</div>
 
 				<div id="meeting" class="action_item">
 				<p class="heading">Next Meeting</p>
-				<p class="description">September 21st, 2015<br/>
-				Chat Starts at 6:45pm<br/>
+				<p class="description">Monday<br/>
+				November 16th, 2015<br/>
+				Chat Starts at 7:00pm<br/>
 				Meeting at 7:30pm<br/>
 				<br/>
-				<a href="https://goo.gl/maps/4lY9l" target="_blank">Grady's Bar B Que<br/>
-				327 E Nakoma Dr<br/>
+				<a href="https://goo.gl/maps/tvzSKbS4DTk" target="_blank">The Lion &amp; Rose British Restaurant &amp; Pub<br/>
+				842 NW Loop 410<br/>
 				San Antonio, TX 78216</a><br/>
 				<br/>
 				Didn't get a chance to make it to the monthly meeting? <a href="http://www.sasca.org/forum/index.php/board,35.0.html" target="_blank">Click here</a> to view prior meeting minutes and see what's been going on.
