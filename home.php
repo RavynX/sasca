@@ -10,7 +10,7 @@
 			For this change we are moving the events back to SUNDAY while at San Antonio Raceway.  Gate opens at 7am and Registration is from 7:30-8:30am.<br/>
 			</p>
 			<br/>
-			<a href="assets/images/sar_lot.jpg" target="_blank"><img src="assets/images/sar_lot.png" style="width: 480px;"></a>
+			<a href="assets/images/sar_lot.png" target="_blank"><img src="assets/images/sar_lot.png" style="width: 480px;"></a>
 
 			</div>
 			<div id="sidebar_right">
