@@ -1,7 +1,7 @@
 <?php include 'index.php' ?>
 <?php startblock('content') ?>
 <div class="schedule">
-	<h2>Schedule for River City Community Church (RCCC) Site</h2>
+	<h2>Schedule for San Antonio Raceway (SAR) Site</h2>
 	<table>
 		<tr>
 			<th></th>

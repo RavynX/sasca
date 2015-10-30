@@ -4,32 +4,21 @@
 			<br/>
 
 			<h1>New Venue Announcement!</h1>
-			<p class="date">February 28, 2015</p>
-			<p>We've secured River City Community Church for our new venue. This lot is larger than Retama Lot 4 and definitely larger than Retama's Valet lot.<br/>
+			<p class="date">October 30th, 2015</p>
+			<p>We've secured San Antonio Raceway for the last two autocrosses of the 2015 season.<br/>
 			<br/>
-			Also, YES this says SATURDAY. Autocross events for SASCA at River City Community Church will be on SATURDAYS. Can I say it one more time? SATURDAY autocrosses.<br/>
+			For this change we are moving the events back to SUNDAY while at San Antonio Raceway.  Gate opens at 7am and Registration is from 7:30-8:30am.<br/>
+			</p>
 			<br/>
-			Racing at RCCC means no more going back to work on Monday dragging due to heat exhaustion (at least for us old timers), earlier first-car-out times, two large, dedicated paddock and grid areas, and possibility of food vendors.<br/>
-			More to be posted on the SASCA forum <a href="http://www.sasca.org/forum/index.php/topic,5132.msg58518.html#msg58518" target="_blank">located here</a>.</p>
-			<br/>
-			<a href="assets/images/rccc_lot.jpg" target="_blank"><img src="assets/images/rccc_lot.jpg" style="width: 480px;"></a>
+			<a href="assets/images/sar_lot.jpg" target="_blank"><img src="assets/images/sar_lot.jpg" style="width: 480px;"></a>
 
-			<h1>2014 Awards Banquet!</h1>
-			<p class="date">January 5, 2015</p>
-			<p>It's just around the corner! Time to crown those year-end Champs, throw back a few, banter, and WIN SOME FABULOUS DOOR PRIZES! That's right, every adult who enters the party gets a ticket for entry into our door prize contest for this event.  Sign up ends January 5th. See you all there!</p>
-			<br/>
-
-			<h1>Board of Directors and Chair Elections!</h1>
-			<p class="date">November 12, 2014</p>
-			<p>It's that time of year again, to elect your 2015 BOD and nominate chair positions.  The BOD committe is selected by the club members present at the December 2014 meeting and the chair positions are elected by the existing BOD.  Tonight we will be having our November meeting to discuss this and the SASCA By Laws further.  Come on out!</p>
-			<br/>
 			</div>
 			<div id="sidebar_right">
 				<div id="event" class="action_item">
 				<p class="heading">Next Event</p>
-				<p class="description">TBD<br/>
-				Saturday, Event #11<br/>
-				November 14th, 2015<br/>
+				<p class="description">SAR<br/>
+				Sunday, Event #11<br/>
+				November 15th, 2015<br/>
 				<br/>
 				<a href="register.php">See the Schedule</a><br/>
 				<a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=12087" target="_blank">Click here to Register</a>

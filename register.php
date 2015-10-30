@@ -83,17 +83,17 @@
 		</tr>
 		<tr>
 			<td>#11 </td>
-			<td>November 14</td>
-			<td><a href="http://goo.gl/maps/nIz4r">RCCC</a></td>
+			<td>November 15</td>
+			<td><a href="https://goo.gl/maps/cKzPJfwN5zM2">SAR</a></td>
 			<td><a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=12087" target="_blank">Register Here</a></td>
-			<td class="info">Saturday Event!</td>
+			<td class="info">&nbsp;</td>
 		</tr>
 		<tr>
 			<td>#12 </td>
-			<td>December 5</td>
-			<td><a href="http://goo.gl/maps/nIz4r">RCCC</a></td>
-			<td><a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=12088"Soon target="_blank">Register Here</a></td>
-			<td class="info">Saturday Event!</td>
+			<td>December 6</td>
+			<td><a href="https://goo.gl/maps/cKzPJfwN5zM2">SAR</a></td>
+			<td><a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=12088" target="_blank">Register Here</a></td>
+			<td class="info">&nbsp;</td>
 		</tr>
 	</table>
 </div>
