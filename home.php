@@ -30,7 +30,7 @@
 				<p class="description">Monday<br/>
 				November 16th, 2015<br/>
 				Chat Starts at 7:00pm<br/>
-				Meeting at 9:00pm<br/>
+				Meeting at 7:30pm<br/>
 				<br/>
 				<a href="https://goo.gl/maps/XS5gcvvePw52" target="_blank">The Lion &amp; Rose Restaurant &amp; Pub<br/>
 				842 NW Loop 410<br/>
