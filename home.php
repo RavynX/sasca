@@ -17,20 +17,20 @@
 				<div id="event" class="action_item">
 				<p class="heading">Next Event</p>
 				<p class="description">SAR<br/>
-				Sunday, Event #11<br/>
-				November 15th, 2015<br/>
+				Sunday, Event #12<br/>
+				December 6th, 2015<br/>
 				<br/>
 				<a href="register.php">See the Schedule</a><br/>
-				<a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=12087" target="_blank">Click here to Register</a>
+				<a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=12088" target="_blank">Click here to Register</a>
 				</p>
 				</div>
 
 				<div id="meeting" class="action_item">
 				<p class="heading">Next Meeting</p>
 				<p class="description">Monday<br/>
-				November 16th, 2015<br/>
-				Chat Starts at 7:00pm<br/>
-				Meeting at 7:30pm<br/>
+				December 9th, 2015<br/>
+				Chat &nbsp; Food Starts at 6:30pm<br/>
+				Meeting starts at 7:30pm<br/>
 				<br/>
 				<a href="https://goo.gl/maps/XS5gcvvePw52" target="_blank">The Lion &amp; Rose Restaurant &amp; Pub<br/>
 				842 NW Loop 410<br/>
