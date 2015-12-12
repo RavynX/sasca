@@ -3,6 +3,19 @@
 			<p style="margin-top: 8px;">Thanks for swinging on by!  We're your local autocross club for the San Antonio, TX area.  Interested in seeing what we're about?  Come to our next event or one of our monthly meetings and introduce yourself.  It's free to spectate and many people offer their passenger seat for ride-alongs.</p>
 			<br/>
 
+			<h1>SASCA End of Year Awards Party</h1>
+			<p class="date">December 12th, 2015</p>
+			<p>The SASCA year-end party and awards banquet will be taking place at the Blue Star Brewery at 1414 S Alamo St, San Antonio, TX. 78210.  Come hungry and join us for dinner and awards presentation at 6:00pm on Saturday, January 30, 2015.<br/>
+			<br/>
+			It's just around the corner! Time to crown those year-end Champs, throw back a few, banter, and WIN SOME FABULOUS DOOR PRIZES! That's right, every adult who enters the party gets a ticket for entry into our door prize contest for this event.  Sign up ends January 22nd.  Dinner is free to members -- guests will be $15, paid at the banquet.  See you all there!<br/></p>
+			<br/>
+
+			<h1>Return to RCCC</h1>
+			<p class="date">December 12th, 2015</p>
+			<p>We're starting out the 2016 season at River City Community Church.<br/></p>
+			<br/>
+			<a href="assets/images/rccc_lot.jpg" target="_blank"><img src="assets/images/rccc_lot.jpg" style="width: 480px;"></a>
+
 			<h1>New Venue Announcement!</h1>
 			<p class="date">October 30th, 2015</p>
 			<p>We've secured San Antonio Raceway for the last two autocrosses of the 2015 season.<br/>
@@ -16,20 +29,20 @@
 			<div id="sidebar_right">
 				<div id="event" class="action_item">
 				<p class="heading">Next Event</p>
-				<p class="description">SAR<br/>
-				Sunday, Event #12<br/>
-				December 6th, 2015<br/>
+				<p class="description">RCCC<br/>
+				Saturday, Event #1<br/>
+				January 23rd, 2016<br/>
 				<br/>
 				<a href="register.php">See the Schedule</a><br/>
-				<a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=12088" target="_blank">Click here to Register</a>
+				<a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=12213" target="_blank">Click here to Register</a>
 				</p>
 				</div>
 
 				<div id="meeting" class="action_item">
 				<p class="heading">Next Meeting</p>
-				<p class="description">Monday<br/>
-				December 9th, 2015<br/>
-				Chat &nbsp; Food Starts at 6:30pm<br/>
+				<p class="description">Wednesday<br/>
+				January 27th, 2015<br/>
+				Chat &amp; Food Starts at 6:30pm<br/>
 				Meeting starts at 7:30pm<br/>
 				<br/>
 				<a href="https://goo.gl/maps/XS5gcvvePw52" target="_blank">The Lion &amp; Rose Restaurant &amp; Pub<br/>
