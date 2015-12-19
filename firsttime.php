@@ -21,7 +21,7 @@
 			<li><u>Tire Gauge</u> : We have an air compressor on site to fill your tires.  Bring a tire gauge to check and monitor tire pressures.</li>
 			<li><u>Tools</u> : Pushing your car to the limits will start to expose weak points.  You may need to adjust things that loosen so it's good to have tools to fix things.</li>
 			<li><u>Quart of Oil</u> : Make sure to check your oil level before heading to the event but bring a spare quart if your car is prone to burning oil.</li>
-			<li><u>A copy of the SCCA Rulebook</u>.  <a href="http://www.scca.com/assets/2014%20Solo%20Rules%20Book%207%20w%20cover%20and%20links.pdf">Click Here to Download</a> a copy to your phone.  Gotta love technology!</li>
+			<li><u>A copy of the SCCA Rulebook</u>.  <a target="_blank" href="http://www.scca.com/downloads/10060-2015-10-26-scca-solo-rules-book-online-reduced/download">Click Here to Download</a> a copy to your phone.  Gotta love technology!</li>
 		</ul>
 	</p>
 
