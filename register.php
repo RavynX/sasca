@@ -20,16 +20,16 @@
 		</tr>
 		<tr>
 			<td>#2 </td>
-			<td></td>
-			<td><a href="http://goo.gl/maps/SU52D" target="_blank">&nbsp;</a></td>
-			<td><a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=" target="_blank">TBD</a></td>
+			<td>February 20</td>
+			<td><a href="http://goo.gl/maps/nIz4r" target="_blank">RCCC</a></td>
+			<td><a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=12279" target="_blank">Register Here</a></td>
 			<td class="info"></td>
 		</tr>
 		<tr>
 			<td>#3 </td>
-			<td></td>
-			<td><a href="http://goo.gl/maps/nIz4r" target="_blank">&nbsp;</a></td>
-			<td><a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=" target="_blank">TBD</a></td>
+			<td>March 5</td>
+			<td><a href="http://goo.gl/maps/nIz4r" target="_blank">RCCC</a></td>
+			<td><a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=12290" target="_blank">Register Here</a></td>
 			<td class="info"></td>
 		</tr>
 		<tr>

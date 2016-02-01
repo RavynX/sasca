@@ -28,7 +28,7 @@ body {
 	background-position:center top;
 }
 
-a, a:visited {
+a:link, a:visited {
 	color: #ED002F;
 	text-decoration: none;
 }
