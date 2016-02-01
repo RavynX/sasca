@@ -39,27 +39,27 @@
         		<table class="schedule">
         			<tr>
         				<td>Registration</td>
-        				<td class="time">08:30 - 09:30 am</td>
+        				<td class="time">07:30 - 08:30 am</td>
         			</tr>
         			<tr>
         				<td>Late Registration</td>
-        				<td class="time">09:30 - 09:45 am</td>
+        				<td class="time">08:30 - 08:45 am</td>
         			</tr>
         			<tr>
         				<td>Tech Inspection</td>
-        				<td class="time">08:30 - 09:45 am</td>
+        				<td class="time">07:30 - 08:45 am</td>
         			</tr>
         			<tr>
         				<td>Novice Walkthrough</td>
-        				<td class="time">10:00 - 10:30 am</td>
+        				<td class="time">9:00 - 9:30 am</td>
         			</tr>
         			<tr>
         				<td>Driver's Meeting</td>
-        				<td class="time">10:30 - 10:45 am</td>
+        				<td class="time">9:30 - 9:45 am</td>
         			</tr>
         			<tr>
         				<td>First Car Out</td>
-        				<td class="time">11:00 am </td>
+        				<td class="time">10:00 am </td>
         			</tr>
         		</table>
         	</li>
