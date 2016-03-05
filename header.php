@@ -4,7 +4,6 @@
 		<meta charset="utf-8"/>
 		<title>SASCA - San Antonio Sports Car Association</title>
 		<meta name="description" content="SASCA - San Antonio Sports Car Association : The Autocrossing community from San Antonio, TX.">
-		<meta name="author" content="Chris Leclair">
 		<!--Mobile specific meta goodness :)-->
 	    <meta name="viewport" content="initial-scale=1, maximum-scale=1">
 		<link rel="stylesheet" type="text/css" href="assets/css/reset.css" />
