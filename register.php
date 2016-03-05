@@ -34,23 +34,23 @@
 		</tr>
 		<tr>
 			<td>#4 </td>
-			<td></td>
-			<td><a href="http://goo.gl/maps/nIz4r target="_blank"">&nbsp;</a></td>
-			<td><a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=" target="_blank">TBD</a></td>
+			<td>April 9</td>
+			<td><a href="http://goo.gl/maps/nIz4r" target="_blank">RCCC</a></td>
+			<td><a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=12313" target="_blank">Register Here</a></td>
 			<td class="info"></td>
 		</tr>
 		<tr>
 			<td>#5 </td>
-			<td></td>
-			<td><a href="http://goo.gl/maps/nIz4r" target="_blank">&nbsp;</a></td>
-			<td><a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=" target="_blank">TBD</a></td>
+			<td>May 21</td>
+			<td><a href="http://goo.gl/maps/nIz4r" target="_blank">RCCC</a></td>
+			<td><a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=12314" target="_blank">Register Here</a></td>
 			<td class="info"></td>
 		</tr>
 		<tr>
 			<td>#6 </td>
-			<td></td>
-			<td><a href="#" target="_blank">&nbsp;</a></td>
-			<td><a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=" target="_blank">TBD</a></td>
+			<td>June 25</td>
+			<td><a href="http://goo.gl/maps/nIz4r" target="_blank">RCCC</a></td>
+			<td><a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=12315" target="_blank">Register Here</a></td>
 			<td class="info"></td>
 		</tr>
 		<tr>
@@ -69,30 +69,30 @@
 		</tr>
 		<tr>
 			<td>#9 </td>
-			<td></td>
-			<td><a href="#" target="_blank">&nbsp;</a></td>
-			<td><a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=" target="_blank">TBD</a></td>
+			<td>September 24</td>
+			<td><a href="http://goo.gl/maps/nIz4r" target="_blank">RCCC</a></td>
+			<td><a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=12316" target="_blank">Register Here</a></td>
 			<td class="info"></td>
 		</tr>
 		<tr>
 			<td>#10 </td>
-			<td></td>
-			<td><a href="#" target="_blank">&nbsp;</a></td>
-			<td><a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=" target="_blank">TBD</a></td>
+			<td>October 15</td>
+			<td><a href="http://goo.gl/maps/nIz4r" target="_blank">RCCC</a></td>
+			<td><a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=12317" target="_blank">Register Here</a></td>
 			<td class="info"></td>
 		</tr>
 		<tr>
 			<td>#11 </td>
-			<td></td>
-			<td><a href="#" target="_blank">&nbsp;</a></td>
-			<td><a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=" target="_blank">TBD</a></td>
+			<td>November 12</td>
+			<td><a href="http://goo.gl/maps/nIz4r" target="_blank">RCCC</a></td>
+			<td><a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=12318" target="_blank">Register Here</a></td>
 			<td class="info">&nbsp;</td>
 		</tr>
 		<tr>
 			<td>#12 </td>
-			<td></td>
-			<td><a href="#" target="_blank">&nbsp;</a></td>
-			<td><a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=" target="_blank">TBD</a></td>
+			<td>December 10</td>
+			<td><a href="http://goo.gl/maps/nIz4r" target="_blank">RCCC</a></td>
+			<td><a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=12319" target="_blank">Register Here</a></td>
 			<td class="info">&nbsp;</td>
 		</tr>
 	</table>
