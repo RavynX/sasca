@@ -45,7 +45,7 @@
 			<div id="sidebar_right">
 				<div id="event" class="action_item">
 				<p class="heading">Next Event</p>
-					<p class="description">SAR<br/>
+					<p class="description">San Antonio Raceway<br/>
 						Sunday, Event #7<br/>
 						July 31st, 2016<br/>
 						<br/>
