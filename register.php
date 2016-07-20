@@ -55,10 +55,10 @@
 		</tr>
 		<tr>
 			<td>#7 </td>
-			<td>July 31</td>
-			<td><a href="https://goo.gl/maps/cKzPJfwN5zM2" target="_blank">SAR</a></td>
+			<td>July 30</td>
+			<td><a href="http://goo.gl/maps/nIz4r" target="_blank">RCCC</a></td>
 			<td><a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=12293" target="_blank">Register Here</a></td>
-			<td class="info">Spokes/SASCA Joint Event</td>
+			<td class="info">SASCA/Spokes Joint Event</td>
 		</tr>
 		<tr>
 			<td>#8 </td>

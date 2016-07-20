@@ -45,9 +45,9 @@
 			<div id="sidebar_right">
 				<div id="event" class="action_item">
 				<p class="heading">Next Event</p>
-					<p class="description">San Antonio Raceway<br/>
-						Sunday, Event #7<br/>
-						July 31st, 2016<br/>
+					<p class="description">River City Community Church<br/>
+						Saturday, Event #7<br/>
+						July 30th, 2016<br/>
 						<br/>
 						<a href="register.php">See the Schedule</a><br/>
 						<a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=12293" target="_blank">Click here to Register</a>
