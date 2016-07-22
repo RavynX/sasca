@@ -5,9 +5,9 @@
 		<meta charset="utf-8"/>
 		<title>SASCA - San Antonio Sports Car Association</title>
 		<meta name="description" content="SASCA - San Antonio Sports Car Association : The Autocrossing community from San Antonio, TX.">
-		<!--Mobile specific meta goodness :)-->
-	    <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+
 		<link rel="stylesheet" type="text/css" href="assets/css/reset.css" />
+		<link rel="stylesheet" type="text/css" href="assets/css/normalize.css" />
 		<link rel="stylesheet" type="text/css" href="assets/css/style.css" />
 		<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css" />
 
@@ -20,12 +20,12 @@
   <body>
     <div id="page-container">
       <div id="header-container">
-        <div id="nav">
+        <nav>
           <ul>
             <li><a href="index.php">Home</a></li>
             <li>Club Info
               <ul>
-                <li><a style="color:yellow	" href="membership.php">Become a Member</a></li>
+                <li><a href="membership.php">Become a Member</a></li>
                 <li><a href="bod.php">BOD &amp; Chairs</a></li>
                 <li><a href="clubrules.php">Club Rules</a></li>
                 <li><a href="tech.php">Tech Inspection</a></li>
@@ -46,16 +46,15 @@
             <li><a target="_blank" href="http://www.sasca.org/forum/">Forum</a></li>
             <li><a target="_blank" href="https://www.facebook.com/groups/SASCA210/">Facebook</a></li>
           </ul>
-        </div>
-        <div id="logo"></div>
+        </nav>
       </div>
       <div id="content-container">
 				<?php startblock('content') ?>
-					<?php include('home.php') ?>
+					<!--<?php include('home.php') ?>-->
 				<?php endblock() ?>
 			</div>
 			<div id="footer-container">
-				<script src="assets/js/sasca.js"></script>
+				<!--<script src="assets/js/sasca.js"></script>-->
 				©2009 SASCA All rights reserved
 			</div>
 		</div>
