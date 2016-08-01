@@ -14,6 +14,7 @@
 		<!-- Styles -->
 		<link rel="stylesheet" type="text/css" href="assets/css/reset.css" />
 		<link rel="stylesheet" type="text/css" href="assets/css/normalize.css" />
+
 		<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css" />
 		<link rel="stylesheet" type="text/css" href="assets/css/style.css" />
 
