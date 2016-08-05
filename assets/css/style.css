@@ -16,14 +16,43 @@
 
 html {
 	height: 100%;
-	background: #FFF5EE; /* Old browsers */
+	background: #fff6ec; /* Old browsers */
 }
 
 body {
-  background: #FFF5EE;
+  background: #fff6ec;
   color: #000000;
   font-family: "Source Sans Pro";
+  height: 100%;
 }
+
+#page-container {
+  min-height: 100%;
+  position: relative;
+  padding-bottom: 70px;
+}
+
+#header-container {
+
+}
+
+#content-container {
+
+}
+
+#footer-container {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 50px;
+  width: 100%;
+  background-color: #333;
+  color: #FFF;
+}
+
+
+
 
 a:link, a:visited {
 	color: #ED002F;
@@ -39,19 +68,15 @@ h1, h2, h3, h4, h5 {
   font-family: "Libre Baskerville";
 }
 
-#page-container {
-  min-height: 100%;
-  position: relative;
-  padding-bottom: 70px;
-}
+#header-container img {
+  border: 0;
+  height: 100px;
 
-#header-container {
-
-	/*background-image:url('../images/sasca_header.png');*/
 }
 
 nav {
   max-width: 960px;
+
 }
 
 nav div.menu-icon {
@@ -64,7 +89,6 @@ nav ul {
   padding: 0;
   overflow: hidden;
   font-size: 1em;
-
 }
 
 nav ul li {
@@ -91,28 +115,6 @@ nav ul li a:active {
 }
 
 
-
-
-#content-container {
-
-}
-
-#footer-container {
-  position: absolute;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  height: 50px;
-  width: 100%;
-  background-color: #333;
-  color: #FFF;
-}
-
-
-
-
-
-
 /* ******************************************************* */
 /*MEDIA QUERY*/
 @media only screen and (max-width : 900px) {
@@ -137,7 +139,7 @@ nav ul li a:active {
   }
 
   #page-container {
-
+    position: relative;
   }
 
   #header-container {
