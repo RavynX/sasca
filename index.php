@@ -27,48 +27,40 @@
   <body>
     <div id="page-container">
       <div id="header-container">
-        <nav>
-					<div class="menu-icon"></div>
-          <ul>
-            <li><a href="index.php">Home</a></li>
-            <li><a href="info.php">Club Info</a>
-							<!--
-              <ul>
-                <li><a href="membership.php">Become a Member</a></li>
-                <li><a href="bod.php">BOD &amp; Chairs</a></li>
-                <li><a href="clubrules.php">Club Rules</a></li>
-                <li><a href="tech.php">Tech Inspection</a></li>
-                <li><a href="bylaws.php">By Laws</a></li>
-                <li><a href="history.php">History</a></li>
-              </ul>-->
-            </li>
-            <li><a href="schedule.php">Schedule</a></li>
-            <li><a href="register.php">Event Sign Up</a></li>
-            <li><a href="novice.php">Novices<a/>
-							<!--
-              <ul>
-                <li><a href="firsttime.php">First Time?</a></li>
-                <li><a href="improve.php">How to Improve</a></li>
-                <li><a href="articles.php">Articles</a></li>
-              </ul>-->
-            </li>
-            <li><a href="calendar.php">Calendar</a></li>
-            <li><a target="_blank" href="http://www.sasca.org/forum/">Forum</a></li>
-            <li><a target="_blank" href="https://www.facebook.com/groups/SASCA210/">Facebook</a></li>
-          </ul>
-        </nav>
+				<a href="/"><img id="header-logo" src="assets/images/sasca_white_transparent.png"/></a>
+				<div id="nav-container">
+					<nav>
+						<div class="menu-icon"></div>
+	          <ul>
+	            <li><a href="index.php">Home</a></li>
+	            <li><a href="info.php">Club Info</a></li>
+	            <li><a href="schedule.php">Schedule</a></li>
+	            <li><a href="register.php">Register</a></li>
+	            <li><a href="novice.php">Novices</a></li>
+	            <li><a href="calendar.php">Calendar</a></li>
+	            <li><a target="_blank" href="http://www.sasca.org/forum/">Forum</a></li>
+	          </ul>
+	        </nav>
+				</div>
       </div>
       <div id="content-container">
-				<h1>This is a title, is it fancy?</h1><br/>
-				<span>This is block text here, weeeeee.</span>
+				<div class="quick-block">
+					<div class="title">Next Event</div>
+				</div>
+				<div class="quick-block">
+					<div class="title">Event Results</div>
+				</div>
+				<div class="quick-block">
+					<div class="title">Next Meeting</div>
+				</div>
+
 				<?php startblock('content') ?>
 					<!--<?php include('home.php') ?>-->
 				<?php endblock() ?>
 			</div>
 			<div id="footer-container">
-				<!--<script src="assets/js/sasca.js"></script>-->
-				©2016 SASCA All rights reserved
-			</div>
+				&copy;2016 SASCA All rights reserved
+			<div>
 		</div>
 	</body>
 </html>
