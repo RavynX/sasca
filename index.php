@@ -53,7 +53,6 @@
 				<div class="quick-block">
 					<div class="title">Next Meeting</div>
 				</div>
-
 				<?php startblock('content') ?>
 					<!--<?php include('home.php') ?>-->
 				<?php endblock() ?>

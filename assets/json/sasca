@@ -1,0 +1,213 @@
+{
+"events": [{
+	"id": 1,
+	"axware_id": 12213,
+	"host": "SASCA",
+	"joint": "false",
+	"site": "RCCC",
+	"date": "20160123"
+},
+{
+	"id": 2,
+	"axare_id": 12279,
+	"host": "SASCA",
+	"joint": "false",
+	"site": "RCCC",
+	"date": "20160220"
+},
+{
+	"id": 3,
+	"axare_id": 12290,
+	"host": "SASCA",
+	"joint": "false",
+	"site": "RCCC",
+	"date": "20160305"
+},
+{
+	"id": 4,
+	"axare_id": 12313,
+	"host": "SASCA",
+	"joint": "false",
+	"site": "RCCC",
+	"date": "20160409"
+},
+{
+	"id": 5,
+	"axare_id": 12314,
+	"host": "SASCA",
+	"joint": "false",
+	"site": "RCCC",
+	"date": "20160521"
+},
+{
+	"id": 6,
+	"axare_id": 12315,
+	"host": "SASCA",
+	"joint": "false",
+	"site": "RCCC",
+	"date": "20160625"
+},
+{
+	"id": 7,
+	"axare_id": 12293,
+	"host": "SASCA",
+	"joint": "true",
+	"site": "RCCC",
+	"date": "20160730"
+},
+{
+	"id": 8,
+	"axare_id": 12294,
+	"host": "SPOKES",
+	"joint": "true",
+	"site": "SAR",
+	"date": "20160821"
+},
+{
+	"id": 9,
+	"axare_id": 12316,
+	"host": "SASCA",
+	"joint": "false",
+	"site": "RCCC",
+	"date": "20160924"
+},
+{
+	"id": 10,
+	"axare_id": 12317,
+	"host": "SASCA",
+	"joint": "false",
+	"site": "RCCC",
+	"date": "20161015"
+},
+{
+	"id": 11,
+	"axare_id": 12318,
+	"host": "SASCA",
+	"joint": "false",
+	"site": "RCCC",
+	"date": "20161112"
+},
+{
+	"id": 12,
+	"axare_id": 12319,
+	"host": "SASCA",
+	"joint": "false",
+	"site": "RCCC",
+	"date": "20161210"
+}
+],
+"meetings": [
+	{
+		"id": 1,
+    "event_id": 1,
+    "date": "20160127",
+    "location": "The Lion & Rose British Restaurant & Pub",
+    "address": "842 NW Loop 410, San Antonio, TX 78216",
+    "map_link": "https://goo.gl/maps/8RW3W7jikpx"
+	},
+  {
+		"id": 2,
+    "event_id": 2,
+    "date": "20160224",
+    "location": "The Lion & Rose British Restaurant & Pub",
+    "address": "842 NW Loop 410, San Antonio, TX 78216",
+    "map_link": "https://goo.gl/maps/8RW3W7jikpx"
+	},
+  {
+		"id": 3,
+    "event_id": 3,
+    "date": "20160309",
+    "location": "The Lion & Rose British Restaurant & Pub",
+    "address": "842 NW Loop 410, San Antonio, TX 78216",
+    "map_link": "https://goo.gl/maps/8RW3W7jikpx"
+	},
+  {
+		"id": 4,
+    "event_id": 4,
+    "date": "20160413",
+    "location": "The Lion & Rose British Restaurant & Pub",
+    "address": "842 NW Loop 410, San Antonio, TX 78216",
+    "map_link": "https://goo.gl/maps/8RW3W7jikpx"
+	},
+  {
+		"id": 5,
+    "event_id": 5,
+    "date": "20160125",
+    "location": "The Lion & Rose British Restaurant & Pub",
+    "address": "842 NW Loop 410, San Antonio, TX 78216",
+    "map_link": "https://goo.gl/maps/8RW3W7jikpx"
+	},
+  {
+		"id": 6,
+    "event_id": 6,
+    "date": "20160629",
+    "location": "The Lion & Rose British Restaurant & Pub",
+    "address": "842 NW Loop 410, San Antonio, TX 78216",
+    "map_link": "https://goo.gl/maps/8RW3W7jikpx"
+	},
+  {
+		"id": 7,
+    "event_id": 7,
+    "date": "20160801",
+    "location": "The Lion & Rose British Restaurant & Pub",
+    "address": "842 NW Loop 410, San Antonio, TX 78216",
+    "map_link": "https://goo.gl/maps/8RW3W7jikpx"
+	},
+  {
+    "id": 8,
+    "event_id": 8,
+    "date": "20160824",
+    "location": "Quarry Hofbrau At The Rim",
+    "address": "18403 West Interstate 10, San Antonio, TX 78257",
+    "map_link": "https://goo.gl/maps/pAn2LxbvT7B2"
+  },
+  {
+    "id": 9,
+    "event_id": 9,
+    "date": "20160928",
+    "location": "Quarry Hofbrau At The Rim",
+    "address": "18403 West Interstate 10, San Antonio, TX 78257",
+    "map_link": "https://goo.gl/maps/pAn2LxbvT7B2"
+  },
+  {
+    "id": 10,
+    "event_id": 10,
+    "date": "20161019",
+    "location": "Quarry Hofbrau At The Rim",
+    "address": "18403 West Interstate 10, San Antonio, TX 78257",
+    "map_link": "https://goo.gl/maps/pAn2LxbvT7B2"
+  },
+  {
+    "id": 11,
+    "event_id": 11,
+    "date": "20161116",
+    "location": "Quarry Hofbrau At The Rim",
+    "address": "18403 West Interstate 10, San Antonio, TX 78257",
+    "map_link": "https://goo.gl/maps/pAn2LxbvT7B2"
+  },
+  {
+    "id": 12,
+    "event_id": 12,
+    "date": "20161214",
+    "location": "Quarry Hofbrau At The Rim",
+    "address": "18403 West Interstate 10, San Antonio, TX 78257",
+    "map_link": "https://goo.gl/maps/pAn2LxbvT7B2"
+  }
+],
+"schools": [
+  {
+    "id": 1,
+    "host": "SASCA",
+    "in_event": true,
+    "event_id": 4,
+    "date": ,
+    "registration_link": ,
+    "location": ,
+  },
+  {
+    "id": 2,
+    "host": "SASCA",
+    "in_event": true,
+  }
+]
+}
