@@ -3,6 +3,9 @@
 ?>
 <div class="quick-block">
 	<div class="title">Next Event</div>
+	<div class="content">
+		Event content goes here
+	</div>
 </div>
 <div class="quick-block">
 	<div class="title">Event Results</div>
@@ -17,4 +20,4 @@
 	<br/>
 </div>
 
-<?php print_r("Next event id: " + $next_event_id); ?>
+<?php print_r("Next event id: " + $nextEventId); ?>

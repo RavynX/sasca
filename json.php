@@ -4,7 +4,7 @@
 
   function beforeTomorrow($date) {
     $tomorrow = new DateTime("tomorrow");
-    if ($tomorrow->getTimestamp() > strtotime($date->getTimestamp())) {
+    if (strtotime($tomorrow) > strtotime($date)) {
       return true;
     }
     return false;
@@ -25,17 +25,19 @@
   }
 
   function getNextEventId($events) {
-    $nextEventId = $events[0]->id;
+    $nextEventId = $events[0]['id'];
     foreach($events as $event) {
-      if (beforeTomorrow($event->date) && isXAfterY($event->date, $events[$nextEventId-1]->date)) {
-        $nextEventId = $event->id;
+      if (beforeTomorrow($event['date']) && isXAfterY($event['date'], $events[$nextEventId-1]['date'])) {
+        $nextEventId = $event['id'];
       }
     }
     return $nextEventId;
   }
 
-  $string = file_get_contents('sasca.json');
+  $string = file_get_contents('assets/json/sasca.json');
   $json = json_decode($string, true);
+
+  echo count($json['events']);
 
   $events = $json['events'];
   $nextEventId = getNextEventId($events);

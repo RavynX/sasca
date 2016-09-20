@@ -200,14 +200,14 @@
     "host": "SASCA",
     "in_event": true,
     "event_id": 4,
-    "date": ,
-    "registration_link": ,
-    "location": ,
+    "date": "20161015",
+    "registration_link": "",
+    "location": ""
   },
   {
     "id": 2,
     "host": "SASCA",
-    "in_event": true,
+    "in_event": true
   }
 ]
 }
