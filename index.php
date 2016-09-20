@@ -44,17 +44,8 @@
 				</div>
       </div>
       <div id="content-container">
-				<div class="quick-block">
-					<div class="title">Next Event</div>
-				</div>
-				<div class="quick-block">
-					<div class="title">Event Results</div>
-				</div>
-				<div class="quick-block">
-					<div class="title">Next Meeting</div>
-				</div>
 				<?php startblock('content') ?>
-					<!--<?php include('home.php') ?>-->
+					<?php include('home.php') ?>
 				<?php endblock() ?>
 			</div>
 			<div id="footer-container">
