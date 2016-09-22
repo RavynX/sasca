@@ -30,8 +30,13 @@
 				<a href="/"><img id="header-logo" src="assets/images/sasca_white_transparent.png"/></a>
 				<div id="nav-container">
 					<nav>
-						<div class="menu-icon"></div>
-	          <ul>
+						<div id="menu-btn" class="menu-btn">
+							<div></div>
+							<span></span>
+							<span></span>
+							<span></span>
+						</div>
+	          <ul id="nav-links">
 	            <li><a href="index.php">Home</a></li>
 	            <li><a href="info.php">Club Info</a></li>
 	            <li><a href="schedule.php">Schedule</a></li>

@@ -4,14 +4,24 @@
 <div class="quick-block">
 	<div class="title">Next Event</div>
 	<div class="content">
-		Event content goes here
+		Points Event #<?php echo $nextEvent['id']; ?>
 	</div>
 </div>
 <div class="quick-block">
 	<div class="title">Event Results</div>
+	<div class="content">
+		<p>Points Event #<?php echo $lastEvent['id']; ?></p>
+
+	</div>
 </div>
-<div class="quick-block">
+<div class="quick-block meeting">
 	<div class="title">Next Meeting</div>
+	<div class="content">
+		<?php echo date_format((new DateTime($nextMeeting['date'])), 'l\, F jS\, Y'); ?><br/>
+		Arrive by 6:30pm, Meeting @ <b>7:30pm</b><br/>
+		<?php echo $nextMeeting['location']; ?><br/>
+		<?php echo '<a href="'.$nextMeeting['map_link'].'" target="_blank">'.$nextMeeting['address'].'</a>'; ?><br/>
+	</div>
 </div>
 
 <div id="content">
@@ -20,4 +30,8 @@
 	<br/>
 </div>
 
-<?php print_r("Next event id: " + $nextEventId); ?>
+<?php
+echo "<br/>Last event id: ".$lastEvent['id']."<br/>";
+echo "Next event id: ".$nextEvent['id']."<br/>";
+echo "Next meeting id: ".$nextMeeting['id']."<br/>";
+?>
