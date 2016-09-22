@@ -1,6 +1,3 @@
-<?php
-	include('json.php');
-?>
 <div class="quick-block">
 	<div class="title">Next Event</div>
 	<div class="content">
@@ -29,9 +26,3 @@
 	<p style="margin-top: 8px;">Thanks for swinging on by!  We're your local autocross club for the San Antonio, TX area.  Interested in seeing what we're about?  Come to our next event or one of our monthly meetings and introduce yourself.  It's free to spectate and many people offer their passenger seat for ride-alongs.</p>
 	<br/>
 </div>
-
-<?php
-echo "<br/>Last event id: ".$lastEvent['id']."<br/>";
-echo "Next event id: ".$nextEvent['id']."<br/>";
-echo "Next meeting id: ".$nextMeeting['id']."<br/>";
-?>

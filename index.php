@@ -25,18 +25,19 @@
 		<!-- sasca.js script included in footer.php -->
 	</head>
   <body>
+		<?php	include('json.php'); ?>
     <div id="page-container">
       <div id="header-container">
 				<a href="/"><img id="header-logo" src="assets/images/sasca_white_transparent.png"/></a>
 				<div id="nav-container">
+					<div class="menu-btn">
+						<div></div>
+						<span></span>
+						<span></span>
+						<span></span>
+					</div>
 					<nav>
-						<div id="menu-btn" class="menu-btn">
-							<div></div>
-							<span></span>
-							<span></span>
-							<span></span>
-						</div>
-	          <ul id="nav-links">
+						<ul id="nav-links">
 	            <li><a href="index.php">Home</a></li>
 	            <li><a href="info.php">Club Info</a></li>
 	            <li><a href="schedule.php">Schedule</a></li>
@@ -55,6 +56,7 @@
 			</div>
 			<div id="footer-container">
 				&copy;2016 SASCA All rights reserved
+				<script type="text/javascript" src="assets/js/sasca.js"></script>
 			<div>
 		</div>
 	</body>
