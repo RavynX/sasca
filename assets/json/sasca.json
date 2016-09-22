@@ -9,7 +9,7 @@
 },
 {
 	"id": 2,
-	"axare_id": 12279,
+	"axware_id": 12279,
 	"host": "SASCA",
 	"joint": "false",
 	"site": "RCCC",
@@ -17,7 +17,7 @@
 },
 {
 	"id": 3,
-	"axare_id": 12290,
+	"axware_id": 12290,
 	"host": "SASCA",
 	"joint": "false",
 	"site": "RCCC",
@@ -25,7 +25,7 @@
 },
 {
 	"id": 4,
-	"axare_id": 12313,
+	"axware_id": 12313,
 	"host": "SASCA",
 	"joint": "false",
 	"site": "RCCC",
@@ -33,7 +33,7 @@
 },
 {
 	"id": 5,
-	"axare_id": 12314,
+	"axware_id": 12314,
 	"host": "SASCA",
 	"joint": "false",
 	"site": "RCCC",
@@ -41,7 +41,7 @@
 },
 {
 	"id": 6,
-	"axare_id": 12315,
+	"axware_id": 12315,
 	"host": "SASCA",
 	"joint": "false",
 	"site": "RCCC",
@@ -49,7 +49,7 @@
 },
 {
 	"id": 7,
-	"axare_id": 12293,
+	"axware_id": 12293,
 	"host": "SASCA",
 	"joint": "true",
 	"site": "RCCC",
@@ -57,7 +57,7 @@
 },
 {
 	"id": 8,
-	"axare_id": 12294,
+	"axware_id": 12294,
 	"host": "SPOKES",
 	"joint": "true",
 	"site": "SAR",
@@ -65,7 +65,7 @@
 },
 {
 	"id": 9,
-	"axare_id": 12316,
+	"axware_id": "12316",
 	"host": "SASCA",
 	"joint": "false",
 	"site": "RCCC",
@@ -73,7 +73,7 @@
 },
 {
 	"id": 10,
-	"axare_id": 12317,
+	"axware_id": 12317,
 	"host": "SASCA",
 	"joint": "false",
 	"site": "RCCC",
@@ -81,7 +81,7 @@
 },
 {
 	"id": 11,
-	"axare_id": 12318,
+	"axware_id": 12318,
 	"host": "SASCA",
 	"joint": "false",
 	"site": "RCCC",
@@ -89,7 +89,7 @@
 },
 {
 	"id": 12,
-	"axare_id": 12319,
+	"axware_id": 12319,
 	"host": "SASCA",
 	"joint": "false",
 	"site": "RCCC",
