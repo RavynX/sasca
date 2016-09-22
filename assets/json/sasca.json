@@ -2,63 +2,100 @@
 "events": [{
 	"id": 1,
 	"axware_id": 12213,
-	"host": "SASCA",
+	"axware_host": "SASCA",
+	"results_filename": "e01-jan2016",
+	"site_host": "SASCA",
 	"joint": "false",
 	"site": "RCCC",
-	"date": "20160123"
+	"date": "20160123",
+	"venue": "River City Community Church",
+	"address": "16765 Lookout Rd, Schertz, TX 78154",
+	"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
 },
 {
 	"id": 2,
 	"axware_id": 12279,
-	"host": "SASCA",
+	"axware_host": "SASCA",
+	"results_filename": "e02-feb2016",
+	"site_host": "SASCA",
 	"joint": "false",
 	"site": "RCCC",
-	"date": "20160220"
+	"date": "20160220",
+	"venue": "River City Community Church",
+	"address": "16765 Lookout Rd, Schertz, TX 78154",
+	"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
 },
 {
 	"id": 3,
 	"axware_id": 12290,
-	"host": "SASCA",
+	"axware_host": "SASCA",
+	"results_filename": "e03-mar2016",
+	"site_host": "SASCA",
 	"joint": "false",
 	"site": "RCCC",
-	"date": "20160305"
+	"date": "20160305",
+	"venue": "River City Community Church",
+	"address": "16765 Lookout Rd, Schertz, TX 78154",
+	"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
 },
 {
 	"id": 4,
 	"axware_id": 12313,
-	"host": "SASCA",
+	"axware_host": "SASCA",
+	"results_filename": "e04-apr2016",
+	"site_host": "SASCA",
 	"joint": "false",
 	"site": "RCCC",
-	"date": "20160409"
+	"date": "20160409",
+	"venue": "River City Community Church",
+	"address": "16765 Lookout Rd, Schertz, TX 78154",
+	"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
 },
 {
 	"id": 5,
 	"axware_id": 12314,
-	"host": "SASCA",
+	"axware_host": "SASCA",
+	"results_filename": "e05-may2016",
+	"site_host": "SASCA",
 	"joint": "false",
 	"site": "RCCC",
-	"date": "20160521"
+	"date": "20160521",
+	"venue": "River City Community Church",
+	"address": "16765 Lookout Rd, Schertz, TX 78154",
+	"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
 },
 {
 	"id": 6,
 	"axware_id": 12315,
-	"host": "SASCA",
+	"axware_host": "SASCA",
+	"results_filename": "e06-jun2016div",
+	"site_host": "SASCA",
 	"joint": "false",
 	"site": "RCCC",
-	"date": "20160625"
+	"date": "20160625",
+	"venue": "River City Community Church",
+	"address": "16765 Lookout Rd, Schertz, TX 78154",
+	"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
 },
 {
 	"id": 7,
 	"axware_id": 12293,
-	"host": "SASCA",
+	"axware_host": "SPOKES",
+	"results_filename": "e07-jul2016",
+	"site_host": "SASCA",
 	"joint": "true",
 	"site": "RCCC",
-	"date": "20160730"
+	"date": "20160730",
+	"venue": "River City Community Church",
+	"address": "16765 Lookout Rd, Schertz, TX 78154",
+	"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
 },
 {
 	"id": 8,
 	"axware_id": 12294,
-	"host": "SPOKES",
+	"axware_host": "SPOKES",
+	"results_filename": "e09_hopefully_this_works",
+	"site_host": "SPOKES",
 	"joint": "true",
 	"site": "SAR",
 	"date": "20160821"
@@ -66,34 +103,54 @@
 {
 	"id": 9,
 	"axware_id": 12316,
-	"host": "SASCA",
+	"axware_host": "SASCA",
+	"results_filename": "e09-sep2016",
+	"site_host": "SASCA",
 	"joint": "false",
 	"site": "RCCC",
-	"date": "20160924"
+	"date": "20160924",
+	"venue": "River City Community Church",
+	"address": "16765 Lookout Rd, Schertz, TX 78154",
+	"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
 },
 {
 	"id": 10,
 	"axware_id": 12317,
-	"host": "SASCA",
+	"axware_host": "SASCA",
+	"results_filename": "e10-oct2016",
+	"site_host": "SASCA",
 	"joint": "false",
 	"site": "RCCC",
-	"date": "20161015"
+	"date": "20161015",
+	"venue": "River City Community Church",
+	"address": "16765 Lookout Rd, Schertz, TX 78154",
+	"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
 },
 {
 	"id": 11,
 	"axware_id": 12318,
-	"host": "SASCA",
+	"axware_host": "SASCA",
+	"results_filename": "e11-nov2016",
+	"site_host": "SASCA",
 	"joint": "false",
 	"site": "RCCC",
-	"date": "20161112"
+	"date": "20161112",
+	"venue": "River City Community Church",
+	"address": "16765 Lookout Rd, Schertz, TX 78154",
+	"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
 },
 {
 	"id": 12,
 	"axware_id": 12319,
-	"host": "SASCA",
+	"axware_host": "SASCA",
+	"results_filename": "e12-dec2016",
+	"site_host": "SASCA",
 	"joint": "false",
 	"site": "RCCC",
-	"date": "20161210"
+	"date": "20161210",
+	"venue": "River City Community Church",
+	"address": "16765 Lookout Rd, Schertz, TX 78154",
+	"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
 }
 ],
 "meetings": [
@@ -101,112 +158,112 @@
 		"id": 1,
     "event_id": 1,
     "date": "20160127",
-    "location": "The Lion & Rose British Restaurant & Pub",
+    "venue": "The Lion & Rose British Restaurant & Pub",
     "address": "842 NW Loop 410, San Antonio, TX 78216",
-    "map_link": "https://goo.gl/maps/8RW3W7jikpx"
+    "map_url": "https://goo.gl/maps/8RW3W7jikpx"
 	},
   {
 		"id": 2,
     "event_id": 2,
     "date": "20160224",
-    "location": "The Lion & Rose British Restaurant & Pub",
+    "venue": "The Lion & Rose British Restaurant & Pub",
     "address": "842 NW Loop 410, San Antonio, TX 78216",
-    "map_link": "https://goo.gl/maps/8RW3W7jikpx"
+    "map_url": "https://goo.gl/maps/8RW3W7jikpx"
 	},
   {
 		"id": 3,
     "event_id": 3,
     "date": "20160309",
-    "location": "The Lion & Rose British Restaurant & Pub",
+    "venue": "The Lion & Rose British Restaurant & Pub",
     "address": "842 NW Loop 410, San Antonio, TX 78216",
-    "map_link": "https://goo.gl/maps/8RW3W7jikpx"
+    "map_url": "https://goo.gl/maps/8RW3W7jikpx"
 	},
   {
 		"id": 4,
     "event_id": 4,
     "date": "20160413",
-    "location": "The Lion & Rose British Restaurant & Pub",
+    "venue": "The Lion & Rose British Restaurant & Pub",
     "address": "842 NW Loop 410, San Antonio, TX 78216",
-    "map_link": "https://goo.gl/maps/8RW3W7jikpx"
+    "map_url": "https://goo.gl/maps/8RW3W7jikpx"
 	},
   {
 		"id": 5,
     "event_id": 5,
     "date": "20160125",
-    "location": "The Lion & Rose British Restaurant & Pub",
+    "venue": "The Lion & Rose British Restaurant & Pub",
     "address": "842 NW Loop 410, San Antonio, TX 78216",
-    "map_link": "https://goo.gl/maps/8RW3W7jikpx"
+    "map_url": "https://goo.gl/maps/8RW3W7jikpx"
 	},
   {
 		"id": 6,
     "event_id": 6,
     "date": "20160629",
-    "location": "The Lion & Rose British Restaurant & Pub",
+    "venue": "The Lion & Rose British Restaurant & Pub",
     "address": "842 NW Loop 410, San Antonio, TX 78216",
-    "map_link": "https://goo.gl/maps/8RW3W7jikpx"
+    "map_url": "https://goo.gl/maps/8RW3W7jikpx"
 	},
   {
 		"id": 7,
     "event_id": 7,
     "date": "20160801",
-    "location": "The Lion & Rose British Restaurant & Pub",
+    "venue": "The Lion & Rose British Restaurant & Pub",
     "address": "842 NW Loop 410, San Antonio, TX 78216",
-    "map_link": "https://goo.gl/maps/8RW3W7jikpx"
+    "map_url": "https://goo.gl/maps/8RW3W7jikpx"
 	},
   {
     "id": 8,
     "event_id": 8,
     "date": "20160824",
-    "location": "Quarry Hofbrau At The Rim",
+    "venue": "Quarry Hofbrau At The Rim",
     "address": "18403 West I10, San Antonio, TX 78257",
-    "map_link": "https://goo.gl/maps/pAn2LxbvT7B2"
+    "map_url": "https://goo.gl/maps/pAn2LxbvT7B2"
   },
   {
     "id": 9,
     "event_id": 9,
     "date": "20160928",
-    "location": "Quarry Hofbrau At The Rim",
+    "venue": "Quarry Hofbrau At The Rim",
     "address": "18403 West I10, San Antonio, TX 78257",
-    "map_link": "https://goo.gl/maps/pAn2LxbvT7B2"
+    "map_url": "https://goo.gl/maps/pAn2LxbvT7B2"
   },
   {
     "id": 10,
     "event_id": 10,
     "date": "20161019",
-    "location": "Quarry Hofbrau At The Rim",
+    "venue": "Quarry Hofbrau At The Rim",
     "address": "18403 West I10, San Antonio, TX 78257",
-    "map_link": "https://goo.gl/maps/pAn2LxbvT7B2"
+    "map_url": "https://goo.gl/maps/pAn2LxbvT7B2"
   },
   {
     "id": 11,
     "event_id": 11,
     "date": "20161116",
-    "location": "Quarry Hofbrau At The Rim",
+    "venue": "Quarry Hofbrau At The Rim",
     "address": "18403 West I10, San Antonio, TX 78257",
-    "map_link": "https://goo.gl/maps/pAn2LxbvT7B2"
+    "map_url": "https://goo.gl/maps/pAn2LxbvT7B2"
   },
   {
     "id": 12,
     "event_id": 12,
     "date": "20161214",
-    "location": "Quarry Hofbrau At The Rim",
+    "venue": "Quarry Hofbrau At The Rim",
     "address": "18403 West I10, San Antonio, TX 78257",
-    "map_link": "https://goo.gl/maps/pAn2LxbvT7B2"
+    "map_url": "https://goo.gl/maps/pAn2LxbvT7B2"
   }
 ],
 "schools": [
   {
     "id": 1,
-    "host": "SASCA",
+    "site_host": "SASCA",
     "in_event": true,
     "event_id": 4,
     "date": "20161015",
     "registration_link": "",
-    "location": ""
+    "venue": ""
   },
   {
     "id": 2,
-    "host": "SASCA",
+    "site_host": "SASCA",
     "in_event": true
   }
 ]

@@ -163,10 +163,30 @@ nav ul li a:active {
 }
 
 .quick-block .content {
+  position: relative;
   margin-top: 2.2em;
   padding: 5px;
   overflow: hidden;
 
+}
+
+.quick-block.results.btn {
+  
+}
+
+.quick-block-left {
+
+}
+
+.quick-block-right {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.quick-block .btn-primary {
+  color: #FFF !important;
+  margin-right: 5px;
 }
 
 
@@ -540,16 +560,6 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
 
   }
 
-  a:link, a:visited {
-  	color: #ED002F;
-  	text-decoration: none;
-  }
-
-  a:hover, a:active {
-  	color: #0f5bf7;
-  	text-decoration: none;
-  }
-
   #page-container {
     position: relative;
   }
@@ -593,16 +603,6 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
 
   body {
 
-  }
-
-  a:link, a:visited {
-  	color: #ED002F;
-  	text-decoration: none;
-  }
-
-  a:hover, a:active {
-  	color: #0f5bf7;
-  	text-decoration: none;
   }
 
   #page-container {

@@ -1,5 +1,6 @@
 <?php
-  //$date->format('m-d-Y');
+  $axwareBaseEventURL = 'https://axwaresystems.com/axorm/calendar_main.php?viewevent=';
+  $axwareBaseResultsURL = 'https://axwaresystems.com/axorm/files/';
   date_default_timezone_set('America/Chicago');
 
   // Takes a generic yyyymmdd $date format, adds on 11 hours for end of day
