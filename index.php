@@ -28,7 +28,7 @@
 		<?php	include('json.php'); ?>
     <div id="page-container">
       <div id="header-container">
-				<a href="/"><img id="header-logo" src="assets/images/sasca_white_transparent.png"/></a>
+				<a id="header-logo-url" alt="San Antonio Sports Car Association" href="/"><img id="header-logo" src="assets/images/sasca_white_transparent.png"/></a>
 				<div id="nav-container">
 					<div class="menu-btn">
 						<div></div>

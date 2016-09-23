@@ -24,12 +24,12 @@ body {
 }
 
 a:link, a:visited {
-	color: #ED002F;
+	color: #0f5bf7;
 	text-decoration: none;
 }
 
 a:hover, a:active {
-	color: #0f5bf7;
+	color: #ED002F;
 	text-decoration: none;
 }
 
@@ -608,13 +608,24 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
   }
 
   #page-container {
-
+    position: relative;
   }
 
   #header-container {
     position: relative;
-    height: 150px;
-    background: #EEEEEE url('../images/sasca_cnc.jpg') no-repeat bottom center;
+    height: 130px;
+    background: #000000;
+  }
+
+  #header-logo-url {
+    display: block;
+    text-align: center;
+  }
+
+  #header-logo {
+    border: 0;
+    margin: 7px 0 0 0;
+    height: 75px;
   }
 
   #nav-container {
@@ -624,12 +635,6 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
     height: 3em;
     background-color: #003d64;
     z-index: 98;
-  }
-
-  #header-logo {
-    border: 0;
-    height: 75px;
-    margin: 13px;
   }
 
   .menu-btn {
@@ -669,8 +674,6 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
   .expand {
    display: block !important;
   }
-
-
 
   #nav-links {
     display: none;
