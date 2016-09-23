@@ -19,8 +19,22 @@ html {}
 body {
   background: #eee;
   color: #000000;
-  font-family: "Source Sans Pro";
+  font-family: 'Merriweather Sans', sans-serif;
   height: 100vh;
+}
+
+a:link, a:visited {
+	color: #ED002F;
+	text-decoration: none;
+}
+
+a:hover, a:active {
+	color: #0f5bf7;
+	text-decoration: none;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Ubuntu', sans-serif;
 }
 
 #page-container {
@@ -50,23 +64,6 @@ body {
   width: 100%;
   background-color: #003d64;
   color: #FFF;
-}
-
-
-
-
-a:link, a:visited {
-	color: #ED002F;
-	text-decoration: none;
-}
-
-a:hover, a:active {
-	color: #0f5bf7;
-	text-decoration: none;
-}
-
-h1, h2, h3, h4, h5 {
-  font-family: "Libre Baskerville";
 }
 
 #header-logo {
@@ -111,6 +108,7 @@ nav ul li a {
   font-size: 14px;
   line-height: 2.99em;
   transition: 0.2s;
+  font-family: 'Ubuntu', sans-serif;
 }
 
 nav ul li a:link,
@@ -171,7 +169,7 @@ nav ul li a:active {
 }
 
 .quick-block.results.btn {
-  
+
 }
 
 .quick-block-left {
@@ -603,6 +601,10 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
 
   body {
 
+  }
+
+  h1, h2, h3, h4, h5 {
+    font-size: 28px;
   }
 
   #page-container {
