@@ -4,8 +4,8 @@
 		<?php
 			echo '<div class="quick-block-left">';
 			echo 'Points Event #'.$nextEvent['id'].'<br/>';
-			echo $nextEvent['venue'].'<br/>';
-			echo '<a href="'.$nextEvent['map_url'].'" target="_blank">'.$nextEvent['address'].'</a><br/>';
+			echo date_format((new DateTime($nextEvent['date'])), 'l\<\b\r\> F j\, Y').'<br/>';
+			echo '@ '.$nextEvent['site'].'<br/>';
 			echo '</div>';
 			echo '<div class="quick-block-right">';
 			echo '<a href="'.$axwareBaseEventURL.$nextEvent['axware_id'].'" target="_blank" class="btn btn-primary" role="button">Register Here</a><br/>';
@@ -29,7 +29,7 @@
 <div class="quick-block meeting">
 	<div class="title">Next Meeting</div>
 	<div class="content">
-		<?php echo date_format((new DateTime($nextMeeting['date'])), 'l\, F jS\, Y'); ?><br/>
+		<?php echo date_format((new DateTime($nextMeeting['date'])), 'l\, F j\, Y'); ?><br/>
 		Arrive by 6:30pm, Meeting @ <b>7:30pm</b><br/>
 		<?php echo $nextMeeting['venue']; ?><br/>
 		<?php echo '<a href="'.$nextMeeting['map_url'].'" target="_blank">'.$nextMeeting['address'].'</a>'; ?><br/>
