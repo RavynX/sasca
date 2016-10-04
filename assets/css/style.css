@@ -148,7 +148,7 @@ nav ul li a:active {
   height: 25%;
   line-height: 2em;
   vertical-align: middle;
-  padding-left: 10px;
+  padding-left: 7px;
   background-color: #003d64;
   color: #FFFFFF;
   font-weight: bold;
@@ -163,6 +163,10 @@ nav ul li a:active {
   overflow: hidden;
 }
 
+.quick-block .btn {
+  padding: 6px 10px;
+}
+
 /* Next Event */
 .quick-block .content.nextEvent {
   padding: 0;
@@ -171,7 +175,7 @@ nav ul li a:active {
 .quick-block-left {
   float: left;
   width: 50%;
-  padding: 3px 10px;
+  padding: 3px 8px;
 }
 
 .quick-block-right {
@@ -182,32 +186,38 @@ nav ul li a:active {
   text-align: center;
 }
 
-.quick-block .btn {
-  padding: 6px 10px;
-}
-
 .quick-block-right a.btn {
   margin: 3px auto;
 }
 
 .quick-block .btn-primary {
   color: #FFF !important;
-  margin-right: 5px;
 }
 
 /* Event Results */
 .quick-block .resultsGroup {
   text-align: center;
+  margin-top: 13px;
 }
 
+.quick-block .resultsGroup .btn-primary {
+  margin-right: 5px;
+  /*width: 22%;*/
+  width: 7em;
+}
 
+.quick-block .resultsGroup .btn-primary:last-of-type {
+  margin-right: 0px;
+}
+
+/* @Content */
 #content {
   width: 695px;
   display: inline-block;
 }
 
 /*********************************
-******* BOD **********************/
+******* @BOD **********************/
 #bod {
 	width: 600px;
 	margin: 0 auto 0 auto;
@@ -249,14 +259,14 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
 	border-left: 1px solid #ddd;
 }
 
-/* Calendar */
+/* @Calendar */
 #calendar-frame {
 	display: block;
 	margin: 0 auto;
 }
 
 
-/* By Laws */
+/* @ByLaws */
 #bylaws .heading {
 	font-weight: bold;
 	text-align: center;
@@ -281,7 +291,7 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
 	margin-left: 20px;
 }
 
-/* Schedule Page */
+/* @Schedule Page */
 .schedule {
 	width: 550px;
 	margin: 0 auto 0 auto;
@@ -339,7 +349,7 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
 	width: 250px;
 }
 
-/* Registration Page */
+/* @Registration Page */
 #register {
 	width: 775px;
 	margin: 0 auto 0 auto;
@@ -432,7 +442,7 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
 }
 
 
-/* Tech Inspection Page */
+/* @Tech Inspection Page */
 #tech p {
 	padding-left: 20px;
 }
@@ -458,7 +468,7 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
 }
 
 
-/* Club Rules */
+/* @Rules - Club Rules */
 #rules .heading {
 	font-weight: bold;
 	text-align: center;
@@ -511,7 +521,7 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
 }
 
 
-/* History Page */
+/* @History Page */
 #history {
 
 }
@@ -521,7 +531,7 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
 }
 
 
-/* Novice - First Time */
+/* @Novices - First Time */
 #firsttime p {
 	margin-bottom: 15px;
 }
@@ -545,7 +555,7 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
 	margin-bottom: 5px;
 }
 
-/* Membership Page */
+/* @Membership Page */
 #membership {
 
 }
@@ -566,6 +576,39 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
 /* Novice - Improve Page */
 
 
+@media only screen and (max-width : 1425px) {
+  .quick-block .resultsGroup a.btn {
+    width: 23%;
+    padding: 6px 8px;
+  }
+}
+
+@media only screen and (max-width : 1200px) {
+  /* Event Results - 960 */
+  .quick-block.results p {
+    display: inline-block;
+    width: 20%;
+    text-align: center;
+  }
+
+  .quick-block .resultsGroup {
+    float: right;
+    text-align: center;
+    margin-top: 3px;
+    width: 15em;
+  }
+
+  .quick-block .resultsGroup a.btn {
+    width: 7em;
+    font-size: 100%;
+    margin-bottom: 3px;
+  }
+
+  .quick-block .resultsGroup a.btn:nth-of-type(even) {
+    margin-right: 3px;
+  }
+}
+
 /* ******************************************************* */
 /*MEDIA QUERY*/
 @media only screen and (max-width : 960px) {
@@ -585,14 +628,43 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
   	/*background-image:url('../images/sasca_header.png');*/
   }
 
+  .quick-block.results p {
+    display: inline-block;
+    width: 20%;
+    text-align: center;
+  }
+
   .quick-block {
     width: 45%;
   }
 
+  /* Next Event - 960 */
   .quick-block.meeting {
     width: 50%;
     margin-top: 20px;
     margin-left: 25%;
+  }
+
+  /* Event Results - 960 */
+  .quick-block .resultsGroup {
+    float: right;
+    text-align: center;
+    margin-top: 3px;
+    width: 15em;
+  }
+
+  .quick-block .resultsGroup a.btn {
+    width: 7em;
+    font-size: 100%;
+    margin-bottom: 3px;
+  }
+
+  .quick-block .resultsGroup a.btn:nth-of-type(even) {
+    margin-right: 3px;
+  }
+
+  .quick-block .resultsGroup .btn {
+
   }
 
   nav ul li a {
@@ -748,6 +820,16 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
 
   }
 
+  /* @Home */
+  .quick-block.results p {
+    width: 100%;
+    text-align: left;
+  }
+
+  .quick-block .resultsGroup {
+    width: 100%;
+  }
+
   .quick-block, .quick-block.meeting {
     width: 100%;
     height: 8.5em;
@@ -772,5 +854,35 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
 
   .quick-block .content {
     margin-top: 1.6em;
+  }
+
+  /* Next Event */
+  .quick-block-right {
+    margin-top: 4px;
+  }
+
+  /* Event Results */
+  .quick-block .resultsGroup {
+    margin-top: 10px;
+  }
+
+  .quick-block .resultsGroup a.btn {
+    /*width: 20%;*/
+  }
+}
+
+@media only screen and (max-width : 460px) {
+  .quick-block.results p {
+    display: inline-block;
+    width: 20%;
+    text-align: center;
+    margin-top: 10px;
+  }
+
+  .quick-block .resultsGroup {
+    float: right;
+    text-align: center;
+    margin-top: 8px;
+    width: 15em;
   }
 }
