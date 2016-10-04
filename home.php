@@ -30,11 +30,15 @@
 </div>
 <div class="quick-block meeting">
 	<div class="title">Next Meeting</div>
-	<div class="content">
-		<?php echo date_format((new DateTime($nextMeeting['date'])), 'l\, F j\, Y'); ?><br/>
-		Arrive by 6:30pm, Meeting @ <b>7:30pm</b><br/>
+	<div class="content nextMeeting">
+		<div class="quick-block-left">
+		<?php echo date_format((new DateTime($nextMeeting['date'])), 'D\, M j\, Y'); ?><br/>
 		<?php echo $nextMeeting['venue']; ?><br/>
-		<?php echo '<a href="'.$nextMeeting['map_url'].'" target="_blank">'.$nextMeeting['address'].'</a>'; ?><br/>
+		Chat @ 6:30pm<br/>Meeting @ <b>7:30pm</b>
+		</div>
+		<div class="quick-block-right">
+		<?php	echo '<a href="'.$nextEvent['map_url'].'" target="_blank" class="btn btn-primary" role="button">Map to Event</a>'; ?>
+		</div>
 	</div>
 </div>
 

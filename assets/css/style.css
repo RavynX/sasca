@@ -168,14 +168,15 @@ nav ul li a:active {
 }
 
 /* Next Event */
-.quick-block .content.nextEvent {
+.quick-block .content.nextEvent,
+.quick-block .content.nextMeeting {
   padding: 0;
 }
 
 .quick-block-left {
   float: left;
   width: 50%;
-  padding: 3px 8px;
+  padding: 3px 5px;
 }
 
 .quick-block-right {
@@ -202,12 +203,29 @@ nav ul li a:active {
 
 .quick-block .resultsGroup .btn-primary {
   margin-right: 5px;
-  /*width: 22%;*/
   width: 7em;
 }
 
 .quick-block .resultsGroup .btn-primary:last-of-type {
   margin-right: 0px;
+}
+
+/* Next Meeting */
+.nextMeeting .quick-block-left {
+  width: 12em;
+}
+
+.nextMeeting .quick-block-right {
+  float: left;
+  padding: 0;
+  width: 50%;
+  height: 100%;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.nextMeeting .quick-block-right a.btn {
+  align-self: center;
 }
 
 /* @Content */
@@ -581,6 +599,12 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
     width: 23%;
     padding: 6px 8px;
   }
+
+  .nextMeeting .quick-block-right {
+    width: auto;
+    padding: 0;
+  }
+
 }
 
 @media only screen and (max-width : 1200px) {
@@ -594,7 +618,7 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
   .quick-block .resultsGroup {
     float: right;
     text-align: center;
-    margin-top: 3px;
+    margin-top: 5px;
     width: 15em;
   }
 
@@ -606,6 +630,10 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
 
   .quick-block .resultsGroup a.btn:nth-of-type(even) {
     margin-right: 3px;
+  }
+
+  .quick-block .nextMeeting a.btn {
+
   }
 }
 
@@ -661,10 +689,6 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
 
   .quick-block .resultsGroup a.btn:nth-of-type(even) {
     margin-right: 3px;
-  }
-
-  .quick-block .resultsGroup .btn {
-
   }
 
   nav ul li a {
