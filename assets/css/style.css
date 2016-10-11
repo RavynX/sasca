@@ -187,8 +187,22 @@ nav ul li a:active {
   text-align: center;
 }
 
+.quick-block .nextEvent .quick-block-left {
+  width: 30%;
+}
+
+.quick-block .nextEvent .quick-block-right {
+  width: 70%;
+  margin-top: 16px;
+}
+
+.quick-block .nextEvent .quick-block-right a.btn {
+  margin-right: 4px;
+  margin-top: 5px;
+}
+
 .quick-block-right a.btn {
-  margin: 3px auto;
+  margin: 2px auto;
 }
 
 .quick-block .btn-primary {
@@ -595,6 +609,19 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
 
 
 @media only screen and (max-width : 1425px) {
+  .quick-block .nextEvent .quick-block-left {
+    width: 50%;
+  }
+
+  .quick-block .nextEvent .quick-block-right {
+    width: 50%;
+    margin-top: 0;
+  }
+
+  .quick-block .nextEvent .quick-block-right a.btn {
+    margin-top: 3px;
+  }
+
   .quick-block .resultsGroup a.btn {
     width: 23%;
     padding: 6px 8px;
@@ -844,7 +871,21 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
 
   }
 
-  /* @Home */
+  /* @Home - 640 */
+  .quick-block .nextEvent .quick-block-left {
+    width: 30%;
+  }
+
+  .quick-block .nextEvent .quick-block-right {
+    width: 70%;
+    margin-top: 20px;
+  }
+
+  .quick-block .nextEvent .quick-block-right a.btn {
+    margin-right: 4px;
+    margin-top: 5px;
+  }
+
   .quick-block.results p {
     width: 100%;
     text-align: left;
@@ -891,11 +932,20 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
   }
 
   .quick-block .resultsGroup a.btn {
-    /*width: 20%;*/
+    margin-right: 4px !important;
   }
 }
 
 @media only screen and (max-width : 460px) {
+  .quick-block .nextEvent .quick-block-left {
+    width: 50%;
+  }
+
+  .quick-block .nextEvent .quick-block-right {
+    width: 50%;
+    margin-top: 2px;
+  }
+
   .quick-block.results p {
     display: inline-block;
     width: 20%;

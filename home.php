@@ -8,7 +8,7 @@
 			echo '@ '.$nextEvent['site'].'<br/>';
 			echo '</div>';
 			echo '<div class="quick-block-right">';
-			echo '<a href="'.$axwareBaseEventURL.$nextEvent['axware_id'].'" target="_blank" class="btn btn-primary" role="button">Register Here</a><br/>';
+			echo '<a href="'.$axwareBaseEventURL.$nextEvent['axware_id'].'" target="_blank" class="btn btn-primary" role="button">Register Here</a>';
 			echo '<a href="'.$nextEvent['map_url'].'" target="_blank" class="btn btn-primary" role="button">Map to Event</a>';
 			echo '</div>';
 		 ?>
