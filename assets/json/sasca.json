@@ -98,7 +98,10 @@
 	"site_host": "SPOKES",
 	"joint": "true",
 	"site": "SAR",
-	"date": "20160821"
+	"date": "20160821",
+	"venue": "San Antonio Raceway",
+	"address": "3641 S Santa Clara Rd, Marion, TX 78124",
+	"map_url": "https://goo.gl/maps/cKzPJfwN5zM2"
 },
 {
 	"id": 9,

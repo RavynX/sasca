@@ -9,8 +9,31 @@
 			<th class="date">Date</th>
 			<th class="location">Location</th>
 			<th class="register">Register</th>
-			<th class="info">Info.</th>
+			<th class="info">Results</th>
 		</tr>
+<?php
+	foreach ($events as $key => $event) {
+
+				echo "<tr>";
+				echo "<td>#".$event['id']."</td>";
+				echo "<td>".date_format((new DateTime($event['date'])), 'F j').'</td>';
+				echo "<td><a href='".$event['map_url']."' target='_blank'>".$event['site']."</a></td>";
+				echo '<td><a href="'.$axwareBaseEventURL.$event['axware_id'].'" target="_blank" class="btn btn-primary" role="button">Register</a></td>';
+
+
+				echo "<td>";
+				if (beforeToday($event['date'])) {
+					echo '<a href="'.$axwareBaseResultsURL.$lastEvent['axware_host'].'/'.$lastEvent['results_filename'].'_fin.htm" target="_blank" class="btn btn-primary" role="button">Final</a>';
+					echo '<a href="'.$axwareBaseResultsURL.$lastEvent['axware_host'].'/'.$lastEvent['results_filename'].'_raw.htm" target="_blank" class="btn btn-primary" role="button">Raw</a>';
+					echo '<a href="'.$axwareBaseResultsURL.$lastEvent['axware_host'].'/'.$lastEvent['results_filename'].'_pax.htm" target="_blank" class="btn btn-primary" role="button">PAX</a>';
+					echo '<a href="'.$axwareBaseResultsURL.$lastEvent['axware_host'].'/'.$lastEvent['results_filename'].'_sum.htm" target="_blank" class="btn btn-primary" role="button">Summary</a>';
+				}
+				echo "</td>";
+				echo "<td></td>";
+				echo "</tr>";
+}
+	?>
+	<!--
 		<tr>
 			<td>#1 </td>
 			<td>January 23</td>
@@ -95,6 +118,7 @@
 			<td><a href="https://axwaresystems.com/axorm/calendar_main.php?viewevent=12319" target="_blank">Register Here</a></td>
 			<td class="info">&nbsp;</td>
 		</tr>
+	-->
 	</table>
 </div>
 

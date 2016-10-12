@@ -57,7 +57,7 @@
 			<div id="footer-container">
 				&copy;2016 SASCA All rights reserved
 				<script type="text/javascript" src="assets/js/sasca.js"></script>
-			<div>
+			</div>
 		</div>
 	</body>
 </html>
