@@ -17,7 +17,7 @@
 html {}
 
 body {
-  background: #eee;
+  background: #ddd;
   color: #000000;
   font-family: 'Merriweather Sans', sans-serif;
   height: 100vh;
@@ -33,9 +33,42 @@ a:hover, a:active {
 	text-decoration: none;
 }
 
-.btn-primary {
-  color: #FFF !important;
+.btn-primary:link,
+.btn-primary:visited {
+	color: #FFFFFF !important;
+	text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+	background-color: #214c70;
+	*background-color: #214c70;
+	background-image: -moz-linear-gradient(top, #337ab7, #214c70);
+	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#337ab7), to(#214c70));
+	background-image: -webkit-linear-gradient(top, #337ab7, #214c70);
+	background-image: -o-linear-gradient(top, #337ab7, #214c70);
+	background-image: linear-gradient(to bottom, #337ab7, #214c70);
+	background-repeat: repeat-x;
+	border-color: #214c70;
+	border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#337ab7', endColorstr='#214c70', GradientType=0);
+	filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
 }
+
+.btn-primary:hover,
+.btn-primary:focus {
+	color: #FFFFFF;
+	background-color: #337ab7;
+	*background-color: #214c70;
+  background-image: none;
+}
+
+.btn-primary:active {
+  color: #FFFFFF;
+  background-color: #214c70;
+  *background-color: #214c70;
+  background-image: none;
+}
+
+
+
+
 
 h1, h2, h3, h4, h5 {
   font-family: 'Ubuntu', sans-serif;
@@ -203,17 +236,13 @@ nav ul li a:active {
   margin-top: 16px;
 }
 
-.quick-block .nextEvent .quick-block-right a.btn {
+.quick-block .nextEvent .quick-block-right .btn {
   margin-right: 4px;
   margin-top: 5px;
 }
 
-.quick-block-right a.btn {
+.quick-block-right .btn {
   margin: 2px auto;
-}
-
-.quick-block .btn-primary {
-  color: #FFF !important;
 }
 
 /* Event Results */
