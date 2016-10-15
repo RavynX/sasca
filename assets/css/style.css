@@ -39,6 +39,8 @@ a:hover, a:active {
 
 h1, h2, h3, h4, h5 {
   font-family: 'Ubuntu', sans-serif;
+  margin: 0 0 10px 0;
+  padding: 0;
 }
 
 #page-container {
@@ -249,6 +251,7 @@ nav ul li a:active {
 
 /* @Content */
 #content {
+  margin-top: 15px;
   width: 695px;
   display: inline-block;
 }
@@ -388,7 +391,7 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
 
 /* @Registration Page */
 #register {
-	width: 775px;
+	width: 100%;
 	margin: 0 auto 0 auto;
 }
 
@@ -403,12 +406,11 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
 #events td {
 	text-align: center;
 	vertical-align: middle;
-	height: 25px;
+	height: 30px;
 }
 
 #events td .btn {
   padding: 3px 6px;
-  margin-right: 2px;
 }
 
 #events th {
@@ -477,6 +479,11 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
 
 #faq {
 	margin-top: 20px;
+}
+
+#faq p.ques {
+  font-size: 14px;
+  font-weight: bold;
 }
 
 #faq p.ans {

@@ -40,8 +40,8 @@
 						<ul id="nav-links">
 	            <li><a href="index.php">Home</a></li>
 	            <li><a href="info.php">Club Info</a></li>
-	            <li><a href="schedule.php">Schedule</a></li>
-	            <li><a href="register.php">Register</a></li>
+	            <li><a href="schedule.php">Itinerary</a></li>
+	            <li><a href="register.php">Schedule</a></li>
 	            <li><a href="novice.php">Novices</a></li>
 	            <li><a href="calendar.php">Calendar</a></li>
 	            <li><a target="_blank" href="http://www.sasca.org/forum/">Forum</a></li>
