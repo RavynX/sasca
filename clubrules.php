@@ -2,7 +2,7 @@
 <?php startblock('content') ?>
 <div id="rules">
 	<p class="heading">San Antonio Sports Car Association</p>
-	<p class="heading">2014 Autocross Rules</p>
+	<p class="heading"><?php echo date_format((new DateTime()), 'Y') ?> Autocross Rules</p>
 
 	<ol>
 		<li>General Information and Definitions</li>

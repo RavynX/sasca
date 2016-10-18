@@ -288,20 +288,25 @@ nav ul li a:active {
 /*********************************
 ******* @BOD **********************/
 #bod {
-	width: 600px;
 	margin: 0 auto 0 auto;
 }
 
+table.bod,
 table.chairs {
-	margin: 5px 0px 0px 15px;
 	background: #fff;
 	border: 1px solid #ccc;
 }
 
+table.bod td,
 table.chairs td {
 	margin-right: 1px;
 	padding: 2px 5px;
 	border-left: 1px solid #ccc;
+}
+
+table.bod td.title {
+    width: 145px;
+    font-weight: bold;
 }
 
 table.chairs td.title {
@@ -309,12 +314,20 @@ table.chairs td.title {
 	font-weight: bold;
 }
 
+table.bod td.name {
+    width: 200px;
+}
+
 table.chairs td.name {
 	width: 250px;
 }
 
-table.chairs td.email {
+table.bod td.email a {
+  font-size: 1.25em;
+  margin-top: 2px;
 }
+
+table.
 
 table.chairs tr.even {
 	background-color: #b8d0e8;
@@ -525,7 +538,7 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
 /* @FAQ - FAQ Page */
 
 #faq {
-	
+
 }
 
 #faq p.ques {
