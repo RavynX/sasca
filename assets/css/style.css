@@ -521,8 +521,11 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
 	background: #FFF;
 }
 
+
+/* @FAQ - FAQ Page */
+
 #faq {
-	margin-top: 20px;
+	
 }
 
 #faq p.ques {
@@ -797,7 +800,7 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
   }
 }
 
-@media only screen and (max-width : 640px) {
+@media only screen and (max-width : 680px) {
 
   html {}
 

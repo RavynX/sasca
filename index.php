@@ -42,6 +42,7 @@
 	            <li><a href="info.php">Club Info</a></li>
 	            <li><a href="itinerary.php">Itinerary</a></li>
 	            <li><a href="schedule.php">Schedule</a></li>
+							<li><a href="faq.php">FAQ</a></li>
 	            <li><a href="novices.php">Novices</a></li>
 	            <li><a href="calendar.php">Calendar</a></li>
 	            <li><a target="_blank" href="http://www.sasca.org/forum/">Forum</a></li>
