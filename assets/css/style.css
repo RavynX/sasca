@@ -54,15 +54,15 @@ a:hover, a:active {
 .btn-primary:hover,
 .btn-primary:focus {
 	color: #FFFFFF;
-	background-color: #337ab7;
+	background-color: #214c70;
 	*background-color: #214c70;
   background-image: none;
 }
 
 .btn-primary:active {
   color: #FFFFFF;
-  background-color: #214c70;
-  *background-color: #214c70;
+  background-color: #337ab7;
+  *background-color: #337ab7;
   background-image: none;
 }
 
@@ -426,6 +426,10 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
 
 #events {
 
+}
+
+#events tr:nth-child(even) {
+  background: #eeeeee;
 }
 
 #events tr:nth-child(odd) {
