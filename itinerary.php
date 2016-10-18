@@ -1,11 +1,12 @@
 <?php include 'index.php' ?>
 <?php startblock('content') ?>
-<div class="schedule">
-	<h2>Schedule for River City Community Church (RCCC) Site</h2>
+<div id="itinerary">
+	<h2>Itinerary</h2>
+	<p><b>River City Community Church (RCCC)</b></p>
 	<table>
 		<tr>
 			<th></th>
-			<th>Start Time</th>
+			<th class="right">Start Time</th>
 			<th></th>
 			<th>End Time</th>
 		</tr>
@@ -13,13 +14,13 @@
 			<td class="desc">Site Open</td>
 			<td class="time">7:00 am</td>
 			<td class="dash"></td>
-			<td></td>
+			<td class="time"></td>
 		</tr>
 		<tr>
 			<td class="desc">Set-Up</td>
 			<td class="time">7:00 am</td>
-			<td class="dash">-</td>
-			<td class="ext">help always needed and appreciated</td>
+			<td class="dash"></td>
+			<td></td>
 		</tr>
 		<tr>
 			<td class="desc">Registration</td>
@@ -46,7 +47,7 @@
 			<td>9:30 am</td>
 		</tr>
 		<tr>
-			<td class="desc">Driver's Meeting</td>
+			<td class="desc">Event Meeting</td>
 			<td class="time">9:30 am</td>
 			<td class="dash">-</td>
 			<td>9:45 am</td>

@@ -360,30 +360,36 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
 	margin-left: 20px;
 }
 
-/* @Schedule Page */
-.schedule {
-	width: 550px;
+/* @Itinerary Page */
+#itinerary {
 	margin: 0 auto 0 auto;
 }
 
-.schedule tr.even {
+#itinerary tr:nth-child(even) {
+  background: #eeeeee;
+}
+
+#itinerary tr:nth-child(odd) {
+  background: #b8d0e8;
+}
+
+#itinerary tr.even {
 	background: #b8d0e8;
 }
 
-.schedule tr.odd {
+#itinerary tr.odd {
 	background: #FFF;
 }
 
-.schedule table {
+#itinerary table {
 	margin-top: 5px;
-	margin-left: 20px;
 }
 
-.schedule table tr {
+#itinerary table tr {
 	height: 18px;
 }
 
-.schedule table th {
+#itinerary table th {
 	height: 23px;
 	padding-left: 0px;
 	vertical-align: middle;
@@ -393,28 +399,33 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
 	white-space: nowrap;
 }
 
-.schedule table td {
+#itinerary table th.right {
+  text-align: right;
+}
+
+#itinerary table td {
 	vertical-align: middle;
 	height: 25px;
 	padding-left: 10px;
 }
 
-.schedule table td.desc {
+#itinerary table td.desc {
 	text-align: left;
 	font-weight: bold;
 	width: 150px;
 }
 
-.schedule table td.time {
+#itinerary table td.time {
 	text-align: right;
+  width: 7em;
 }
 
-.schedule table td.dash {
+#itinerary table td.dash {
 	width: 30px;
 	text-align: center;
 }
 
-.schedule table td.ext {
+#itinerary table td.ext {
 	width: 250px;
 }
 
