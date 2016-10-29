@@ -1,7 +1,7 @@
 <?php include 'index.php' ?>
 <?php startblock('content') ?>
 
-<div id="faq">
+<div id="faq" class="ques_ans">
 	<h1>Frequently Asked Questions</h1><br/>
 
 	<p class="ques">What payment types are accepted?</p>
@@ -20,7 +20,7 @@
 	<p class="ans">You may change what you need to on event day during the check-in process at the trailer.  Just go to the non-preregistered side of the trailer (the side with the computer) in order to change details on your registration.</p>
 
 	<p class="ques">How do I register for the 'Double' PAX class?</p>
-	<p class="ans">Doubles are no longer pre-register option.  We are currently limiting the Double class to the first 15 drivers who sign up at the event.  You must be a member to register as a Double participant and you must work two assignments.</p>
+	<p class="ans">Doubles are no longer pre-register option.  We are currently limiting the Double class to the first 15 drivers who sign up at the event. Please see our <a href="doubles.php">Doubles Page</a> for more information.</p>
 </div>
 
 <?php endblock() ?>

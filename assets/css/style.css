@@ -33,6 +33,14 @@ a:hover, a:active {
 	text-decoration: none;
 }
 
+table tr:nth-child(even) {
+  background: #eeeeee;
+}
+
+table tr:nth-child(odd) {
+  background: #b8d0e8;
+}
+
 .btn-primary:link,
 .btn-primary:visited {
 	color: #FFFFFF !important;
@@ -92,6 +100,12 @@ h1, h2, h3, h4, h5 {
 
 #content-container {
   padding: 15px;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  -ms-hyphens: auto;
+  -moz-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto;
 }
 
 #footer-container {
@@ -535,19 +549,24 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
 }
 
 
-/* @FAQ - FAQ Page */
-
-#faq {
-
-}
-
-#faq p.ques {
+.ques_ans p.ques {
   font-size: 14px;
   font-weight: bold;
 }
 
-#faq p.ans {
-	margin: 5px 0 15px 20px;
+.ques_ans p.ans {
+  margin: 5px 0 15px 20px;
+}
+
+.ques_ans li {
+  list-style-type: disc;
+  margin-left: 15px;
+}
+
+/* @FAQ - FAQ Page */
+
+#faq {
+
 }
 
 
@@ -585,7 +604,7 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
 
 #rules ol {
 	margin-top: 5px;
-	margin-left: 20px;
+	margin-left: 7px;
 }
 
 #rules li {
@@ -682,7 +701,12 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
 	list-style: disc;
 	list-style-position: inside;
 }
-/* Novice - Improve Page */
+
+/* Doubles - @Doubles */
+#doubles_require, #doubles_work, #doubles_rules {
+  list-style-type: decimal;
+  margin-left: 10px;
+}
 
 
 @media only screen and (max-width : 1425px) {
@@ -712,7 +736,7 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
 }
 
 @media only screen and (max-width : 1200px) {
-  /* Event Results - 960 */
+  /* Event Results - 1200 */
   .quick-block.results p {
     display: inline-block;
     width: 20%;

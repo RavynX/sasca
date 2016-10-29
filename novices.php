@@ -1,5 +1,5 @@
 <?php include 'index.php' ?>
 <?php startblock('content') ?>
-Novice Page
+Novice Page Coming Soon
 
 <?php endblock() ?>

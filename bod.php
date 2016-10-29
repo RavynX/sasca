@@ -33,12 +33,16 @@
 	<h1>2016 Chairs</h1>
 	<table class="chairs">
 		<tr>
+			<td class="title">Novice Chief</td>
+			<td class="name">Brian Burdette</td>
+		</tr>
+		<tr>
 			<td class="title">Membership</td>
 			<td class="name">Eric Yee</td>
 		</tr>
 		<tr>
-			<td class="title">Novice Chief</td>
-			<td class="name">Brian Burdette</td>
+			<td class="title">Tech Inspection</td>
+			<td class="name">Alyssa Roetheli</td>
 		</tr>
 		<tr>
 			<td class="title">Safety Steward</td>
@@ -47,10 +51,6 @@
 		<tr>
 			<td class="title">Equipment Manager</td>
 			<td class="name">Jeff Chesnut</td>
-		</tr>
-		<tr>
-			<td class="title">Tech Inspection</td>
-			<td class="name">Alyssa Roetheli</td>
 		</tr>
 		<tr>
 			<td class="title">Timing and Scoring</td>
