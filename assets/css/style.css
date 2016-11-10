@@ -242,11 +242,11 @@ nav ul li a:active {
 }
 
 .quick-block .nextEvent .quick-block-left {
-  width: 30%;
+  width: 40%;
 }
 
 .quick-block .nextEvent .quick-block-right {
-  width: 70%;
+  width: 60%;
   margin-top: 16px;
 }
 
