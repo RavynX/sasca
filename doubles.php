@@ -9,13 +9,13 @@
 
 <b>Work Assignment</b>
 <ol id="doubles_work">
-  <li>You will need to work at least 1 assignment and pack the trailer at the end of the day.  No exceptions.</li>
-  <li>Early morning</li>
+  <li>You will need to work at least 1 assignment, check with the worker chief.</li>
+  <li>All Doubles must pack the trailer at the end of the day.  No exceptions.</li>
 </ol>
 
 <b>Rules</b>
 <ol id="doubles_rules">
-  <li>Doubles will always run 3rd heat.</li>
-  <li>Open classes will either be 1st or 2nd heat.</li>
+  <li>You must run your Open class first, either in 1st or 2nd heat.</li>
+  <li>Your Double runs will always occur in the last heat.</li>
 </ol>
 <?php endblock() ?>
