@@ -93,7 +93,7 @@ h1, h2, h3, h4, h5 {
 #header-container {
   position: relative;
   height: 220px;
-  background: #EEEEEE url('../images/sasca_cnc.jpg') no-repeat bottom center;
+  background: #EEEEEE url('../images/banner_sasca_rccc_s.png') no-repeat center center;
   background-size: cover;
   transition: 0.2s;
 }
@@ -183,6 +183,15 @@ nav ul li a:active {
 
 /*********************************
 ******* Index Page ***************/
+.novice-block {
+  margin-bottom: 10px;
+  display: none;
+}
+
+.novice-block .btn {
+
+}
+
 .quick-block {
   position: relative;
   width: 31%;
@@ -359,6 +368,11 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
 #calendar-frame {
 	display: block;
 	margin: 0 auto;
+}
+
+#calendar .icon {
+  height: 75px;
+  border: 0;
 }
 
 
@@ -973,6 +987,14 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
   }
 
   /* @Home - 640 */
+  .novice-block {
+    display: block;
+  }
+
+  .novice-block .btn {
+    width: 100%;
+  }
+
   .quick-block .nextEvent .quick-block-left {
     width: 30%;
   }

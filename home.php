@@ -1,3 +1,6 @@
+<div class="novice-block">
+	<a href="novices.php" class="btn btn-primary" role="button">New to SASCA? Click here to Learn More!</a>
+</div>
 <div class="quick-block">
 	<div class="title">Next Event</div>
 	<div class="content nextEvent">
