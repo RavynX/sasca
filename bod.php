@@ -20,7 +20,7 @@
 		</tr>
 		<tr>
 			<td class="title">Secretary</td>
-			<td class="name">Jason Marshall</td>
+			<td class="name">Jeff Chesnut</td>
 			<td class="email"><a class="glyphicon glyphicon-envelope" href="mailto:secretary@sasca.org"></a></td>
 		</tr>
 		<tr>
@@ -50,7 +50,7 @@
 		</tr>
 		<tr>
 			<td class="title">Equipment Manager</td>
-			<td class="name">Jeff Chesnut</td>
+			<td class="name">Jon Parkoff</td>
 		</tr>
 		<tr>
 			<td class="title">Timing and Scoring</td>
@@ -59,10 +59,6 @@
 		<tr>
 			<td class="title">Worker Chief</td>
 			<td class="name">Adam White</td>
-		</tr>
-		<tr>
-			<td class="title">Sound Steward</td>
-			<td class="name">James Bricken</td>
 		</tr>
 		<tr>
 			<td class="title">Webmasters</td>

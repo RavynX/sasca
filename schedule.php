@@ -1,7 +1,7 @@
 <?php include 'index.php' ?>
 <?php startblock('content') ?>
 <div id="register">
-	<h1>2016 SASCA Schedule</h1>
+	<h1>2017 SASCA Schedule</h1>
 	<table id="events">
 		<tr>
 			<th class="number">&nbsp;</th>

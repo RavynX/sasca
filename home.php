@@ -20,13 +20,13 @@
 <div class="quick-block results">
 	<div class="title">Event Results</div>
 	<div class="content">
-		<p>Points Event #<?php echo $lastEvent['id']; ?></p>
+		<p>Points Event #<?php echo $previousEvent['id']; ?></p>
 		<div class="resultsGroup">
 		<?php
-			echo '<a href="'.$axwareBaseResultsURL.$lastEvent['axware_host'].'/'.$lastEvent['results_filename'].'_fin.htm" target="_blank" class="btn btn-primary" role="button">Final</a>';
-			echo '<a href="'.$axwareBaseResultsURL.$lastEvent['axware_host'].'/'.$lastEvent['results_filename'].'_raw.htm" target="_blank" class="btn btn-primary" role="button">Raw</a>';
-			echo '<a href="'.$axwareBaseResultsURL.$lastEvent['axware_host'].'/'.$lastEvent['results_filename'].'_pax.htm" target="_blank" class="btn btn-primary" role="button">PAX</a>';
-			echo '<a href="'.$axwareBaseResultsURL.$lastEvent['axware_host'].'/'.$lastEvent['results_filename'].'_sum.htm" target="_blank" class="btn btn-primary" role="button">Summary</a>';
+			echo '<a href="'.$axwareBaseResultsURL.$previousEvent['axware_host'].'/'.$previousEvent['results_filename'].'_fin.htm" target="_blank" class="btn btn-primary" role="button">Final</a>';
+			echo '<a href="'.$axwareBaseResultsURL.$previousEvent['axware_host'].'/'.$previousEvent['results_filename'].'_raw.htm" target="_blank" class="btn btn-primary" role="button">Raw</a>';
+			echo '<a href="'.$axwareBaseResultsURL.$previousEvent['axware_host'].'/'.$previousEvent['results_filename'].'_pax.htm" target="_blank" class="btn btn-primary" role="button">PAX</a>';
+			echo '<a href="'.$axwareBaseResultsURL.$previousEvent['axware_host'].'/'.$previousEvent['results_filename'].'_sum.htm" target="_blank" class="btn btn-primary" role="button">Summary</a>';
 		?>
 		</div>
 	</div>

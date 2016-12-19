@@ -350,7 +350,6 @@ table.bod td.email a {
   margin-top: 2px;
 }
 
-table.
 
 table.chairs tr.even {
 	background-color: #b8d0e8;
@@ -684,6 +683,16 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
 	margin-bottom: 20px;
 }
 
+/* @Novices - Main Page */
+#novice_links {
+  margin: 0 auto;
+}
+
+#novice_links .btn {
+  width: 20%;
+  margin-bottom: 5px;
+}
+
 
 /* @Novices - First Time */
 #firsttime p {
@@ -845,6 +854,17 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
     margin-right: 3px;
   }
 
+  #novices {
+    width: 100%;
+  }
+
+  #novice_links .btn {
+    width: 49%;
+    float: left;
+    margin-bottom: 5px;
+    margin-right: 5px;
+  }
+
   nav ul li a {
     width: 6em;
     font-size: 14px;
@@ -999,6 +1019,19 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
   }
 
   /* @Home - 640 */
+  #novices {
+    width: 100%;
+  }
+
+  #novice_links .btn {
+    width: 100%;
+    clear: both;
+    margin-bottom: 5px;
+    margin-right: 5px;
+  }
+
+
+
   .novice-block {
     display: block;
   }
@@ -1093,5 +1126,10 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
     text-align: center;
     margin-top: 8px;
     width: 15em;
+  }
+
+  #novice_links .btn {
+    width: 100%;
+    margin-bottom: 5px;
   }
 }

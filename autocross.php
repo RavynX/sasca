@@ -1,8 +1,5 @@
 <?php include 'index.php' ?>
 <?php startblock('content') ?>
-<div id="improve">
-	<p>Improving your Skills</p>
+What is Autocross?
 
-
-</div>
 <?php endblock() ?>

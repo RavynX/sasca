@@ -1,7 +1,7 @@
 <?php include 'index.php' ?>
 <?php startblock('content') ?>
 <h1>Club Information</h1>
-<a href="members.php">Become a Member!</a><br/>
+<a href="membership.php">Become a Member!</a><br/>
 <a href="bod.php">Board of Directors &amp; Chairs</a><br/>
 <a href="clubrules.php">SASCA Rules</a><br/>
 <a href="bylaws.php">SASCA Bylaws</a><br/>
