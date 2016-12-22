@@ -40,8 +40,8 @@
 						<ul id="nav-links">
 	            <li><a href="index.php">Home</a></li>
 	            <li><a href="info.php">Club Info</a></li>
-	            <li><a href="itinerary.php">Itinerary</a></li>
-	            <li><a href="schedule.php">Schedule</a></li>
+	            <li><a href="itinerary.php" class="wide">Event Itinerary</a></li>
+	            <li><a href="schedule.php" class="wide">Annual Schedule</a></li>
 							<li><a href="faq.php">FAQ</a></li>
 	            <li><a href="novices.php">Novices</a></li>
 	            <li><a href="calendar.php">Calendar</a></li>
