@@ -1,7 +1,7 @@
 <?php include 'index.php' ?>
 <?php startblock('content') ?>
 <div id="itinerary">
-	<h2>Itinerary</h2>
+	<h1>Itinerary</h1>
 	<p><b>River City Community Church (RCCC)</b></p>
 	<table>
 		<tr>
