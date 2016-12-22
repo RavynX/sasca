@@ -1,7 +1,7 @@
 {
 "events": [{
 	"id": 1,
-	"axware_id": 0,
+	"axware_id": 12493,
 	"axware_host": "SASCA",
 	"results_filename": "e01-jan2017",
 	"site_host": "SASCA",
@@ -14,7 +14,7 @@
 },
 {
 	"id": 2,
-	"axware_id": 0,
+	"axware_id": 12495,
 	"axware_host": "SASCA",
 	"results_filename": "e02-feb2017",
 	"site_host": "SASCA",
@@ -27,7 +27,7 @@
 },
 {
 	"id": 3,
-	"axware_id": 0,
+	"axware_id": 12494,
 	"axware_host": "SASCA",
 	"results_filename": "e03-mar2017",
 	"site_host": "SASCA",
@@ -40,7 +40,7 @@
 },
 {
 	"id": 4,
-	"axware_id": 0,
+	"axware_id": 12496,
 	"axware_host": "SASCA",
 	"results_filename": "e04-apr2017",
 	"site_host": "SASCA",
@@ -53,7 +53,7 @@
 },
 {
 	"id": 5,
-	"axware_id": 0,
+	"axware_id": 12497,
 	"axware_host": "SASCA",
 	"results_filename": "e05-may2017",
 	"site_host": "SASCA",
@@ -66,7 +66,7 @@
 },
 {
 	"id": 6,
-	"axware_id": 0,
+	"axware_id": 12498,
 	"axware_host": "SASCA",
 	"results_filename": "e06-jun2017",
 	"site_host": "SASCA",
@@ -79,7 +79,7 @@
 },
 {
 	"id": 7,
-	"axware_id": 0,
+	"axware_id": 12499,
 	"axware_host": "SASCA",
 	"results_filename": "e07-jul2017",
 	"site_host": "SASCA",
@@ -92,7 +92,7 @@
 },
 {
 	"id": 8,
-	"axware_id": 0,
+	"axware_id": 12500,
 	"axware_host": "SASCA",
 	"results_filename": "e08_aug2017",
 	"site_host": "SASCA",
@@ -105,7 +105,7 @@
 },
 {
 	"id": 9,
-	"axware_id": 0,
+	"axware_id": 12501,
 	"axware_host": "SASCA",
 	"results_filename": "e09-sep2017",
 	"site_host": "SASCA",
@@ -118,7 +118,7 @@
 },
 {
 	"id": 10,
-	"axware_id": 0,
+	"axware_id": 12502,
 	"axware_host": "SASCA",
 	"results_filename": "e10-oct2017",
 	"site_host": "SASCA",
@@ -131,7 +131,7 @@
 },
 {
 	"id": 11,
-	"axware_id": 0,
+	"axware_id": 12503,
 	"axware_host": "SASCA",
 	"results_filename": "e11-nov2017",
 	"site_host": "SASCA",
@@ -144,7 +144,7 @@
 },
 {
 	"id": 12,
-	"axware_id": 0,
+	"axware_id": 12505,
 	"axware_host": "SASCA",
 	"results_filename": "e12-dec2017",
 	"site_host": "SASCA",
