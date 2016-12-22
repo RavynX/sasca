@@ -685,7 +685,9 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
 
 /* @Novices - Main Page */
 #novice_links {
+  width: 1450px;
   margin: 0 auto;
+  text-align: center;
 }
 
 #novice_links .btn {
@@ -768,6 +770,18 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
     padding: 0;
   }
 
+  /* @Novices - Main Page */
+  #novice_links {
+    width: 100%;
+    margin: 0 auto;
+  }
+
+  #novice_links .btn {
+    width: 49%;
+    float: left;
+    margin-bottom: 5px;
+    margin-right: 5px;
+  }
 }
 
 @media only screen and (max-width : 1200px) {
@@ -797,6 +811,17 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
 
   .quick-block .nextMeeting a.btn {
 
+  }
+
+  #novices {
+    width: 100%;
+  }
+
+  #novice_links .btn {
+    width: 49%;
+    float: left;
+    margin-bottom: 5px;
+    margin-right: 5px;
   }
 }
 
