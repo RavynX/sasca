@@ -1,9 +1,6 @@
 (function($) {
-  $('#scheduleTabs a').click(function (e) {
-    e.preventDefault();
-    $(this).tab('show');
+  $( '.menu-btn' ).click(function(){
+    $('#nav-links').toggleClass('expand');
   });
-
-  $('#scheduleTabs a:first').tab('show');
 
 })(jQuery);

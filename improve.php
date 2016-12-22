@@ -1,7 +1,7 @@
 <?php include 'index.php' ?>
 <?php startblock('content') ?>
 <div id="improve">
-	<p>Page in Progress</p>
+	<p>Improving your Skills</p>
 
 
 </div>
