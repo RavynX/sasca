@@ -33,7 +33,7 @@
 
         <li>Schedule</li>
         <ul>
-        	<li>Generally, no registration will be allowed after the close of late registration. The President or his representative may consider allowing a driver late registration under dire circumstances. The BOD may modify the default schedule below if events warrent a change.</li>
+        	<li>Generally, no registration will be allowed after the close of late registration. The President or his representative may consider allowing a driver late registration under dire circumstances. The BOD may modify the default schedule below if events warrant a change.</li>
         	<li></li>
         	<li>
         		<table class="schedule">

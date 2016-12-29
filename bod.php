@@ -1,7 +1,7 @@
 <?php include 'index.php' ?>
 <?php startblock('content') ?>
 <div id="bod">
-	<h1>2016 Board of Directors</h1>
+	<h1>2017 Board of Directors</h1>
 	<table class="bod">
 		<tr>
 			<td class="title">President</td>
@@ -26,11 +26,11 @@
 		<tr>
 			<td class="title">Past President</td>
 			<td class="name">Ricky Crow</td>
-			<td class="email"><a class="glyphicon glyphicon-envelope" href="mailto:bod@sasca.org"></a></td>
+			<td class="email"><a class="glyphicon glyphicon-envelope" href="mailto:pastpresident@sasca.org"></a></td>
 		</tr>
 	</table>
 	<br/>
-	<h1>2016 Chairs</h1>
+	<h1>2017 Chairs</h1>
 	<table class="chairs">
 		<tr>
 			<td class="title">Novice Chief</td>
