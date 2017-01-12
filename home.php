@@ -40,7 +40,7 @@
 		Chat @ 6:30pm<br/>Meeting @ <b>7:30pm</b>
 		</div>
 		<div class="quick-block-right">
-		<?php	echo '<a href="'.$nextEvent['map_url'].'" target="_blank" class="btn btn-primary" role="button">Map to Event</a>'; ?>
+		<?php	echo '<a href="'.$nextMeeting['map_url'].'" target="_blank" class="btn btn-primary" role="button">Map to Event</a>'; ?>
 		</div>
 	</div>
 </div>
