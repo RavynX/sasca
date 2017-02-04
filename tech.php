@@ -23,7 +23,7 @@
 	<p>Both brake and accelerator pedals are working properly (firm brake, accelerator returns smoothly).</p>
 
 	<p class="heading">Loose items</p>
-	<p>All loose items should be removed from the trunk and the vehicle cabin, including floor mats.</p>
+	<p>All loose items should be removed from the trunk and the vehicle cabin. Driver’s side floor mat must be removed unless securely mounted.</p>
 
 	<p class="heading">Seat Belts</p>
 	<p>Some type of functional seat belt must be used.</p>
