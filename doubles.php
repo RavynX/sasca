@@ -34,8 +34,8 @@
 
 <b>Rules</b>
 <ol id="doubles_rules">
-  <li>You must run your Open class first, either in 1st or 2nd heat.</li>
-  <li>Your Double runs will always occur in the last heat.</li>
+  <li>You must run your Open runs first, either in 1st or 2nd heat.</li>
+  <li>Your Doubles runs will be during your "off" heat, so 2nd or 3rd heat, relative to your Open runs.</li>
 </ol>
 
 <b>Disclaimers</b>
