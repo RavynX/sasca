@@ -2,8 +2,13 @@
 <?php startblock('content') ?>
 <h1>What is Autocross?</h1>
 
-<p>Driving your car on an enclosed course made of cones typically in a parking lot against the clock.</p>
+<p>A form of motorsport where you're racing against the clock on a tighter/smaller temporary road course constructed from cones and sometimes outlined with chalk.</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Af2zJAOAqWQ" frameborder="0" allowfullscreen></iframe>
+<div class="videoWrapper">
+  <iframe src="https://www.youtube.com/embed/Af2zJAOAqWQ" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
+
 
 <?php endblock() ?>
