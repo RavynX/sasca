@@ -86,6 +86,19 @@ h1, h2, h3, h4, h5 {
   padding: 0;
 }
 
+ul {
+
+}
+
+ul.disc {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+ul.spacing li {
+  padding-bottom: 5px;
+}
+
 #page-container {
   min-height: 100%;
   position: relative;
@@ -943,8 +956,16 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
 
   }
 
-  h1, h2, h3, h4, h5 {
+  h1 {
     font-size: 28px;
+  }
+
+  h2 {
+    font-size: 24px;
+  }
+
+  h3, h4, h5 {
+    font-size: 22px;
   }
 
   #page-container {
@@ -1094,6 +1115,7 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
 
   .novice-block .btn {
     width: 100%;
+
   }
 
   .quick-block .nextEvent .quick-block-left {
