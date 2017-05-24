@@ -8,6 +8,7 @@
 		<meta property="og:type" content="website" />
 		<meta property="og:url" content="http://www.sasca.org/" />
 		<meta property="og:image" content="http://www.sasca.org/assets/images/sasca_logo_black_bg.gif" />
+		<meta property="og:description" content="SASCA - San Antonio Sports Car Association : The Autocrossing community from San Antonio, TX.">
 
 		<meta name="title" content="SASCA - San Antonio Sports Car Association" />
 		<meta name="thumbnail" content="http://www.sasca.org/assets/images/sasca_logo_black_bg.gif" />
