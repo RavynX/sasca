@@ -32,7 +32,7 @@
   <div class="add_cal">
     <a href="https://calendar.google.com/calendar/ical/sascaracing%40gmail.com/public/basic.ics">
       <img class="icon" src="assets/images/iCalendar_icon.png"/>
-      <p>iCalendar (ics).</p>
+      <p>iCalendar (ics)</p>
     </a>
   </div>
   <div class="add_cal">
