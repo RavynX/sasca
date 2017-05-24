@@ -401,24 +401,24 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
 }
 
 /* @Calendar */
-#calendar-frame {
-	display: block;
-	margin: 0 auto;
+#calendar {
+  margin-top: 15px;
 }
 
 #calendar .add_cal {
+  float: left;
   height: 80px;
+  margin-right: 25px;
+  text-align: center;
 }
 
 #calendar .add_cal .icon {
-  float: left;
-  height: 6em;
+  height: 4em;
   border: 0;
 }
 
 #calendar .add_cal p {
   text-align: justify;
-  vertical-align: middle;
   margin-top: 10px;
   line-height: 2em;
 }

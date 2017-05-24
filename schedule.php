@@ -28,4 +28,20 @@
 	</table>
 </div>
 
+<div id="calendar" class="clearfix">
+  <div class="add_cal">
+    <a href="https://calendar.google.com/calendar/ical/sascaracing%40gmail.com/public/basic.ics">
+      <img class="icon" src="assets/images/iCalendar_icon.png"/>
+      <p>iCalendar (ics).</p>
+    </a>
+  </div>
+  <div class="add_cal">
+    <a href="https://calendar.google.com/calendar/embed?src=sascaracing%40gmail.com&ctz=America/Chicago">
+      <img class="icon" src="assets/images/calendar-icon.png"/>
+      <p>Google Calendar</p>
+    </a>
+  </div>
+	<div
+</div>
+
 <?php endblock() ?>
