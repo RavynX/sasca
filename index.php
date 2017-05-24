@@ -6,6 +6,7 @@
 		<title>SASCA - San Antonio Sports Car Association</title>
 		<meta name="title" content="SASCA - San Antonio Sports Car Association" />
 		<meta name="thumbnail" content="assets/images/sasca_logo_medium.gif" />
+		<meta property="og:image" content="assets/images/sasca_logo_medium.gif" />
 		<meta name="description" content="SASCA - San Antonio Sports Car Association : The Autocrossing community from San Antonio, TX.">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
@@ -30,7 +31,7 @@
 		<?php	include('json.php'); ?>
     <div id="page-container">
       <div id="header-container">
-				<a id="header-logo-url" alt="San Antonio Sports Car Association" href="/"><img id="header-logo" src="assets/images/sasca_white_transparent.png"/></a>
+				<a id="header-logo-url" href="/"><img id="header-logo" src="assets/images/sasca_white_transparent.png" alt="San Antonio Sports Car Association"/></a>
 				<div id="nav-container">
 					<div class="menu-btn">
 						<div></div>
