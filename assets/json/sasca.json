@@ -200,57 +200,57 @@
 		"id": 6,
     "event_id": 6,
     "date": "20170614",
-		"venue": "Hofbrau At The Rim",
-    "address": "18403 West I10, San Antonio, TX 78257",
-    "map_url": "https://goo.gl/maps/pAn2LxbvT7B2"
+		"venue": "Biff Buzby's Burgers",
+    "address": "12702 Toepperwein Rd Suite #130, Live Oak, TX 78233",
+    "map_url": "https://goo.gl/maps/TSJX7nSEGAE2"
 	},
   {
 		"id": 7,
     "event_id": 7,
     "date": "20170719",
-		"venue": "Hofbrau At The Rim",
-    "address": "18403 West I10, San Antonio, TX 78257",
-    "map_url": "https://goo.gl/maps/pAn2LxbvT7B2"
+		"venue": "Biff Buzby's Burgers",
+    "address": "12702 Toepperwein Rd Suite #130, Live Oak, TX 78233",
+    "map_url": "https://goo.gl/maps/TSJX7nSEGAE2"
 	},
   {
     "id": 8,
     "event_id": 8,
     "date": "20170816",
-    "venue": "Hofbrau At The Rim",
-    "address": "18403 West I10, San Antonio, TX 78257",
-    "map_url": "https://goo.gl/maps/pAn2LxbvT7B2"
+		"venue": "Biff Buzby's Burgers",
+    "address": "12702 Toepperwein Rd Suite #130, Live Oak, TX 78233",
+    "map_url": "https://goo.gl/maps/TSJX7nSEGAE2"
   },
   {
     "id": 9,
     "event_id": 9,
     "date": "20170927",
-    "venue": "Hofbrau At The Rim",
-    "address": "18403 West I10, San Antonio, TX 78257",
-    "map_url": "https://goo.gl/maps/pAn2LxbvT7B2"
+		"venue": "Biff Buzby's Burgers",
+    "address": "12702 Toepperwein Rd Suite #130, Live Oak, TX 78233",
+    "map_url": "https://goo.gl/maps/TSJX7nSEGAE2"
   },
   {
     "id": 10,
     "event_id": 10,
     "date": "20171018",
-    "venue": "Hofbrau At The Rim",
-    "address": "18403 West I10, San Antonio, TX 78257",
-    "map_url": "https://goo.gl/maps/pAn2LxbvT7B2"
+		"venue": "Biff Buzby's Burgers",
+    "address": "12702 Toepperwein Rd Suite #130, Live Oak, TX 78233",
+    "map_url": "https://goo.gl/maps/TSJX7nSEGAE2"
   },
   {
     "id": 11,
     "event_id": 11,
     "date": "20171108",
-    "venue": "Hofbrau At The Rim",
-    "address": "18403 West I10, San Antonio, TX 78257",
-    "map_url": "https://goo.gl/maps/pAn2LxbvT7B2"
+		"venue": "Biff Buzby's Burgers",
+    "address": "12702 Toepperwein Rd Suite #130, Live Oak, TX 78233",
+    "map_url": "https://goo.gl/maps/TSJX7nSEGAE2"
   },
   {
     "id": 12,
     "event_id": 12,
     "date": "20171206",
-    "venue": "Hofbrau At The Rim",
-    "address": "18403 West I10, San Antonio, TX 78257",
-    "map_url": "https://goo.gl/maps/pAn2LxbvT7B2"
+		"venue": "Biff Buzby's Burgers",
+    "address": "12702 Toepperwein Rd Suite #130, Live Oak, TX 78233",
+    "map_url": "https://goo.gl/maps/TSJX7nSEGAE2"
   }
 ],
 "schools": [
