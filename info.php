@@ -5,6 +5,7 @@
 <a href="bod.php">Board of Directors &amp; Chairs</a><br/>
 <a href="clubrules.php">SASCA Rules</a><br/>
 <a href="bylaws.php">SASCA Bylaws</a><br/>
+<a href="history.php">SASCA Club History</a><br/>
 <br/>
 <a href="https://www.scca.com/pages/solo-cars-and-rules" target="_blank">SCCA Rules</a><br/>
 <a href="faq.php">Frequently Asked Questions</a><br/>
