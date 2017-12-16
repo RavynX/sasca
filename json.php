@@ -83,6 +83,18 @@
     return $json;
   }
 
+  function getThisSeasonYear() {
+    global $currentSeasonJson;
+    $thisSeason = decodeJson($currentSeasonJson);
+
+    if (isset($thisSeason)) {
+      return $thisSeason['season'];
+    }
+    else {
+      return null;
+    }
+  }
+
   function getThisSeasonEvents() {
     global $currentSeasonJson;
     $thisSeason = decodeJson($currentSeasonJson);
@@ -107,6 +119,7 @@
     return $archiveJson[$previousYear]['events'];
   }
 
+  $thisSeasonYear = getThisSeasonYear();
   $thisSeason = getThisSeason();
   $events = getThisSeasonEvents();
   $meetings = $thisSeason['meetings'];
