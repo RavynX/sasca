@@ -38,15 +38,19 @@
 		</tr>
 		<tr>
 			<td class="title">Membership</td>
-			<td class="name">Eric Yee</td>
+			<td class="name">Jay Cryderman</td>
 		</tr>
 		<tr>
 			<td class="title">Tech Inspection</td>
 			<td class="name">Alyssa Roetheli</td>
 		</tr>
 		<tr>
+			<td class="title">Worker Chief</td>
+			<td class="name">Kevin Childers</td>
+		</tr>
+		<tr>
 			<td class="title">Safety Steward</td>
-			<td class="name">Matt Harrell</td>
+			<td class="name">Thom Hardy</td>
 		</tr>
 		<tr>
 			<td class="title">Equipment Manager</td>
@@ -55,10 +59,6 @@
 		<tr>
 			<td class="title">Timing and Scoring</td>
 			<td class="name">Ricky Crow</td>
-		</tr>
-		<tr>
-			<td class="title">Worker Chief</td>
-			<td class="name">Adam White</td>
 		</tr>
 		<tr>
 			<td class="title">Webmasters</td>
