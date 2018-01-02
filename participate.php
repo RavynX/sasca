@@ -25,6 +25,6 @@
   </p>
 
   <h3>Novice Course Walk</h3>
-  <p class="desc">Course is usually open for walking starting around 9:00 to 9:30 am but around 9:45 am we have the Novice Stewards walk the novices through the course giving them tips on taking the proper line and noting key cones to look for.  It is highly recommended to attend the Novice Course Walk.</p>
+  <p class="desc">Course is usually open for walking starting around 8:45.  Listen for announcements around 9am for the Novice Course Walk.  Around 9:00-9:15am the Novice Steward will walk the novices through the course giving them tips on taking the proper line and noting key cones to look for.  It is highly recommended to attend the Novice Course Walk.</p>
 </div>
 <?php endblock() ?>
