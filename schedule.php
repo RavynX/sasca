@@ -16,7 +16,10 @@
 				echo "<td>#".$event['id']."</td>";
 				echo "<td>".date_format((new DateTime($event['date'])), 'M j').'</td>';
 				echo "<td><a href='".$event['map_url']."' target='_blank'>".$event['site']."</a></td>";
-				if(afterYesterday($event['date'])) {
+				if ($event['axware_id'] == 0) {
+					echo '<td>TBD</td>';
+				}
+				else if(afterYesterday($event['date'])) {
 					echo '<td><a href="'.$axwareBaseEventURL.$event['axware_id'].'" target="_blank" class="btn btn-primary" role="button">Register</a></td>';
 				}
 				else {
