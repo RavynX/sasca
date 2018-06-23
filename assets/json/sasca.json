@@ -55,8 +55,8 @@
 	{
 		"id": 5,
 		"axware_id": 12788,
-		"axware_host": "SASCA",
-		"results_filename": "e05-apr_28_2018-dsq",
+		"axware_host": "SPOKES",
+		"results_filename": "spokes5_rc3audited",
 		"site_host": "SASCA",
 		"joint": "false",
 		"site": "RCCC",
