@@ -1,7 +1,7 @@
 <?php include 'index.php' ?>
 <?php startblock('content') ?>
 <div id="bod">
-	<h1>2017 Board of Directors</h1>
+	<h1>2018 Board of Directors</h1>
 	<table class="bod">
 		<tr>
 			<td class="title">President</td>
@@ -10,7 +10,7 @@
 		</tr>
 		<tr>
 			<td class="title">Vice President</td>
-			<td class="name">Diane Stevens</td>
+			<td class="name">Diane Stevens Leclair</td>
 			<td class="email"><a class="glyphicon glyphicon-envelope" href="mailto:vicepresident@sasca.org"></a></td>
 		</tr>
 		<tr>
@@ -30,7 +30,7 @@
 		</tr>
 	</table>
 	<br/>
-	<h1>2017 Chairs</h1>
+	<h1>2018 Chairs</h1>
 	<table class="chairs">
 		<tr>
 			<td class="title">Novice Chief</td>
