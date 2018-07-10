@@ -37,7 +37,7 @@
 		<div class="quick-block-left">
 		<?php echo date_format((new DateTime($nextMeeting['date'])), 'D\, M j\, Y'); ?><br/>
 		<?php echo $nextMeeting['venue']; ?><br/>
-		Chat @ 6:30pm<br/>Meeting @ <b>7:30pm</b>
+		Chat @ 7:00pm<br/>Meeting @ <b>7:30pm</b>
 		</div>
 		<div class="quick-block-right">
 		<?php	echo '<a href="'.$nextMeeting['map_url'].'" target="_blank" class="btn btn-primary" role="button">Map to Event</a>'; ?>
