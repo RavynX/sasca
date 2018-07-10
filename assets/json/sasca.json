@@ -69,7 +69,7 @@
 		"id": 6,
 		"axware_id": 12789,
 		"axware_host": "SASCA",
-		"results_filename": "e06_jun2018-dsq",
+		"results_filename": "e06-jul2018",
 		"site_host": "SASCA",
 		"joint": "false",
 		"site": "RCCC",
@@ -193,17 +193,17 @@
 			"id": 5,
 	    "event_id": 5,
 	    "date": "20180613",
-			"venue": "Biff Buzby's Burgers",
-	    "address": "12702 Toepperwein Rd Suite #130, Live Oak, TX 78233",
-	    "map_url": "https://goo.gl/maps/TSJX7nSEGAE2"
+			"venue": "Sea Island Shrimp House",
+	    "address": "10303 W IH 10, San Antonio, TX 78230",
+	    "map_url": "https://goo.gl/maps/P4fUga2gRMM2"
 		},
 	  {
 			"id": 6,
 	    "event_id": 6,
 	    "date": "20180711",
-			"venue": "Biff Buzby's Burgers",
-	    "address": "12702 Toepperwein Rd Suite #130, Live Oak, TX 78233",
-	    "map_url": "https://goo.gl/maps/TSJX7nSEGAE2"
+			"venue": "Longhorn Cafe",
+	    "address": "1003 Rittiman Rd, San Antonio, TX 78218",
+	    "map_url": "https://goo.gl/maps/3WWg1pXmNQA2"
 		},
 	  {
 			"id": 7,
