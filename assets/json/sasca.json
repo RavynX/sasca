@@ -209,49 +209,49 @@
 			"id": 7,
 	    "event_id": 7,
 	    "date": "20180801",
-			"venue": "Biff Buzby's Burgers",
-	    "address": "12702 Toepperwein Rd Suite #130, Live Oak, TX 78233",
-	    "map_url": "https://goo.gl/maps/TSJX7nSEGAE2"
+			"venue": "Sea Island Shrimp House",
+	    "address": "10303 W IH 10, San Antonio, TX 78230",
+	    "map_url": "https://goo.gl/maps/P4fUga2gRMM2"
 		},
 	  {
 	    "id": 8,
 	    "event_id": 8,
 	    "date": "20180815",
-			"venue": "Biff Buzby's Burgers",
-	    "address": "12702 Toepperwein Rd Suite #130, Live Oak, TX 78233",
-	    "map_url": "https://goo.gl/maps/TSJX7nSEGAE2"
+			"venue": "Sea Island Shrimp House",
+	    "address": "10303 W IH 10, San Antonio, TX 78230",
+	    "map_url": "https://goo.gl/maps/P4fUga2gRMM2"
 	  },
 	  {
 	    "id": 9,
 	    "event_id": 9,
 	    "date": "20180926",
-			"venue": "Biff Buzby's Burgers",
-	    "address": "12702 Toepperwein Rd Suite #130, Live Oak, TX 78233",
-	    "map_url": "https://goo.gl/maps/TSJX7nSEGAE2"
+			"venue": "Longhorn Cafe",
+	    "address": "1003 Rittiman Rd, San Antonio, TX 78218",
+	    "map_url": "https://goo.gl/maps/3WWg1pXmNQA2"
 	  },
 	  {
 	    "id": 10,
 	    "event_id": 10,
 	    "date": "20181017",
-			"venue": "Biff Buzby's Burgers",
-	    "address": "12702 Toepperwein Rd Suite #130, Live Oak, TX 78233",
-	    "map_url": "https://goo.gl/maps/TSJX7nSEGAE2"
+			"venue": "Sea Island Shrimp House",
+	    "address": "10303 W IH 10, San Antonio, TX 78230",
+	    "map_url": "https://goo.gl/maps/P4fUga2gRMM2"
 	  },
 	  {
 	    "id": 11,
 	    "event_id": 11,
 	    "date": "20181114",
-			"venue": "Biff Buzby's Burgers",
-	    "address": "12702 Toepperwein Rd Suite #130, Live Oak, TX 78233",
-	    "map_url": "https://goo.gl/maps/TSJX7nSEGAE2"
+			"venue": "Longhorn Cafe",
+	    "address": "1003 Rittiman Rd, San Antonio, TX 78218",
+	    "map_url": "https://goo.gl/maps/3WWg1pXmNQA2"
 	  },
 	  {
 	    "id": 12,
 	    "event_id": 12,
 	    "date": "20181212",
-			"venue": "Biff Buzby's Burgers",
-	    "address": "12702 Toepperwein Rd Suite #130, Live Oak, TX 78233",
-	    "map_url": "https://goo.gl/maps/TSJX7nSEGAE2"
+			"venue": "Sea Island Shrimp House",
+	    "address": "10303 W IH 10, San Antonio, TX 78230",
+	    "map_url": "https://goo.gl/maps/P4fUga2gRMM2"
 	  }
 	],
 	"schools": [
