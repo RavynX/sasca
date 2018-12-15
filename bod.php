@@ -1,16 +1,16 @@
 <?php include 'index.php' ?>
 <?php startblock('content') ?>
 <div id="bod">
-	<h1>2018 Board of Directors</h1>
+	<h1>2019 Board of Directors</h1>
 	<table class="bod">
 		<tr>
 			<td class="title">President</td>
-			<td class="name">Chris Leclair</td>
+			<td class="name">Ricky Crow</td>
 			<td class="email"><a class="glyphicon glyphicon-envelope" href="mailto:president@sasca.org"></a></td>
 		</tr>
 		<tr>
 			<td class="title">Vice President</td>
-			<td class="name">Diane Stevens Leclair</td>
+			<td class="name">Brian Burdette</td>
 			<td class="email"><a class="glyphicon glyphicon-envelope" href="mailto:vicepresident@sasca.org"></a></td>
 		</tr>
 		<tr>
@@ -24,8 +24,8 @@
 			<td class="email"><a class="glyphicon glyphicon-envelope" href="mailto:secretary@sasca.org"></a></td>
 		</tr>
 		<tr>
-			<td class="title">Past President</td>
-			<td class="name">Ricky Crow</td>
+			<td class="title">5th BOD</td>
+			<td class="name">Diane Stevens Leclair</td>
 			<td class="email"><a class="glyphicon glyphicon-envelope" href="mailto:pastpresident@sasca.org"></a></td>
 		</tr>
 	</table>
@@ -34,7 +34,7 @@
 	<table class="chairs">
 		<tr>
 			<td class="title">Novice Chief</td>
-			<td class="name">Brian Burdette</td>
+			<td class="name">Stephanie Reynoso</td>
 		</tr>
 		<tr>
 			<td class="title">Membership</td>
@@ -46,7 +46,7 @@
 		</tr>
 		<tr>
 			<td class="title">Worker Chief</td>
-			<td class="name">Kevin Childers</td>
+			<td class="name">Brian Scott Garcia</td>
 		</tr>
 		<tr>
 			<td class="title">Safety Steward</td>
@@ -62,7 +62,7 @@
 		</tr>
 		<tr>
 			<td class="title">Webmasters</td>
-			<td class="name">Shane Powell &amp;<br/>Chris Leclair</td>
+			<td class="name">Chris Leclair &amp;<br/>Shane Powell</td>
 		</tr>
 	</table>
 </div>
