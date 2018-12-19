@@ -46,7 +46,7 @@
 		</tr>
 		<tr>
 			<td class="title">Worker Chief</td>
-			<td class="name">Brian Scott Garcia</td>
+			<td class="name">Brandon Scott Garcia</td>
 		</tr>
 		<tr>
 			<td class="title">Safety Steward</td>
