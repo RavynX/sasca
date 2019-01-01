@@ -1,157 +1,157 @@
 {
-	"season": 2018,
+	"season": 2019,
 	"events": [{
 		"id": 1,
-		"axware_id": 12783,
+		"axware_id": 0,
 		"axware_host": "SASCA",
-		"results_filename": "e01-jan2018-dsq",
+		"results_filename": "e01-feb2018",
 		"site_host": "SASCA",
 		"joint": "false",
 		"site": "RCCC",
-		"date": "20180127",
+		"date": "20190202",
 		"venue": "River City Community Church",
 		"address": "16765 Lookout Rd, Schertz, TX 78154",
 		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
 	},
 	{
 		"id": 2,
-		"axware_id": 12785,
+		"axware_id": 0,
 		"axware_host": "SASCA",
-		"results_filename": "e02-feb2018",
+		"results_filename": "",
 		"site_host": "SASCA",
 		"joint": "false",
 		"site": "RCCC",
-		"date": "20180217",
+		"date": "",
 		"venue": "River City Community Church",
 		"address": "16765 Lookout Rd, Schertz, TX 78154",
 		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
 	},
 	{
 		"id": 3,
-		"axware_id": 12786,
+		"axware_id": 0,
 		"axware_host": "SASCA",
 		"results_filename": "e03-mar2018",
 		"site_host": "SASCA",
 		"joint": "false",
 		"site": "RCCC",
-		"date": "20180310",
+		"date": "",
 		"venue": "River City Community Church",
 		"address": "16765 Lookout Rd, Schertz, TX 78154",
 		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
 	},
 	{
 		"id": 4,
-		"axware_id": 12787,
+		"axware_id": 0,
 		"axware_host": "SASCA",
 		"results_filename": "e04-may2018",
 		"site_host": "SASCA",
 		"joint": "false",
 		"site": "RCCC",
-		"date": "20180505",
+		"date": "",
 		"venue": "River City Community Church",
 		"address": "16765 Lookout Rd, Schertz, TX 78154",
 		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
 	},
 	{
 		"id": 5,
-		"axware_id": 12788,
+		"axware_id": 0,
 		"axware_host": "SPOKES",
 		"results_filename": "spokes5_rc3audited",
 		"site_host": "SASCA",
 		"joint": "true",
 		"site": "RCCC",
-		"date": "20180609",
+		"date": "",
 		"venue": "River City Community Church",
 		"address": "16765 Lookout Rd, Schertz, TX 78154",
 		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
 	},
 	{
 		"id": 6,
-		"axware_id": 12789,
+		"axware_id": 0,
 		"axware_host": "SASCA",
 		"results_filename": "e06-jul2018",
 		"site_host": "SASCA",
 		"joint": "false",
 		"site": "RCCC",
-		"date": "20180707",
+		"date": "",
 		"venue": "River City Community Church",
 		"address": "16765 Lookout Rd, Schertz, TX 78154",
 		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
 	},
 	{
 		"id": 7,
-		"axware_id": 12790,
+		"axware_id": 0,
 		"axware_host": "SASCA",
-		"results_filename": "e07_jul2018-dsq",
+		"results_filename": "e07_jul2018",
 		"site_host": "SASCA",
 		"joint": "false",
 		"site": "RCCC",
-		"date": "20180728",
+		"date": "",
 		"venue": "River City Community Church",
 		"address": "16765 Lookout Rd, Schertz, TX 78154",
 		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
 	},
 	{
 		"id": 8,
-		"axware_id": 12791,
+		"axware_id": 0,
 		"axware_host": "SASCA",
-		"results_filename": "e08_aug2018-dsq",
+		"results_filename": "e08_aug2018",
 		"site_host": "SASCA",
 		"joint": "false",
 		"site": "RCCC",
-		"date": "20180811",
+		"date": "",
 		"venue": "River City Community Church",
 		"address": "16765 Lookout Rd, Schertz, TX 78154",
 		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
 	},
 	{
 		"id": 9,
-		"axware_id": 12760,
+		"axware_id": 0,
 		"axware_host": "SPOKES",
-		"results_filename": "e09_sep2018-dsq",
+		"results_filename": "e09_sep2018",
 		"site_host": "SPOKES",
 		"joint": "true",
 		"site": "CotA",
-		"date": "20180922",
+		"date": "",
 		"venue": "Circuit of the Americas",
 		"address": "Circuit of the Americas Blvd, Del Valle, TX 78617",
 		"map_url": "https://goo.gl/maps/q5wzem39foz"
 	},
 	{
 		"id": 10,
-		"axware_id": 12792,
+		"axware_id": 0,
 		"axware_host": "SASCA",
 		"results_filename": "e10-oct2018",
 		"site_host": "SASCA",
 		"joint": "false",
 		"site": "RCCC",
-		"date": "20181013",
+		"date": "",
 		"venue": "River City Community Church",
 		"address": "16765 Lookout Rd, Schertz, TX 78154",
 		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
 	},
 	{
 		"id": 11,
-		"axware_id": 12793,
+		"axware_id": 0,
 		"axware_host": "SASCA",
 		"results_filename": "e11-nov2018",
 		"site_host": "SASCA",
 		"joint": "false",
 		"site": "RCCC",
-		"date": "20181110",
+		"date": "",
 		"venue": "River City Community Church",
 		"address": "16765 Lookout Rd, Schertz, TX 78154",
 		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
 	},
 	{
 		"id": 12,
-		"axware_id": 12794,
+		"axware_id": 0,
 		"axware_host": "SASCA",
 		"results_filename": "e12-dec2018",
 		"site_host": "SASCA",
 		"joint": "false",
 		"site": "RCCC",
-		"date": "20181208",
+		"date": "",
 		"venue": "River City Community Church",
 		"address": "16765 Lookout Rd, Schertz, TX 78154",
 		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
@@ -160,15 +160,15 @@
 		{
 			"id": 1,
 	    "event_id": 1,
-	    "date": "20180131",
-			"venue": "Biff Buzby's Burgers",
-	    "address": "12702 Toepperwein Rd Suite #130, Live Oak, TX 78233",
-	    "map_url": "https://goo.gl/maps/TSJX7nSEGAE2"
+	    "date": "20190206",
+			"venue": "TBD",
+	    "address": "",
+	    "map_url": "https://"
 		},
 	  {
 			"id": 2,
 	    "event_id": 2,
-	    "date": "20180221",
+	    "date": "",
 			"venue": "Blanco BBQ",
 	    "address": "13259 Blanco Rd, San Antonio, TX 78216",
 	    "map_url": "https://goo.gl/maps/3zPzZEVe9gC2"
@@ -176,7 +176,7 @@
 	  {
 			"id": 3,
 	    "event_id": 3,
-	    "date": "20180314",
+	    "date": "",
 			"venue": "Sea Island Shrimp House",
 	    "address": "10303 W IH 10, San Antonio, TX 78230",
 	    "map_url": "https://goo.gl/maps/P4fUga2gRMM2"
@@ -184,7 +184,7 @@
 	  {
 			"id": 4,
 	    "event_id": 4,
-	    "date": "20180509",
+	    "date": "",
 			"venue": "Sea Island Shrimp House",
 	    "address": "10303 W IH 10, San Antonio, TX 78230",
 	    "map_url": "https://goo.gl/maps/P4fUga2gRMM2"
@@ -192,7 +192,7 @@
 	  {
 			"id": 5,
 	    "event_id": 5,
-	    "date": "20180613",
+	    "date": "",
 			"venue": "Sea Island Shrimp House",
 	    "address": "10303 W IH 10, San Antonio, TX 78230",
 	    "map_url": "https://goo.gl/maps/P4fUga2gRMM2"
@@ -200,7 +200,7 @@
 	  {
 			"id": 6,
 	    "event_id": 6,
-	    "date": "20180711",
+	    "date": "",
 			"venue": "Longhorn Cafe",
 	    "address": "1003 Rittiman Rd, San Antonio, TX 78218",
 	    "map_url": "https://goo.gl/maps/3WWg1pXmNQA2"
@@ -208,7 +208,7 @@
 	  {
 			"id": 7,
 	    "event_id": 7,
-	    "date": "20180801",
+	    "date": "",
 			"venue": "Sea Island Shrimp House",
 	    "address": "10303 W IH 10, San Antonio, TX 78230",
 	    "map_url": "https://goo.gl/maps/P4fUga2gRMM2"
@@ -216,7 +216,7 @@
 	  {
 	    "id": 8,
 	    "event_id": 8,
-	    "date": "20180815",
+	    "date": "",
 			"venue": "Sea Island Shrimp House",
 	    "address": "10303 W IH 10, San Antonio, TX 78230",
 	    "map_url": "https://goo.gl/maps/P4fUga2gRMM2"
@@ -224,7 +224,7 @@
 	  {
 	    "id": 9,
 	    "event_id": 9,
-	    "date": "20180926",
+	    "date": "",
 			"venue": "Longhorn Cafe",
 	    "address": "1003 Rittiman Rd, San Antonio, TX 78218",
 	    "map_url": "https://goo.gl/maps/3WWg1pXmNQA2"
@@ -232,7 +232,7 @@
 	  {
 	    "id": 10,
 	    "event_id": 10,
-	    "date": "20181017",
+	    "date": "",
 			"venue": "Sea Island Shrimp House",
 	    "address": "10303 W IH 10, San Antonio, TX 78230",
 	    "map_url": "https://goo.gl/maps/P4fUga2gRMM2"
@@ -240,7 +240,7 @@
 	  {
 	    "id": 11,
 	    "event_id": 11,
-	    "date": "20181114",
+	    "date": "",
 			"venue": "Longhorn Cafe",
 	    "address": "1003 Rittiman Rd, San Antonio, TX 78218",
 	    "map_url": "https://goo.gl/maps/3WWg1pXmNQA2"
@@ -248,7 +248,7 @@
 	  {
 	    "id": 12,
 	    "event_id": 12,
-	    "date": "20181212",
+	    "date": "",
 			"venue": "Longhorn Cafe",
 	    "address": "1003 Rittiman Rd, San Antonio, TX 78218",
 	    "map_url": "https://goo.gl/maps/3WWg1pXmNQA2"
@@ -259,8 +259,8 @@
 	    "id": 1,
 	    "site_host": "SASCA",
 	    "in_event": true,
-	    "event_id": 4,
-	    "date": "20181015",
+	    "event_id": 0,
+	    "date": "",
 	    "registration_link": "",
 	    "venue": ""
 	  },
