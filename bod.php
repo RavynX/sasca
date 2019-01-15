@@ -30,7 +30,7 @@
 		</tr>
 	</table>
 	<br/>
-	<h1>2018 Chairs</h1>
+	<h1>2019 Chairs</h1>
 	<table class="chairs">
 		<tr>
 			<td class="title">Novice Chief</td>
