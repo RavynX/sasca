@@ -161,41 +161,41 @@
 			"id": 1,
 	    "event_id": 1,
 	    "date": "20190206",
-			"venue": "TBD",
-	    "address": "",
-	    "map_url": "https://"
+			"venue": "Mash'D",
+	    "address": "17623 La Cantera Pkwy #107, San Antonio, TX 78257",
+	    "map_url": "https://goo.gl/maps/KVnuuVtCmXx"
 		},
 	  {
 			"id": 2,
 	    "event_id": 2,
 	    "date": "20190227",
-			"venue": "TBD",
-	    "address": "",
-	    "map_url": "https://"
+			"venue": "Longhorn Cafe",
+	    "address": "1003 Rittiman Rd, San Antonio, TX 78218",
+	    "map_url": "https://goo.gl/maps/3WWg1pXmNQA2"
 		},
 	  {
 			"id": 3,
 	    "event_id": 3,
 	    "date": "20190320",
-			"venue": "Sea Island Shrimp House",
-	    "address": "10303 W IH 10, San Antonio, TX 78230",
-	    "map_url": "https://goo.gl/maps/P4fUga2gRMM2"
+			"venue": "Mash'D",
+	    "address": "17623 La Cantera Pkwy #107, San Antonio, TX 78257",
+	    "map_url": "https://goo.gl/maps/KVnuuVtCmXx"
 		},
 	  {
 			"id": 4,
 	    "event_id": 4,
 	    "date": "20190410",
-			"venue": "Sea Island Shrimp House",
-	    "address": "10303 W IH 10, San Antonio, TX 78230",
-	    "map_url": "https://goo.gl/maps/P4fUga2gRMM2"
+			"venue": "Longhorn Cafe",
+	    "address": "1003 Rittiman Rd, San Antonio, TX 78218",
+	    "map_url": "https://goo.gl/maps/3WWg1pXmNQA2"
 		},
 	  {
 			"id": 5,
 	    "event_id": 5,
 	    "date": "20190508",
-			"venue": "Sea Island Shrimp House",
-	    "address": "10303 W IH 10, San Antonio, TX 78230",
-	    "map_url": "https://goo.gl/maps/P4fUga2gRMM2"
+			"venue": "Mash'D",
+	    "address": "17623 La Cantera Pkwy #107, San Antonio, TX 78257",
+	    "map_url": "https://goo.gl/maps/KVnuuVtCmXx"
 		},
 	  {
 			"id": 6,
