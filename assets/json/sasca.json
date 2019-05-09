@@ -56,7 +56,7 @@
 		"id": 5,
 		"axware_id": 13120,
 		"axware_host": "SPOKES",
-		"results_filename": "e05-may-04-2019",
+		"results_filename": "e05-may-4-2019",
 		"site_host": "SASCA",
 		"joint": "false",
 		"site": "RCCC",
@@ -193,9 +193,9 @@
 			"id": 5,
 	    "event_id": 5,
 	    "date": "20190508",
-			"venue": "Mash'D",
-	    "address": "17623 La Cantera Pkwy #107, San Antonio, TX 78257",
-	    "map_url": "https://goo.gl/maps/KVnuuVtCmXx"
+			"venue": "La Fogata",
+	    "address": "2427 Vance Jackson Rd, San Antonio, TX 78213",
+	    "map_url": "https://goo.gl/maps/RXWsa33apykbWQRW8"
 		},
 	  {
 			"id": 6,
