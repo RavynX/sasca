@@ -208,50 +208,50 @@
 	  {
 			"id": 7,
 	    "event_id": 7,
-	    "date": "20190717",
-			"venue": "Sea Island Shrimp House",
-	    "address": "10303 W IH 10, San Antonio, TX 78230",
-	    "map_url": "https://goo.gl/maps/P4fUga2gRMM2"
+	    "date": "20190716",
+			"venue": "Mamacita's Restaurant",
+	    "address": "8030, I-10, San Antonio, TX 78230",
+	    "map_url": "https://goo.gl/maps/FihgbnQU3jDJuUoM7"
 		},
 	  {
 	    "id": 8,
 	    "event_id": 8,
-	    "date": "20190814",
-			"venue": "Sea Island Shrimp House",
-	    "address": "10303 W IH 10, San Antonio, TX 78230",
-	    "map_url": "https://goo.gl/maps/P4fUga2gRMM2"
+	    "date": "20190813",
+			"venue": "Mamacita's Restaurant",
+	    "address": "8030, I-10, San Antonio, TX 78230",
+	    "map_url": "https://goo.gl/maps/FihgbnQU3jDJuUoM7"
 	  },
 	  {
 	    "id": 9,
 	    "event_id": 9,
-	    "date": "20191009",
-			"venue": "Longhorn Cafe",
-	    "address": "1003 Rittiman Rd, San Antonio, TX 78218",
-	    "map_url": "https://goo.gl/maps/3WWg1pXmNQA2"
+	    "date": "20191008",
+			"venue": "Mamacita's Restaurant",
+	    "address": "8030, I-10, San Antonio, TX 78230",
+	    "map_url": "https://goo.gl/maps/FihgbnQU3jDJuUoM7"
 	  },
 	  {
 	    "id": 10,
 	    "event_id": 10,
-	    "date": "20191016",
-			"venue": "Sea Island Shrimp House",
-	    "address": "10303 W IH 10, San Antonio, TX 78230",
-	    "map_url": "https://goo.gl/maps/P4fUga2gRMM2"
+	    "date": "20191015",
+			"venue": "Mamacita's Restaurant",
+	    "address": "8030, I-10, San Antonio, TX 78230",
+	    "map_url": "https://goo.gl/maps/FihgbnQU3jDJuUoM7"
 	  },
 	  {
 	    "id": 11,
 	    "event_id": 11,
-	    "date": "20191113",
-			"venue": "Longhorn Cafe",
-	    "address": "1003 Rittiman Rd, San Antonio, TX 78218",
-	    "map_url": "https://goo.gl/maps/3WWg1pXmNQA2"
+	    "date": "20191112",
+			"venue": "Mamacita's Restaurant",
+	    "address": "8030, I-10, San Antonio, TX 78230",
+	    "map_url": "https://goo.gl/maps/FihgbnQU3jDJuUoM7"
 	  },
 	  {
 	    "id": 12,
 	    "event_id": 12,
-	    "date": "20191211",
-			"venue": "Longhorn Cafe",
-	    "address": "1003 Rittiman Rd, San Antonio, TX 78218",
-	    "map_url": "https://goo.gl/maps/3WWg1pXmNQA2"
+	    "date": "20191210",
+			"venue": "Mamacita's Restaurant",
+	    "address": "8030, I-10, San Antonio, TX 78230",
+	    "map_url": "https://goo.gl/maps/FihgbnQU3jDJuUoM7"
 	  }
 	],
 	"schools": [
