@@ -106,7 +106,7 @@
 	},
 	{
 		"id": 9,
-		"axware_id": 0,
+		"axware_id": 13162,
 		"axware_host": "SPOKES",
 		"results_filename": "e09-oct-05-2019",
 		"site_host": "SPOKES",
@@ -124,11 +124,11 @@
 		"results_filename": "e10-oct-12-2019",
 		"site_host": "SASCA",
 		"joint": "false",
-		"site": "RCCC",
-		"date": "20191012",
-		"venue": "River City Community Church",
-		"address": "16765 Lookout Rd, Schertz, TX 78154",
-		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
+		"site": "TBD",
+		"date": "",
+		"venue": "Rescheduled - TBD",
+		"address": "TBD",
+		"map_url": "TBD"
 	},
 	{
 		"id": 11,
