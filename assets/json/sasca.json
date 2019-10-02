@@ -119,19 +119,6 @@
 	},
 	{
 		"id": 10,
-		"axware_id": 13124,
-		"axware_host": "SASCA",
-		"results_filename": "e10-oct-12-2019",
-		"site_host": "SASCA",
-		"joint": "false",
-		"site": "TBD",
-		"date": "",
-		"venue": "Rescheduled - TBD",
-		"address": "TBD",
-		"map_url": "TBD"
-	},
-	{
-		"id": 11,
 		"axware_id": 13125,
 		"axware_host": "SASCA",
 		"results_filename": "e11-nov-09-2019",
@@ -142,6 +129,19 @@
 		"venue": "River City Community Church",
 		"address": "16765 Lookout Rd, Schertz, TX 78154",
 		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
+	},
+	{
+		"id": 11,
+		"axware_id": 13125,
+		"axware_host": "SPOKES",
+		"results_filename": "e11-nov-24-2019",
+		"site_host": "SPOKES",
+		"joint": "true",
+		"site": "ACM",
+		"date": "20191109",
+		"venue": "Alamo City Motorplex",
+		"address": "3641 S Santa Clara Rd, Marion, TX 78124",
+		"map_url": "https://goo.gl/maps/cKzPJfwN5zM2"
 	},
 	{
 		"id": 12,
