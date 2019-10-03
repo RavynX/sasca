@@ -132,13 +132,13 @@
 	},
 	{
 		"id": 11,
-		"axware_id": 13125,
+		"axware_id": 13352,
 		"axware_host": "SPOKES",
 		"results_filename": "e11-nov-24-2019",
 		"site_host": "SPOKES",
 		"joint": "true",
 		"site": "ACM",
-		"date": "20191109",
+		"date": "20191124",
 		"venue": "Alamo City Motorplex",
 		"address": "3641 S Santa Clara Rd, Marion, TX 78124",
 		"map_url": "https://goo.gl/maps/cKzPJfwN5zM2"
