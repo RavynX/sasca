@@ -232,7 +232,7 @@
 	  {
 	    "id": 10,
 	    "event_id": 10,
-	    "date": "20191015",
+	    "date": "20191113",
 			"venue": "Mamacita's Restaurant",
 	    "address": "8030, I-10, San Antonio, TX 78230",
 	    "map_url": "https://goo.gl/maps/FihgbnQU3jDJuUoM7"
@@ -240,7 +240,7 @@
 	  {
 	    "id": 11,
 	    "event_id": 11,
-	    "date": "20191112",
+	    "date": "20191126",
 			"venue": "Mamacita's Restaurant",
 	    "address": "8030, I-10, San Antonio, TX 78230",
 	    "map_url": "https://goo.gl/maps/FihgbnQU3jDJuUoM7"
@@ -248,7 +248,7 @@
 	  {
 	    "id": 12,
 	    "event_id": 12,
-	    "date": "20191210",
+	    "date": "20191211",
 			"venue": "Mamacita's Restaurant",
 	    "address": "8030, I-10, San Antonio, TX 78230",
 	    "map_url": "https://goo.gl/maps/FihgbnQU3jDJuUoM7"
