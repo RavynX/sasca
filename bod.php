@@ -20,13 +20,13 @@
 		</tr>
 		<tr>
 			<td class="title">Secretary</td>
-			<td class="name">Jeff Chesnut</td>
+			<td class="name">Amber Dwyer</td>
 			<td class="email"><a class="glyphicon glyphicon-envelope" href="mailto:secretary@sasca.org"></a></td>
 		</tr>
 		<tr>
 			<td class="title">5th BOD</td>
 			<td class="name">Diane Stevens Leclair</td>
-			<td class="email"><a class="glyphicon glyphicon-envelope" href="mailto:pastpresident@sasca.org"></a></td>
+			<td class="email"><a class="glyphicon glyphicon-envelope" href="mailto:pr@sasca.org"></a></td>
 		</tr>
 	</table>
 	<br/>
@@ -50,7 +50,7 @@
 		</tr>
 		<tr>
 			<td class="title">Safety Steward</td>
-			<td class="name">Thom Hardy</td>
+			<td class="name">Jeff Vineyard</td>
 		</tr>
 		<tr>
 			<td class="title">Equipment Manager</td>
