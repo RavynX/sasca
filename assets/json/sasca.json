@@ -28,16 +28,16 @@
 	},
 	{
 		"id": 3,
-		"axware_id": 0,
+		"axware_id": 13427,
 		"axware_host": "Spokes",
-		"results_filename": "e03-mar16-2020",
+		"results_filename": "e03-mar14-2020",
 		"site_host": "Spokes",
 		"joint": "true",
-		"site": "",
-		"date": "",
-		"venue": "",
-		"address": "",
-		"map_url": ""
+		"site": "RCCC",
+		"date": "20200314",
+		"venue": "River City Community Church",
+		"address": "16765 Lookout Rd, Schertz, TX 78154",
+		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
 	},
 	{
 		"id": 4,
