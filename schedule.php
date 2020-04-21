@@ -28,7 +28,7 @@
 				echo "<td><a href='".$event['map_url']."' target='_blank'>".$event['site']."</a></td>";
 
 				if ($event['status'] == 'canceled') {
-					echo '<td class="canceled">Canceled</td>';
+					echo '<td><a href="'.$axwareBaseEventURL.$event['axware_id'].'" target="_blank" role="button" class="canceled">Canceled</a></td>';
 				}
 				else if ($event['status'] == 'none') {
 					echo '<td>No Event Planned</td>';
