@@ -3,6 +3,7 @@
 	"events": [{
 		"id": 1,
 		"axware_id": 13411,
+		"status": "active",
 		"axware_host": "SASCA",
 		"results_filename": "e01-feb-1-2020",
 		"site_host": "SASCA",
@@ -16,6 +17,7 @@
 	{
 		"id": 2,
 		"axware_id": 13412,
+		"status": "active",
 		"axware_host": "SASCA",
 		"results_filename": "e02-feb-22-2020",
 		"site_host": "SASCA",
@@ -28,20 +30,22 @@
 	},
 	{
 		"id": 3,
-		"axware_id": 0,
+		"axware_id": 13427,
+		"status": "active",
 		"axware_host": "Spokes",
 		"results_filename": "e03-mar-16-2020",
 		"site_host": "Spokes",
 		"joint": "true",
-		"site": "",
-		"date": "",
-		"venue": "",
-		"address": "",
-		"map_url": ""
+		"site": "RCCC",
+		"date": "20200314",
+		"venue": "River City Community Church",
+		"address": "16765 Lookout Rd, Schertz, TX 78154",
+		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
 	},
 	{
 		"id": 4,
 		"axware_id": 14413,
+		"status": "canceled",
 		"axware_host": "SASCA",
 		"results_filename": "e04-apr-06-2020",
 		"site_host": "SASCA",
@@ -54,7 +58,8 @@
 	},
 	{
 		"id": 5,
-		"axware_id": 14414,
+		"axware_id": 13414,
+		"status": "active",
 		"axware_host": "SASCA",
 		"results_filename": "e05-may-4-2020",
 		"site_host": "SASCA",
@@ -67,20 +72,22 @@
 	},
 	{
 		"id": 6,
-		"axware_id": 0,
+		"axware_id": 13482,
+		"status": "active",
 		"axware_host": "Spokes",
 		"results_filename": "e06-jun-22-2020",
 		"site_host": "Spokes",
 		"joint": "true",
-		"site": "",
-		"date": "",
-		"venue": "",
-		"address": "",
-		"map_url": ""
+		"site": "RCCC",
+		"date": "20200627",
+		"venue": "River City Community Church",
+		"address": "16765 Lookout Rd, Schertz, TX 78154",
+		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
 	},
 	{
 		"id": 7,
 		"axware_id": 13415,
+		"status": "active",
 		"axware_host": "SASCA",
 		"results_filename": "e07-jul-13-2020",
 		"site_host": "SASCA",
@@ -94,6 +101,7 @@
 	{
 		"id": 8,
 		"axware_id": 13416,
+		"status": "active",
 		"axware_host": "SASCA",
 		"results_filename": "e08-aug-10-2020",
 		"site_host": "SASCA",
@@ -107,6 +115,7 @@
 	{
 		"id": 9,
 		"axware_id": 13417,
+		"status": "active",
 		"axware_host": "SASCA",
 		"results_filename": "e09-oct-05-2020",
 		"site_host": "SASCA",
@@ -120,6 +129,7 @@
 	{
 		"id": 10,
 		"axware_id": 13418,
+		"status": "active",
 		"axware_host": "SASCA",
 		"results_filename": "e10-nov-9-2020",
 		"site_host": "SASCA",
@@ -133,6 +143,7 @@
 	{
 		"id": 11,
 		"axware_id": 13419,
+		"status": "active",
 		"axware_host": "SASCA",
 		"results_filename": "e11-nov-24-2020",
 		"site_host": "SASCA",
@@ -146,6 +157,7 @@
 	{
 		"id": 12,
 		"axware_id": 0,
+		"status": "none",
 		"axware_host": "",
 		"results_filename": "",
 		"site_host": "",
@@ -177,17 +189,17 @@
 			"id": 3,
 	    "event_id": 3,
 	    "date": "",
-			"venue": "Mamacita's Restaurant",
-	    "address": "8030, I-10, San Antonio, TX 78230",
-	    "map_url": "https://goo.gl/maps/FihgbnQU3jDJuUoM7"
+			"venue": "canceled",
+	    "address": "",
+	    "map_url": ""
 		},
 	  {
 			"id": 4,
 	    "event_id": 4,
-	    "date": "20200506",
-			"venue": "Mamacita's Restaurant",
-	    "address": "8030, I-10, San Antonio, TX 78230",
-	    "map_url": "https://goo.gl/maps/FihgbnQU3jDJuUoM7"
+	    "date": "",
+			"venue": "canceled",
+	    "address": "",
+	    "map_url": ""
 		},
 	  {
 			"id": 5,

@@ -14,16 +14,26 @@
 
 				echo "<tr>";
 				echo "<td>#".$event['id']."</td>";
-				if ($event['date'] == '') {
+
+				if ($event['status'] == 'none') {
+					echo "<td></td>";
+				}
+				else if ($event['date'] == '') {
 					echo "<td>TBD</td>";
 				}
 				else {
 					echo "<td>".date_format((new DateTime($event['date'])), 'M j').'</td>';
 				}
 
-
 				echo "<td><a href='".$event['map_url']."' target='_blank'>".$event['site']."</a></td>";
-				if ($event['axware_id'] == 0) {
+
+				if ($event['status'] == 'canceled') {
+					echo '<td class="canceled">Canceled</td>';
+				}
+				else if ($event['status'] == 'none') {
+					echo '<td>No Event Planned</td>';
+				}
+				else if ($event['axware_id'] == 0) {
 					echo '<td>TBD</td>';
 				}
 				else if(afterYesterday($event['date'])) {

@@ -610,6 +610,10 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
 	background: #FFF;
 }
 
+#events td.canceled {
+  color: #FF0000;
+}
+
 
 .ques_ans p.ques {
   font-size: 14px;
