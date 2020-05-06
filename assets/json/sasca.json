@@ -172,6 +172,7 @@
 		{
 			"id": 1,
 	    "event_id": 1,
+			"status": "active",
 	    "date": "20200205",
 			"venue": "Mamacita's Restaurant",
 	    "address": "8030, I-10, San Antonio, TX 78230",
@@ -180,6 +181,7 @@
 	  {
 			"id": 2,
 	    "event_id": 2,
+			"status": "active",
 	    "date": "20200226",
 			"venue": "Mamacita's Restaurant",
 	    "address": "8030, I-10, San Antonio, TX 78230",
@@ -188,7 +190,8 @@
 	  {
 			"id": 3,
 	    "event_id": 3,
-	    "date": "",
+			"status": "canceled",
+	    "date": "20200318",
 			"venue": "canceled",
 	    "address": "",
 	    "map_url": ""
@@ -196,7 +199,8 @@
 	  {
 			"id": 4,
 	    "event_id": 4,
-	    "date": "",
+			"status": "canceled",
+	    "date": "20200506",
 			"venue": "canceled",
 	    "address": "",
 	    "map_url": ""
@@ -204,6 +208,7 @@
 	  {
 			"id": 5,
 	    "event_id": 5,
+			"status": "active",
 	    "date": "20200617",
 			"venue": "Mamacita's Restaurant",
 	    "address": "8030, I-10, San Antonio, TX 78230",
@@ -212,6 +217,7 @@
 	  {
 			"id": 6,
 	    "event_id": 6,
+			"status": "active",
 	    "date": "",
 			"venue": "Mamacita's Restaurant",
 	    "address": "8030, I-10, San Antonio, TX 78230",
@@ -220,6 +226,7 @@
 	  {
 			"id": 7,
 	    "event_id": 7,
+			"status": "active",
 	    "date": "20200715",
 			"venue": "Mamacita's Restaurant",
 	    "address": "8030, I-10, San Antonio, TX 78230",
@@ -228,6 +235,7 @@
 	  {
 	    "id": 8,
 	    "event_id": 8,
+			"status": "active",
 	    "date": "20200812",
 			"venue": "Mamacita's Restaurant",
 	    "address": "8030, I-10, San Antonio, TX 78230",
@@ -236,6 +244,7 @@
 	  {
 	    "id": 9,
 	    "event_id": 9,
+			"status": "active",
 	    "date": "20200902",
 			"venue": "Mamacita's Restaurant",
 	    "address": "8030, I-10, San Antonio, TX 78230",
@@ -244,6 +253,7 @@
 	  {
 	    "id": 10,
 	    "event_id": 10,
+			"status": "active",
 	    "date": "20201111",
 			"venue": "Mamacita's Restaurant",
 	    "address": "8030, I-10, San Antonio, TX 78230",
@@ -252,6 +262,7 @@
 	  {
 	    "id": 11,
 	    "event_id": 11,
+			"status": "active",
 	    "date": "20201209",
 			"venue": "Mamacita's Restaurant",
 	    "address": "8030, I-10, San Antonio, TX 78230",
@@ -260,6 +271,7 @@
 	  {
 	    "id": 12,
 	    "event_id": 12,
+			"status": "active",
 	    "date": "20201211",
 			"venue": "Mamacita's Restaurant",
 	    "address": "8030, I-10, San Antonio, TX 78230",

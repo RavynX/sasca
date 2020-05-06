@@ -41,7 +41,7 @@
 	<div class="content nextMeeting">
 		<div class="quick-block-left">
 			<?php
-				if ($nextEvent['status'] == 'canceled') { echo 'Canceled'; }
+				if ($nextMeeting['status'] == 'canceled') { echo 'Event #'.$nextMeeting['event_id'].' Meeting<br/>Canceled'; }
 				else {
 					echo date_format((new DateTime($nextMeeting['date'])), 'D\, M j\, Y') + '<br/>';
 					echo $nextMeeting['venue'] + '<br/>';
@@ -51,7 +51,7 @@
 		</div>
 				<div class="quick-block-right">
 				<?php
-					if ($nextEvent['status'] == 'canceled') { echo ''; }
+					if ($nextMeeting['status'] == 'canceled') { echo ''; }
 					else {
 						echo '<a href="'.$nextMeeting['map_url'].'" target="_blank" class="btn btn-primary" role="button">Map to Event</a>';
 					}
