@@ -44,7 +44,7 @@
             <li>Condiments are issued upon request only</li>
             <li>Pre-wrapped utensils are distributed</li>
             <li>Contactless Payment methods are available (Apple/Google Pay)</li>
-            <li>We encourage text order @ 210 843-3655 to avoid a gathering of people around truck</li>
+            <li>We encourage text order @ 210-843-3655 to avoid a gathering of people around truck</li>
             <li>A sign is posted on truck to practice Social Distancing</li>
           </ol>
         </div>
