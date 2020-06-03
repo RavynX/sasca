@@ -37,6 +37,10 @@ p.italic {
   font-style: italic;
 }
 
+p.red {
+  color: #d92027;
+}
+
 table tr:nth-child(even) {
   background: #eeeeee;
 }
