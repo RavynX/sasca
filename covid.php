@@ -120,6 +120,17 @@
         </div>
       </td>
     </tr>
+    <tr>
+      <th colspan="2">Frequently Asked Questions</td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <p>Q: Do event participants have to wear a mask at the event?</p>
+        <p>A:  If you read to the end of this page, there are references at the bottom.  You'll find a link to the Governor's Open Texas Page.  That provides the following guidance for Outdoor Motorsports:</p>
+        <p>"Maintain at least 6 feet of separation from other individuals not within the same household.  If such distancing is not feasible, other measures such as face covering, hand hygiene, cough etiquette, cleanliness, and sanitation should be rigorously practiced.  Face shields may be considered as additional source control either in addition to face coverings, or where face coverings are not feasible.  Considerations must be made regarding safety of face coverings during physical exertion or in hot environments."</p>
+        <p>Our event venue provides enough open space to allow for 6 ft of social distancing.  The venue will also be in an open parking lot where the weather will be hot.  Therefore, we are not requiring masks at our events.</p>
+      </td>
+    </tr>
 </table>
 <p></p>
 <p class="italic">Note: We will continue to monitor changes in local and state guidelines and modify processes/procedures as needed to hold the event.</p>
