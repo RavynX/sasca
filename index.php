@@ -66,7 +66,7 @@
 				<?php endblock() ?>
 			</div>
 			<div id="footer-container">
-				&copy;2019 SASCA All rights reserved
+				&copy;2020 SASCA All rights reserved
 				<script type="text/javascript" src="assets/js/sasca.js"></script>
 			</div>
 		</div>

@@ -33,6 +33,10 @@ a:hover, a:active {
 	text-decoration: none;
 }
 
+p.italic {
+  font-style: italic;
+}
+
 table tr:nth-child(even) {
   background: #eeeeee;
 }
@@ -41,6 +45,7 @@ table tr:nth-child(odd) {
   background: #b8d0e8;
 }
 
+/* Blue Button */
 .btn-primary:link,
 .btn-primary:visited {
 	color: #FFFFFF !important;
@@ -74,6 +79,39 @@ table tr:nth-child(odd) {
   background-image: none;
 }
 
+/* Red Button */
+.btn-primary:link.redBtn,
+.btn-primary:visited.redBtn {
+	color: #FFFFFF !important;
+	text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+	background-color: #851418;
+	*background-color: #851418;
+	background-image: -moz-linear-gradient(top, #d92027, #851418);
+	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#d92027), to(#851418));
+	background-image: -webkit-linear-gradient(top, #d92027, #851418);
+	background-image: -o-linear-gradient(top, #d92027, #851418);
+	background-image: linear-gradient(to bottom, #d92027, #851418);
+	background-repeat: repeat-x;
+	border-color: #851418;
+	border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#d92027', endColorstr='#851418', GradientType=0);
+	filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+}
+
+.btn-primary:hover.redBtn,
+.btn-primary:focus.redBtn {
+	color: #FFFFFF;
+	background-color: #851418;
+	*background-color: #851418;
+  background-image: none;
+}
+
+.btn-primary:active.redBtn {
+  color: #FFFFFF;
+  background-color: #d92027;
+  *background-color: #d92027;
+  background-image: none;
+}
 
 
 div.inset {
@@ -220,13 +258,18 @@ nav ul li a:active {
 
 /*********************************
 ******* Index Page ***************/
-.novice-block {
+.notification-block {
   margin-bottom: 10px;
   display: none;
 }
 
-.novice-block .btn {
+.notification-block .btn {
 
+}
+
+#content-notifications {
+  display: block;
+  margin-bottom: 5px;
 }
 
 .quick-block {
@@ -786,6 +829,43 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
 }
 
 
+/* Covid Page */
+#covid table {
+  border: 1px solid #000000;
+}
+
+#covid table tr {
+
+}
+
+#covid table tr th {
+  background-color: #b8d0e8;
+  text-align: center;
+  border: 1px solid #000000;
+  font-size: 24px;
+}
+
+#covid table tr td {
+  background-color: #FFFFFF;
+  border: 1px solid #000000;
+  padding: 1px 9px;
+}
+
+#covid table tr td div.sub-info {
+  margin-left: 40px;
+}
+
+#covid table tr td ol {
+  list-style: decimal;
+}
+
+#covid table tr td ul {
+  list-style: disc;
+}
+
+
+/*** End Covid Styles ***/
+
 @media only screen and (max-width : 1425px) {
   .quick-block .nextEvent .quick-block-left {
     width: 50%;
@@ -1139,14 +1219,19 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
   }
 
 
-
-  .novice-block {
+  /* Mobile View */
+  .notification-block {
     display: block;
   }
 
-  .novice-block .btn {
+  .notification-block .btn {
     width: 100%;
+    margin-bottom: 5px;
+  }
 
+  #content-notifications {
+    display: none;
+    margin-bottom: 0px;
   }
 
   .quick-block .nextEvent .quick-block-left {
