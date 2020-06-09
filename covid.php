@@ -17,7 +17,7 @@
       <td>Loaner Helmet Program</td>
       <td>
         <p>NO LOANER HELMETS WILL BE AVAILABLE</p>
-        <p>SASCA has ordered a limited number of helmets for purchase at the event. Helmets available for purchase are $40 each.</p></td>
+        <p>SASCA has ordered a limited number of helmets for purchase at the event.</p></td>
     </tr>
     <tr>
       <td>Waiver Signing</td>
