@@ -2,7 +2,7 @@
 <?php startblock('content') ?>
 <div id="covid">
   <h1>SASCA COVID-19 Event Procedures</h1>
-  <p>Updated June 2, 2020</p>
+  <p>Updated June 9, 2020</p>
   <p>In order to provide a safe environment for all event participants and spectators, SASCA is modifying our event procedures to best align with local and state guidelines to keep our communities safe during the COVID-19 pandemic.</p>
   <p class="red">We encourage everyone to maintain 6 feet of social distancing at all times throughout the event.</p>
   <table>
@@ -32,6 +32,12 @@
         <p>NO RIDE-ALONGS</p>
         <p>This includes novice and co-drivers.  All participant vehicles may only have the driver occupying the vehicle during on course runs.
         <p>Note: Co-drivers are still allowed, they just cannot ride together (one driver occupying the vehicle at a time).</p>
+      </td>
+    </tr>
+    <tr>
+      <td>Grid</td>
+      <td>
+        <p><b>DO NOT GATHER IN GRID; DRIVERS ONLY.</b></p>
       </td>
     </tr>
     <tr>
