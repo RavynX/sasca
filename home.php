@@ -48,13 +48,20 @@
 	<div class="content nextMeeting">
 		<div class="quick-block-left">
 			<?php
+				if($nextMeeting['venue'] == 'Online') {
+					$meetingVenue = $nextMeeting['venue'].' - '.$nextMeeting['address'];
+				}
+				else {
+					$meetingVenue = $nextMeeting['venue'];
+				}
+
 				if ($nextMeeting['status'] == 'canceled') {
 					echo 'Event #'.$nextMeeting['event_id'].' Meeting<br/>Canceled';
 				}
 				else {
 					echo date_format(new DateTime($nextMeeting['date']), 'D, M j, Y');
 					echo '<br/>';
-					echo $nextMeeting['venue'];
+					echo $meetingVenue;
 					echo '<br/>Chat @ 7:00pm<br/>Meeting @ <b>7:30pm</b>';
 				}
 			?>
@@ -63,6 +70,9 @@
 				<?php
 					if ($nextMeeting['status'] == 'canceled') {
 						echo '';
+					}
+					else if ($nextMeeting['venue'] == 'Online') {
+						echo '<a href="'.$nextMeeting['map_url'].'" target="_blank" class="btn btn-primary" role="button">Online Meeting</a>';
 					}
 					else {
 						echo '<a href="'.$nextMeeting['map_url'].'" target="_blank" class="btn btn-primary" role="button">Map to Event</a>';
