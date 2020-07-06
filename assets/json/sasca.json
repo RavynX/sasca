@@ -73,7 +73,7 @@
 	{
 		"id": 6,
 		"axware_id": 13482,
-		"status": "active",
+		"status": "canceled",
 		"axware_host": "Spokes",
 		"results_filename": "e06-jun27-2020",
 		"site_host": "Spokes",
@@ -87,7 +87,7 @@
 	{
 		"id": 7,
 		"axware_id": 13415,
-		"status": "active",
+		"status": "canceled",
 		"axware_host": "SASCA",
 		"results_filename": "e07-jul13-2020",
 		"site_host": "SASCA",
@@ -217,20 +217,20 @@
 	  {
 			"id": 6,
 	    "event_id": 6,
-			"status": "active",
+			"status": "canceled",
 	    "date": "20200701",
-			"venue": "Mamacita's Restaurant",
-	    "address": "8030, I-10, San Antonio, TX 78230",
-	    "map_url": "https://goo.gl/maps/FihgbnQU3jDJuUoM7"
+			"venue": "Online",
+	    "address": "Zoom",
+	    "map_url": ""
 		},
 	  {
 			"id": 7,
 	    "event_id": 7,
-			"status": "active",
+			"status": "canceled",
 	    "date": "20200715",
-			"venue": "Mamacita's Restaurant",
-	    "address": "8030, I-10, San Antonio, TX 78230",
-	    "map_url": "https://goo.gl/maps/FihgbnQU3jDJuUoM7"
+			"venue": "Online",
+	    "address": "Zoom",
+	    "map_url": ""
 		},
 	  {
 	    "id": 8,
