@@ -7,7 +7,10 @@
 	<div class="content nextEvent">
 		<?php
 			if ($nextEvent['status'] == 'canceled') {
-				echo 'Canceled';
+				echo '<div class="quick-block-left">';
+				echo 'Points Event #'.$nextEvent['id'].'<br/>';
+				echo '<p class="red">Canceled</red>';
+				echo '</div>';
 			}
 			else {
 				echo '<div class="quick-block-left">';
@@ -56,7 +59,8 @@
 				}
 
 				if ($nextMeeting['status'] == 'canceled') {
-					echo 'Event #'.$nextMeeting['event_id'].' Meeting<br/>Canceled';
+					echo 'Event #'.$nextMeeting['event_id'].' Meeting<br/>';
+					echo '<p class="red">Canceled</red>';
 				}
 				else {
 					echo date_format(new DateTime($nextMeeting['date']), 'D, M j, Y');
