@@ -103,7 +103,7 @@
 		"axware_id": 13416,
 		"status": "active",
 		"axware_host": "SASCA",
-		"results_filename": "e08-aug10-2020",
+		"results_filename": "e08-aug08-2020",
 		"site_host": "SASCA",
 		"joint": "false",
 		"site": "RCCC",
@@ -236,10 +236,11 @@
 	    "id": 8,
 	    "event_id": 8,
 			"status": "active",
+			"status": "active",
 	    "date": "20200812",
-			"venue": "Mamacita's Restaurant",
-	    "address": "8030, I-10, San Antonio, TX 78230",
-	    "map_url": "https://goo.gl/maps/FihgbnQU3jDJuUoM7"
+			"venue": "Online",
+	    "address": "Zoom",
+	    "map_url": ""
 	  },
 	  {
 	    "id": 9,
