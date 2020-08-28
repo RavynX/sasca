@@ -2,8 +2,8 @@
 <?php startblock('content') ?>
 <div id="covid">
   <h1>SASCA COVID-19 Event Procedures</h1>
-  <p>Updated June 9, 2020</p>
-  <p>In order to provide a safe environment for all event participants and spectators, SASCA is modifying our event procedures to best align with local and state guidelines to keep our communities safe during the COVID-19 pandemic.</p>
+  <p>Updated August 27, 2020</p>
+  <p>In order to provide a safe environment for all event participants, SASCA is modifying our event procedures to best align with local and state guidelines to keep our communities safe during the COVID-19 pandemic.</p>
   <p class="red">We encourage everyone to maintain 6 feet of social distancing at all times throughout the event.</p>
   <table>
     <tr>
@@ -11,7 +11,19 @@
     </tr>
     <tr>
       <td>Sanitization</td>
-      <td>Additional sanitation stations will be provided onsite.</td>
+      <td>Wash/sanitize your hands regularly, keep cross-contamination in mind. Additional sanitation stations will be provided onsite.</td>
+    </tr>
+    <tr>
+      <td>Event Limit & Spectators</td>
+      <td>
+        <p>Event Limit is 100 attendees. Members and non-members are allowed.</p>
+        <p>No spectators allowed on site.</p></td>
+    </tr>
+    <tr>
+      <td>Payment & Registration</td>
+      <td>
+        <p>Pre-registration <b>AND</b> pre-payment is <b>REQUIRED</b>.  No walkup-/day-of registrations.</p>
+        <p>No Doubles registration.</p></td>
     </tr>
     <tr>
       <td>Loaner Helmet Program</td>
@@ -38,6 +50,8 @@
       <td>Grid</td>
       <td>
         <p><b>DO NOT GATHER IN GRID; DRIVERS ONLY.</b></p>
+        <p>Masks must be worn while in grid (while outside of your car).</p>
+        <p>Grid will be spaced out extra-wide to better accommodate social distancing.</p>
       </td>
     </tr>
     <tr>
@@ -133,7 +147,8 @@
       <td colspan="2">
         <p>Q: Do event participants have to wear a mask at the event?</p>
         <p>A:  If you read to the end of this page, there are references at the bottom.  You'll find a link to the Governor's Open Texas Page.  That provides the following guidance for Outdoor Motorsports:</p>
-        <p>"Maintain at least 6 feet of separation from other individuals not within the same household.  If such distancing is not feasible, other measures such as face covering, hand hygiene, cough etiquette, cleanliness, and sanitation should be rigorously practiced.  Face shields may be considered as additional source control either in addition to face coverings, or where face coverings are not feasible.  Considerations must be made regarding safety of face coverings during physical exertion or in hot environments."</p>
+        <p>"Maintain at least 6 feet of separation from other individuals not within the same household at all times; this applies to course workers as well.  If such distancing is not feasible, other measures such as face covering, hand hygiene, cough etiquette, cleanliness, and sanitation should be rigorously practiced.  Face shields may be considered as additional source control either in addition to face coverings, or where face coverings are not feasible.  Considerations must be made regarding safety of face coverings during physical exertion or in hot environments."</p>
+        <p>Masks must be worn while in grid (outside of your car), in the trailer, and when one is within 6' of anyone not in their household.</p>
         <p>Our event venue provides enough open space to allow for 6 ft of social distancing.  The venue will also be in an open parking lot where the weather will be hot.  Therefore, we are not requiring masks at our events.</p>
       </td>
     </tr>
