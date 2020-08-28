@@ -80,7 +80,7 @@
             <li>One registration worker set up at a table at the backside of the trailer for cash payments.</li>
           </ul>
         </div>
-        <p>Payment: Contactless card payment will be in use and highly encouraged.  This includes Google Pay and Apple Pay.</p>
+        <p>Payment is REQUIRED on Axware prior to online-registration closing before the event.</p>
       </td>
     </tr>
     <tr>
