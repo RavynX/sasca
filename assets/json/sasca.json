@@ -117,7 +117,7 @@
 		"axware_id": 13417,
 		"status": "active",
 		"axware_host": "SASCA",
-		"results_filename": "e09-oct05-2020",
+		"results_filename": "e09-aug29-2020",
 		"site_host": "SASCA",
 		"joint": "false",
 		"site": "RCCC",
@@ -131,7 +131,7 @@
 		"axware_id": 13418,
 		"status": "active",
 		"axware_host": "SASCA",
-		"results_filename": "e10-nov09-2020",
+		"results_filename": "e10-nov07-2020",
 		"site_host": "SASCA",
 		"joint": "false",
 		"site": "RCCC",
@@ -145,7 +145,7 @@
 		"axware_id": 13419,
 		"status": "active",
 		"axware_host": "SASCA",
-		"results_filename": "e11-nov-24-2020",
+		"results_filename": "e11-dec-05-2020",
 		"site_host": "SASCA",
 		"joint": "false",
 		"site": "RCCC",
@@ -236,7 +236,6 @@
 	    "id": 8,
 	    "event_id": 8,
 			"status": "active",
-			"status": "active",
 	    "date": "20200812",
 			"venue": "Online",
 	    "address": "Zoom",
@@ -247,36 +246,36 @@
 	    "event_id": 9,
 			"status": "active",
 	    "date": "20200902",
-			"venue": "Mamacita's Restaurant",
-	    "address": "8030, I-10, San Antonio, TX 78230",
-	    "map_url": "https://goo.gl/maps/FihgbnQU3jDJuUoM7"
+			"venue": "Online",
+	    "address": "Zoom",
+	    "map_url": ""
 	  },
 	  {
 	    "id": 10,
 	    "event_id": 10,
 			"status": "active",
 	    "date": "20201111",
-			"venue": "Mamacita's Restaurant",
-	    "address": "8030, I-10, San Antonio, TX 78230",
-	    "map_url": "https://goo.gl/maps/FihgbnQU3jDJuUoM7"
+			"venue": "Online",
+	    "address": "Zoom",
+	    "map_url": ""
 	  },
 	  {
 	    "id": 11,
 	    "event_id": 11,
 			"status": "active",
 	    "date": "20201209",
-			"venue": "Mamacita's Restaurant",
-	    "address": "8030, I-10, San Antonio, TX 78230",
-	    "map_url": "https://goo.gl/maps/FihgbnQU3jDJuUoM7"
+			"venue": "Online",
+	    "address": "Zoom",
+	    "map_url": ""
 	  },
 	  {
 	    "id": 12,
 	    "event_id": 12,
 			"status": "active",
 	    "date": "20201211",
-			"venue": "Mamacita's Restaurant",
-	    "address": "8030, I-10, San Antonio, TX 78230",
-	    "map_url": "https://goo.gl/maps/FihgbnQU3jDJuUoM7"
+			"venue": "Online",
+	    "address": "Zoom",
+	    "map_url": ""
 	  }
 	],
 	"schools": [
