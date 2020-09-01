@@ -128,6 +128,20 @@
 	},
 	{
 		"id": 10,
+		"axware_id": 13605,
+		"status": "active",
+		"axware_host": "SASCA",
+		"results_filename": "e10-sep12-2020",
+		"site_host": "SASCA",
+		"joint": "false",
+		"site": "RCCC",
+		"date": "20200912",
+		"venue": "River City Community Church",
+		"address": "16765 Lookout Rd, Schertz, TX 78154",
+		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
+	},
+	{
+		"id": 11,
 		"axware_id": 13418,
 		"status": "active",
 		"axware_host": "SASCA",
@@ -141,7 +155,7 @@
 		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
 	},
 	{
-		"id": 11,
+		"id": 12,
 		"axware_id": 13419,
 		"status": "active",
 		"axware_host": "SASCA",
@@ -153,20 +167,6 @@
 		"venue": "River City Community Church",
 		"address": "16765 Lookout Rd, Schertz, TX 78154",
 		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
-	},
-	{
-		"id": 12,
-		"axware_id": 0,
-		"status": "none",
-		"axware_host": "",
-		"results_filename": "",
-		"site_host": "",
-		"joint": "false",
-		"site": "",
-		"date": "",
-		"venue": "",
-		"address": "",
-		"map_url": ""
 	}],
 	"meetings": [
 		{
@@ -254,25 +254,25 @@
 	    "id": 10,
 	    "event_id": 10,
 			"status": "active",
-	    "date": "20201111",
+	    "date": "20200916",
 			"venue": "Online",
 	    "address": "Zoom",
 	    "map_url": ""
 	  },
 	  {
 	    "id": 11,
-	    "event_id": 11,
+	    "event_id": 10,
 			"status": "active",
-	    "date": "20201209",
+	    "date": "20201111",
 			"venue": "Online",
 	    "address": "Zoom",
 	    "map_url": ""
 	  },
 	  {
 	    "id": 12,
-	    "event_id": 12,
+	    "event_id": 11,
 			"status": "active",
-	    "date": "20201211",
+	    "date": "20201209",
 			"venue": "Online",
 	    "address": "Zoom",
 	    "map_url": ""
