@@ -1,6 +1,10 @@
 <?php include 'index.php' ?>
 <?php startblock('content') ?>
 <h1>Doubles</h1>
+<b>When it's allowed</b>
+<p>100 pre-registered people are required in order to run doubles on event-day.</p>
+<p>It is up to the club's BOD to revoke the Doubles segment for an event for any reason.</p>
+<p>Doubles-Entry fees will be refunded or credited towards the next event if Doubles is canceled after registration ends.</p>
 <b>Registration</b>
 <ol id="doubles_require">
   <li>Must be pre-registered with your Open class for the event on Axware.</li>

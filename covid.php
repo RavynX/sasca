@@ -2,7 +2,7 @@
 <?php startblock('content') ?>
 <div id="covid">
   <h1>SASCA COVID-19 Event Procedures</h1>
-  <p>Updated August 27, 2020</p>
+  <p>Updated: November 1, 2020</p>
   <p>In order to provide a safe environment for all event participants, SASCA is modifying our event procedures to best align with local and state guidelines to keep our communities safe during the COVID-19 pandemic.</p>
   <p class="red">We encourage everyone to maintain 6 feet of social distancing at all times throughout the event.</p>
   <table>
@@ -16,14 +16,16 @@
     <tr>
       <td>Event Limit & Spectators</td>
       <td>
-        <p>Event Limit is 100 attendees. Members and non-members are allowed.</p>
-        <p>No spectators allowed on site.</p></td>
+        <p class="blue">There is no limit on event participants (drivers or spectators).</p>
+        <p class="blue">Members and non-members are allowed.</p>
     </tr>
     <tr>
       <td>Payment & Registration</td>
       <td>
-        <p>Pre-registration <b>AND</b> pre-payment is <b>REQUIRED</b>.  No walkup-/day-of registrations.</p>
-        <p>No Doubles registration.</p></td>
+        <p class="blue">Pre-registration is required to receive the member discount.</p>
+        <p class="blue">Walkup-up/day-of registrations allowed. Note that payment for walk up registrations will be taken in person.</p>
+        <p class="blue">Pre-payment is available on Axware if desired, with a <b><u>NO REFUND</u></b> clause.</p>
+        <p class="blue">Doubles registration is allowed under normal provisions, which can be found here: <a href="https://www.sasca.org/doubles.php" target="_blank">https://www.sasca.org/doubles.php</a></p></td>
     </tr>
     <tr>
       <td>Loaner Helmet Program</td>
@@ -41,9 +43,9 @@
     <tr>
       <td>On Course Passengers</td>
       <td>
-        <p>NO RIDE-ALONGS</p>
-        <p>This includes novice and co-drivers.  All participant vehicles may only have the driver occupying the vehicle during on course runs.
-        <p>Note: Co-drivers are still allowed, they just cannot ride together (one driver occupying the vehicle at a time).</p>
+        <p class="blue">RIDE-ALONGS RESTRICTED TO PERSONS WITHIN THE SAME HOUSEHOLD ONLY.</p>
+        <p>This includes novice and co-drivers.</p>
+        <p class="blue">Note: Co-drivers are still allowed, they just cannot ride together if they’re not in the same household (one driver occupying the vehicle at a time).</p>
       </td>
     </tr>
     <tr>
@@ -80,7 +82,7 @@
             <li>One registration worker set up at a table at the backside of the trailer for cash payments.</li>
           </ul>
         </div>
-        <p>Payment is REQUIRED on Axware prior to online-registration closing before the event.</p>
+        <p class="blue">Note: Co-drivers are still allowed, they just cannot ride together if they’re not in the same household (one driver occupying the vehicle at a time).</p>
       </td>
     </tr>
     <tr>
@@ -112,7 +114,7 @@
         <div class="sub-info">
           <ul>
             <li>Novice Walk through will be conducted at the same time but in small groups with a few different coaches.</li>
-            <li>Ride alongs are not allowed at this time but you may ask a Novice Coordinator to watch your run and give you feedback after your run.</li>
+            <li class="blue">Note: Co-drivers are still allowed, they just cannot ride together if they’re not in the same household (one driver occupying the vehicle at a time).</li>
           </ul>
         </div>
       </td>
@@ -146,10 +148,10 @@
     <tr>
       <td colspan="2">
         <p>Q: Do event participants have to wear a mask at the event?</p>
-        <p>A:  If you read to the end of this page, there are references at the bottom.  You'll find a link to the Governor's Open Texas Page.  That provides the following guidance for Outdoor Motorsports:</p>
-        <p>"Maintain at least 6 feet of separation from other individuals not within the same household at all times; this applies to course workers as well.  If such distancing is not feasible, other measures such as face covering, hand hygiene, cough etiquette, cleanliness, and sanitation should be rigorously practiced.  Face shields may be considered as additional source control either in addition to face coverings, or where face coverings are not feasible.  Considerations must be made regarding safety of face coverings during physical exertion or in hot environments."</p>
-        <p>Masks must be worn while in grid (outside of your car), in the trailer, and when one is within 6' of anyone not in their household.</p>
-        <p>Our event venue provides enough open space to allow for 6 ft of social distancing.  The venue will also be in an open parking lot where the weather will be hot.  Therefore, we are not requiring masks at our events.</p>
+        <p class="blue">A: If you read to the end of this page, there are references at the bottom. You will find a link to the Governor's Open Texas Page that provides the following guidance for Outdoor Motorsports: </p>
+        <p class="blue italic">"Maintain at least 6 feet of separation from other individuals not within the same household. If such distancing is not feasible, other measures such as hand hygiene, cough etiquette, cleanliness, and sanitation should be rigorously practiced. Face shields may be considered as additional source control either in addition to face coverings, or where face coverings are not feasible. Considerations must be made regarding safety of face coverings during physical exertion or in hot environments.”</p>
+        <p class="blue">SASCA requires face coverings be worn while in the SASCA trailer and in grid.</p>
+        <p class="blue">SASCA also provides consideration, according to the above, regarding safety of face coverings during physical exertion or in hot environments. Our event venue provides enough open space to allow for 6 ft of social distancing for those not in the SASCA trailer and in grid. The venue will also be in an open parking lot where the weather will be hot. Therefore, we are not requiring face coverings at our events for any situation outside of the above listed situations.</p>
       </td>
     </tr>
 </table>
@@ -158,11 +160,7 @@
 <p>References:</p>
 <p><a href="https://www.whitehouse.gov/openingamerica/" target="_blank">White House Guidelines for Opening up America Again</a></p>
 <p><a href="https://gov.texas.gov/organization/opentexas" target="_blank">Governor’s Strike Force to Open Texas</a></p>
-<p><a href="https://www.schertz.com/DocumentCenter/View/4210/Schertz-Declaration-Extension-May-26-?bidId=" target="_blank">Schertz Ordinance Declaration Extension</a></p>
-<p><a href="https://www.schertz.com/1893/Covid-19-Coronavirus" target="_blank">Schertz COVID-19 Information</a></p>
 <p><a href="https://www.bexar.org/3234/COVID-19" target="_blank">Bexar County COVID-19 Information</a></p>
-<p><a href="https://www.schertz.com/DocumentCenter/View/4059/Face-Covering-Guidance-for-Bexar-County-4172020?bidId=" target="_blank">Schertz Guidance for face coverings</a></p>
-
 </div>
 
 <?php endblock() ?>

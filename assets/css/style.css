@@ -41,6 +41,18 @@ p.red {
   color: #d92027;
 }
 
+p.blue {
+  color: #16A1FB;
+}
+
+p.italic {
+  font-style: italic;
+}
+
+li.blue {
+  color: #16A1FB;
+}
+
 table tr:nth-child(even) {
   background: #eeeeee;
 }
