@@ -20,7 +20,7 @@
 		</tr>
 		<tr>
 			<td class="title">Secretary</td>
-			<td class="name">Amber Dwyer</td>
+			<td class="name">-open-</td>
 			<td class="email"><a class="glyphicon glyphicon-envelope" href="mailto:secretary@sasca.org"></a></td>
 		</tr>
 		<tr>
@@ -54,7 +54,7 @@
 		</tr>
 		<tr>
 			<td class="title">Equipment Manager</td>
-			<td class="name">Jon Parkoff</td>
+			<td class="name">-open-</td>
 		</tr>
 		<tr>
 			<td class="title">Timing and Scoring</td>
