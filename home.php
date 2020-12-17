@@ -66,7 +66,7 @@
 					echo date_format(new DateTime($nextMeeting['date']), 'D, M j, Y');
 					echo '<br/>';
 					echo $meetingVenue;
-					echo '<br/>Meeting @ <b>6:30pm</b>';
+					echo '<br/>Chat @ 7:00pm<br/>Meeting @ <b>7:30pm</b>';
 				}
 			?>
 		</div>
