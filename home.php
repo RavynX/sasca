@@ -6,7 +6,15 @@
 	<div class="title">Next Event</div>
 	<div class="content nextEvent">
 		<?php
-			if ($nextEvent['status'] == 'canceled') {
+			if (empty($nextEvent)) {
+				echo '<div class="quick-block-left">';
+				echo 'End of Season.';
+				echo '</div>';
+				echo '<div class="quick-block-right">';
+				echo 'Check back later for new schedule.';
+				echo '</div>';
+			}
+			else if ($nextEvent['status'] == 'canceled') {
 				echo '<div class="quick-block-left">';
 				echo 'Points Event #'.$nextEvent['id'].'<br/>';
 				echo '<p class="red">Canceled</red>';
@@ -58,7 +66,10 @@
 					$meetingVenue = $nextMeeting['venue'];
 				}
 
-				if ($nextMeeting['status'] == 'canceled') {
+				if (empty($nextMeeting)) {
+					echo 'End of Season';
+				}
+				else if ($nextMeeting['status'] == 'canceled') {
 					echo 'Event #'.$nextMeeting['event_id'].' Meeting<br/>';
 					echo '<p class="red">Canceled</red>';
 				}
@@ -72,7 +83,10 @@
 		</div>
 				<div class="quick-block-right">
 				<?php
-					if ($nextMeeting['status'] == 'canceled') {
+					if (empty($nextMeeting)) {
+						echo 'Check back later for new schedule.';
+					}
+					else if ($nextMeeting['status'] == 'canceled') {
 						echo '';
 					}
 					else if ($nextMeeting['venue'] == 'Online') {
