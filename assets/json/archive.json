@@ -1,4 +1,301 @@
 {
+  "2020": {
+    "season": 2020,
+  	"events": [{
+  		"id": 1,
+  		"axware_id": 13411,
+  		"status": "active",
+  		"axware_host": "SASCA",
+  		"results_filename": "e01-feb01-2020",
+  		"site_host": "SASCA",
+  		"joint": "false",
+  		"site": "RCCC",
+  		"date": "20200201",
+  		"venue": "River City Community Church",
+  		"address": "16765 Lookout Rd, Schertz, TX 78154",
+  		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
+  	},
+  	{
+  		"id": 2,
+  		"axware_id": 13412,
+  		"status": "active",
+  		"axware_host": "SASCA",
+  		"results_filename": "e02-feb22-2020",
+  		"site_host": "SASCA",
+  		"joint": "false",
+  		"site": "RCCC",
+  		"date": "20200222",
+  		"venue": "River City Community Church",
+  		"address": "16765 Lookout Rd, Schertz, TX 78154",
+  		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
+  	},
+  	{
+  		"id": 3,
+  		"axware_id": 13427,
+  		"status": "active",
+  		"axware_host": "Spokes",
+  		"results_filename": "e03-mar14-2020",
+  		"site_host": "Spokes",
+  		"joint": "true",
+  		"site": "RCCC",
+  		"date": "20200314",
+  		"venue": "River City Community Church",
+  		"address": "16765 Lookout Rd, Schertz, TX 78154",
+  		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
+  	},
+  	{
+  		"id": 4,
+  		"axware_id": 13413,
+  		"status": "canceled",
+  		"axware_host": "SASCA",
+  		"results_filename": "e04-apr06-2020",
+  		"site_host": "SASCA",
+  		"joint": "false",
+  		"site": "RCCC",
+  		"date": "20200502",
+  		"venue": "River City Community Church",
+  		"address": "16765 Lookout Rd, Schertz, TX 78154",
+  		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
+  	},
+  	{
+  		"id": 5,
+  		"axware_id": 13414,
+  		"status": "active",
+  		"axware_host": "SASCA",
+  		"results_filename": "e05-jun12-2020",
+  		"site_host": "SASCA",
+  		"joint": "false",
+  		"site": "RCCC",
+  		"date": "20200613",
+  		"venue": "River City Community Church",
+  		"address": "16765 Lookout Rd, Schertz, TX 78154",
+  		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
+  	},
+  	{
+  		"id": 6,
+  		"axware_id": 13482,
+  		"status": "canceled",
+  		"axware_host": "Spokes",
+  		"results_filename": "e06-jun27-2020",
+  		"site_host": "Spokes",
+  		"joint": "true",
+  		"site": "RCCC",
+  		"date": "20200627",
+  		"venue": "River City Community Church",
+  		"address": "16765 Lookout Rd, Schertz, TX 78154",
+  		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
+  	},
+  	{
+  		"id": 7,
+  		"axware_id": 13415,
+  		"status": "canceled",
+  		"axware_host": "SASCA",
+  		"results_filename": "e07-jul13-2020",
+  		"site_host": "SASCA",
+  		"joint": "false",
+  		"site": "RCCC",
+  		"date": "20200711",
+  		"venue": "River City Community Church",
+  		"address": "16765 Lookout Rd, Schertz, TX 78154",
+  		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
+  	},
+  	{
+  		"id": 8,
+  		"axware_id": 13416,
+  		"status": "active",
+  		"axware_host": "SASCA",
+  		"results_filename": "e08-aug08-2020",
+  		"site_host": "SASCA",
+  		"joint": "false",
+  		"site": "RCCC",
+  		"date": "20200808",
+  		"venue": "River City Community Church",
+  		"address": "16765 Lookout Rd, Schertz, TX 78154",
+  		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
+  	},
+  	{
+  		"id": 9,
+  		"axware_id": 13417,
+  		"status": "active",
+  		"axware_host": "SASCA",
+  		"results_filename": "e09-aug29-2020",
+  		"site_host": "SASCA",
+  		"joint": "false",
+  		"site": "RCCC",
+  		"date": "20200829",
+  		"venue": "River City Community Church",
+  		"address": "16765 Lookout Rd, Schertz, TX 78154",
+  		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
+  	},
+  	{
+  		"id": 10,
+  		"axware_id": 13605,
+  		"status": "active",
+  		"axware_host": "SASCA",
+  		"results_filename": "e10-sep12-2020",
+  		"site_host": "SASCA",
+  		"joint": "false",
+  		"site": "RCCC",
+  		"date": "20200912",
+  		"venue": "River City Community Church",
+  		"address": "16765 Lookout Rd, Schertz, TX 78154",
+  		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
+  	},
+  	{
+  		"id": 11,
+  		"axware_id": 13418,
+  		"status": "active",
+  		"axware_host": "SASCA",
+  		"results_filename": "e10-nov07-2020",
+  		"site_host": "SASCA",
+  		"joint": "false",
+  		"site": "RCCC",
+  		"date": "20201107",
+  		"venue": "River City Community Church",
+  		"address": "16765 Lookout Rd, Schertz, TX 78154",
+  		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
+  	},
+  	{
+  		"id": 12,
+  		"axware_id": 13419,
+  		"status": "active",
+  		"axware_host": "SASCA",
+  		"results_filename": "e12-dec05-2020",
+  		"site_host": "SASCA",
+  		"joint": "false",
+  		"site": "RCCC",
+  		"date": "20201205",
+  		"venue": "River City Community Church",
+  		"address": "16765 Lookout Rd, Schertz, TX 78154",
+  		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
+  	}],
+  	"meetings": [
+  		{
+  			"id": 1,
+  	    "event_id": 1,
+  			"status": "active",
+  	    "date": "20200205",
+  			"venue": "Mamacita's Restaurant",
+  	    "address": "8030, I-10, San Antonio, TX 78230",
+  	    "map_url": "https://goo.gl/maps/FihgbnQU3jDJuUoM7"
+  		},
+  	  {
+  			"id": 2,
+  	    "event_id": 2,
+  			"status": "active",
+  	    "date": "20200226",
+  			"venue": "Mamacita's Restaurant",
+  	    "address": "8030, I-10, San Antonio, TX 78230",
+  	    "map_url": "https://goo.gl/maps/FihgbnQU3jDJuUoM7"
+  		},
+  	  {
+  			"id": 3,
+  	    "event_id": 3,
+  			"status": "canceled",
+  	    "date": "20200318",
+  			"venue": "canceled",
+  	    "address": "",
+  	    "map_url": ""
+  		},
+  	  {
+  			"id": 4,
+  	    "event_id": 4,
+  			"status": "canceled",
+  	    "date": "20200506",
+  			"venue": "canceled",
+  	    "address": "",
+  	    "map_url": ""
+  		},
+  	  {
+  			"id": 5,
+  	    "event_id": 5,
+  			"status": "active",
+  	    "date": "20200617",
+  			"venue": "Online",
+  	    "address": "Zoom",
+  	    "map_url": "https://www.facebook.com/events/1563287437185947/?notif_t=plan_user_invited&notif_id=1592367609045855"
+  		},
+  	  {
+  			"id": 6,
+  	    "event_id": 6,
+  			"status": "canceled",
+  	    "date": "20200701",
+  			"venue": "Online",
+  	    "address": "Zoom",
+  	    "map_url": ""
+  		},
+  	  {
+  			"id": 7,
+  	    "event_id": 7,
+  			"status": "canceled",
+  	    "date": "20200715",
+  			"venue": "Online",
+  	    "address": "Zoom",
+  	    "map_url": ""
+  		},
+  	  {
+  	    "id": 8,
+  	    "event_id": 8,
+  			"status": "active",
+  	    "date": "20200812",
+  			"venue": "Online",
+  	    "address": "Zoom",
+  	    "map_url": ""
+  	  },
+  	  {
+  	    "id": 9,
+  	    "event_id": 9,
+  			"status": "active",
+  	    "date": "20200902",
+  			"venue": "Online",
+  	    "address": "Zoom",
+  	    "map_url": ""
+  	  },
+  	  {
+  	    "id": 10,
+  	    "event_id": 10,
+  			"status": "active",
+  	    "date": "20200916",
+  			"venue": "Online",
+  	    "address": "Zoom",
+  	    "map_url": ""
+  	  },
+  	  {
+  	    "id": 11,
+  	    "event_id": 10,
+  			"status": "active",
+  	    "date": "20201111",
+  			"venue": "Online",
+  	    "address": "Zoom",
+  	    "map_url": ""
+  	  },
+  	  {
+  	    "id": 12,
+  	    "event_id": 11,
+  			"status": "active",
+  	    "date": "20201216",
+  			"venue": "Online",
+  	    "address": "Zoom",
+  	    "map_url": "https://zoom.us/j/92538336418?pwd=bkEyMTdNMTNzVlpGa0FISkRoR3VsUT09"
+  	  }
+  	],
+  	"schools": [
+  	  {
+  	    "id": 1,
+  	    "site_host": "SASCA",
+  	    "in_event": true,
+  	    "event_id": 0,
+  	    "date": "2020",
+  	    "registration_link": "",
+  	    "venue": ""
+  	  },
+  	  {
+  	    "id": 2,
+  	    "site_host": "SASCA",
+  	    "in_event": true
+  	  }
+  	]
+  },
   "2019": {
     "season": 2019,
   	"events": [{
