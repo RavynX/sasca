@@ -38,7 +38,6 @@
       <td>Waiver Signing</td>
       <td>
         <p class="blue">Gate Workers will be present before you enter the paddock to have you sign the waiver and hand out wrist bands.</p>
-        <p class="blue" >There will be a Waiver Station set up where participants can sign the waiver and grab a wristband.  Wristbands will be pre-separated by SASCA staff wearing gloves.</p>
       </td>
     </tr>
     <tr>
