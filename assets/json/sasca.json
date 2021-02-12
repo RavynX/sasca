@@ -17,7 +17,7 @@
 	{
 		"id": 2,
 		"axware_id": 13737,
-		"status": "active",
+		"status": "canceled",
 		"axware_host": "SASCA",
 		"results_filename": "e02-feb13-2021",
 		"site_host": "SASCA",
@@ -181,7 +181,7 @@
 	  {
 			"id": 2,
 	    "event_id": 2,
-			"status": "active",
+			"status": "canceled",
 	    "date": "20210226",
 			"venue": "Mamacita's Restaurant",
 	    "address": "8030, I-10, San Antonio, TX 78230",
