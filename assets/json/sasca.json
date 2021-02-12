@@ -181,11 +181,11 @@
 	  {
 			"id": 2,
 	    "event_id": 2,
-			"status": "canceled",
+			"status": "active",
 	    "date": "20210226",
-			"venue": "Mamacita's Restaurant",
-	    "address": "8030, I-10, San Antonio, TX 78230",
-	    "map_url": "https://goo.gl/maps/FihgbnQU3jDJuUoM7"
+			"venue": "Longhorn Cafe",
+			"address": "1003 Rittiman Rd, San Antonio, TX 78218",
+			"map_url": "https://goo.gl/maps/3WWg1pXmNQA2"
 		},
 	  {
 			"id": 3,
