@@ -182,7 +182,7 @@
 			"id": 2,
 	    "event_id": 2,
 			"status": "active",
-	    "date": "20210226",
+	    "date": "20210217",
 			"venue": "Longhorn Cafe",
 			"address": "1003 Rittiman Rd, San Antonio, TX 78218",
 			"map_url": "https://goo.gl/maps/3WWg1pXmNQA2"
@@ -199,83 +199,83 @@
 	  {
 			"id": 4,
 	    "event_id": 4,
-			"status": "canceled",
-	    "date": "20210506",
-			"venue": "canceled",
-	    "address": "",
-	    "map_url": ""
+			"status": "active",
+	    "date": "20210428",
+			"venue": "Longhorn Cafe",
+			"address": "1003 Rittiman Rd, San Antonio, TX 78218",
+			"map_url": "https://goo.gl/maps/3WWg1pXmNQA2"
 		},
 	  {
 			"id": 5,
 	    "event_id": 5,
 			"status": "active",
-	    "date": "20210617",
-			"venue": "Online",
-	    "address": "Zoom",
-	    "map_url": "https://www.facebook.com/events/1563287437185947/?notif_t=plan_user_invited&notif_id=1592367609045855"
+	    "date": "20210616",
+			"venue": "Longhorn Cafe",
+			"address": "1003 Rittiman Rd, San Antonio, TX 78218",
+			"map_url": "https://goo.gl/maps/3WWg1pXmNQA2"
 		},
 	  {
 			"id": 6,
 	    "event_id": 6,
 			"status": "canceled",
 	    "date": "20210701",
-			"venue": "Online",
-	    "address": "Zoom",
-	    "map_url": ""
+			"venue": "Longhorn Cafe",
+			"address": "1003 Rittiman Rd, San Antonio, TX 78218",
+			"map_url": "https://goo.gl/maps/3WWg1pXmNQA2"
 		},
 	  {
 			"id": 7,
 	    "event_id": 7,
-			"status": "canceled",
-	    "date": "20210715",
-			"venue": "Online",
-	    "address": "Zoom",
-	    "map_url": ""
+			"status": "active",
+	    "date": "20210811",
+			"venue": "Longhorn Cafe",
+			"address": "1003 Rittiman Rd, San Antonio, TX 78218",
+			"map_url": "https://goo.gl/maps/3WWg1pXmNQA2"
 		},
 	  {
 	    "id": 8,
 	    "event_id": 8,
 			"status": "active",
-	    "date": "20210812",
-			"venue": "Online",
-	    "address": "Zoom",
-	    "map_url": ""
+	    "date": "20210929",
+			"venue": "Longhorn Cafe",
+			"address": "1003 Rittiman Rd, San Antonio, TX 78218",
+			"map_url": "https://goo.gl/maps/3WWg1pXmNQA2"
 	  },
 	  {
 	    "id": 9,
 	    "event_id": 9,
 			"status": "active",
-	    "date": "20210902",
-			"venue": "Online",
-	    "address": "Zoom",
-	    "map_url": ""
+	    "date": "20211006",
+			"venue": "Longhorn Cafe",
+			"address": "1003 Rittiman Rd, San Antonio, TX 78218",
+			"map_url": "https://goo.gl/maps/3WWg1pXmNQA2"
 	  },
 	  {
 	    "id": 10,
 	    "event_id": 10,
 			"status": "active",
-	    "date": "20210916",
-			"venue": "Online",
-	    "address": "Zoom",
-	    "map_url": ""
+	    "date": "20211110",
+			"venue": "Longhorn Cafe",
+			"address": "1003 Rittiman Rd, San Antonio, TX 78218",
+			"map_url": "https://goo.gl/maps/3WWg1pXmNQA2"
 	  },
 	  {
 	    "id": 11,
 	    "event_id": 10,
 			"status": "active",
-	    "date": "20211111",
-			"venue": "Online",
-	    "address": "Zoom",
-	    "map_url": ""
+	    "date": "20211215",
+			"venue": "Longhorn Cafe",
+			"address": "1003 Rittiman Rd, San Antonio, TX 78218",
+			"map_url": "https://goo.gl/maps/3WWg1pXmNQA2"
 	  },
 	  {
 	    "id": 12,
 	    "event_id": 11,
-			"status": "active",
+			"status": "canceled",
 	    "date": "20211216",
-			"venue": "Online",
-	    "address": "Zoom",
-	    "map_url": "https://zoom.us/j/92538336418?pwd=bkEyMTdNMTNzVlpGa0FISkRoR3VsUT09"
+			"venue": "Longhorn Cafe",
+			"address": "1003 Rittiman Rd, San Antonio, TX 78218",
+			"map_url": "https://goo.gl/maps/3WWg1pXmNQA2"
 	  }
 	],
 	"schools": [
