@@ -40,7 +40,9 @@
   function getNextEvent($events) {
     foreach($events as $event) {
       if (afterYesterday($event['date'])) {
-        return $event;
+        if ($event['axware_id'] > 0) {
+          return $event;
+        }
       }
     }
     return null;
