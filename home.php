@@ -37,12 +37,22 @@
 <div class="quick-block results">
 	<div class="title">Event Results</div>
 	<div class="content">
-		<p>Points Event #<?php echo $previousEvent['id']; ?></p>
+		<?php 
+			if (is_null($previousEvent)) {
+				echo '<br/>';
+			}
+			else {
+				echo '<p>Points Event #'.$previousEvent['id'].'</p>';
+			}
+		?>
 		<div class="resultsGroup">
 		<?php
 			if ($previousEvent['status'] == 'canceled')
 			{
 				echo 'Previous Event was Canceled';
+			}
+			else if (is_null($previousEvent)) {
+				echo 'No Prior Events this Year';
 			}
 			else {
 				echo '<a href="'.$axwareBaseResultsURL.$previousEvent['axware_host'].'/'.$previousEvent['results_filename'].'_fin.htm" target="_blank" class="btn btn-primary" role="button">Final</a>';
