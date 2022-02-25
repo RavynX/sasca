@@ -46,7 +46,7 @@
 		"id": 4,
 		"axware_id": 13981,
 		"status": "active",
-		"axware_host": "Spokes",
+		"axware_host": "SASCA",
 		"results_filename": "e04-mar26",
 		"site_host": "Spokes",
 		"joint": "true",
@@ -58,6 +58,20 @@
 	},
 	{
 		"id": 5,
+		"axware_id": 14053,
+		"status": "active",
+		"axware_host": "SASCA",
+		"results_filename": "e04-apr30",
+		"site_host": "Spokes",
+		"joint": "true",
+		"site": "RCCC",
+		"date": "20220430",
+		"venue": "River City Community Church",
+		"address": "16765 Lookout Rd, Schertz, TX 78154",
+		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
+	},
+	{
+		"id": 6,
 		"axware_id": 13971,
 		"status": "active",
 		"axware_host": "SASCA",
@@ -71,35 +85,7 @@
 		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
 	},
 	{
-		"id": 6,
-		"axware_id": 0,
-		"status": "active",
-		"axware_host": "SASCA",
-		"results_filename": "e06-jun11",
-		"site_host": "SASCA",
-		"joint": "true",
-		"site": "",
-		"date": "",
-		"venue": "River City Community Church",
-		"address": "16765 Lookout Rd, Schertz, TX 78154",
-		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
-	},
-	{
 		"id": 7,
-		"axware_id": 0,
-		"status": "active",
-		"axware_host": "SASCA",
-		"results_filename": "e07-jun25",
-		"site_host": "SASCA",
-		"joint": "false",
-		"site": "",
-		"date": "",
-		"venue": "River City Community Church",
-		"address": "16765 Lookout Rd, Schertz, TX 78154",
-		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
-	},
-	{
-		"id": 8,
 		"axware_id": 13974,
 		"status": "active",
 		"axware_host": "SASCA",
@@ -113,7 +99,7 @@
 		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
 	},
 	{
-		"id": 9,
+		"id": 8,
 		"axware_id": 13975,
 		"status": "active",
 		"axware_host": "SASCA",
@@ -127,7 +113,7 @@
 		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
 	},
 	{
-		"id": 10,
+		"id": 9,
 		"axware_id": 13976,
 		"status": "active",
 		"axware_host": "SASCA",
@@ -141,7 +127,7 @@
 		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
 	},
 	{
-		"id": 11,
+		"id": 10,
 		"axware_id": 13977,
 		"status": "active",
 		"axware_host": "SASCA",
@@ -155,7 +141,7 @@
 		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
 	},
 	{
-		"id": 12,
+		"id": 11,
 		"axware_id": 13978,
 		"status": "active",
 		"axware_host": "SASCA",
