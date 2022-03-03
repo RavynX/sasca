@@ -5,12 +5,12 @@
 	<table class="bod">
 		<tr>
 			<td class="title">President</td>
-			<td class="name">Ricky Crow</td>
+			<td class="name">Brian Burdette</td>
 			<td class="email"><a class="glyphicon glyphicon-envelope" href="mailto:president@sasca.org"></a></td>
 		</tr>
 		<tr>
 			<td class="title">Vice President</td>
-			<td class="name">Brian Burdette</td>
+			<td class="name">Brandon Garcia</td>
 			<td class="email"><a class="glyphicon glyphicon-envelope" href="mailto:vicepresident@sasca.org"></a></td>
 		</tr>
 		<tr>
@@ -20,12 +20,12 @@
 		</tr>
 		<tr>
 			<td class="title">Secretary</td>
-			<td class="name">-open-</td>
+			<td class="name">James-Erik Ferguson</td>
 			<td class="email"><a class="glyphicon glyphicon-envelope" href="mailto:secretary@sasca.org"></a></td>
 		</tr>
 		<tr>
 			<td class="title">5th BOD</td>
-			<td class="name">Diane Stevens Leclair</td>
+			<td class="name">Ricky Crow</td>
 			<td class="email"><a class="glyphicon glyphicon-envelope" href="mailto:pr@sasca.org"></a></td>
 		</tr>
 	</table>
@@ -34,7 +34,7 @@
 	<table class="chairs">
 		<tr>
 			<td class="title">Novice Chief</td>
-			<td class="name">Stephanie Reynoso</td>
+			<td class="name">Jeff Chesnut</td>
 		</tr>
 		<tr>
 			<td class="title">Membership</td>
@@ -46,15 +46,15 @@
 		</tr>
 		<tr>
 			<td class="title">Worker Chief</td>
-			<td class="name">Brandon Scott Garcia</td>
+			<td class="name">Ben Gresham</td>
 		</tr>
 		<tr>
 			<td class="title">Safety Steward</td>
-			<td class="name">Jeff Vineyard</td>
+			<td class="name">Drew Malkin</td>
 		</tr>
 		<tr>
 			<td class="title">Equipment Manager</td>
-			<td class="name">-open-</td>
+			<td class="name">Jeff Vineyard</td>
 		</tr>
 		<tr>
 			<td class="title">Timing and Scoring</td>
@@ -62,7 +62,7 @@
 		</tr>
 		<tr>
 			<td class="title">Webmasters</td>
-			<td class="name">Chris Leclair &amp;<br/>Shane Powell</td>
+			<td class="name">Chris Leclair</td>
 		</tr>
 	</table>
 </div>
