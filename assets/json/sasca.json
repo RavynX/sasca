@@ -115,7 +115,7 @@
 	{
 		"id": 9,
 		"axware_id": 13976,
-		"status": "active",
+		"status": "canceled",
 		"axware_host": "SASCA",
 		"results_filename": "e10-sep24",
 		"site_host": "SASCA",
@@ -143,7 +143,7 @@
 	{
 		"id": 11,
 		"axware_id": 13978,
-		"status": "active",
+		"status": "canceled",
 		"axware_host": "SASCA",
 		"results_filename": "e12-dec10",
 		"site_host": "SASCA",
@@ -230,7 +230,7 @@
 	  {
 	    "id": 9,
 	    "event_id": 9,
-		"status": "active",
+		"status": "canceled",
 	    "date": "20220726",
 		"venue": "Chicken N Pickle",
 		"address": "5215 UTSA Boulevard, San Antonio, TX 78249",
@@ -248,7 +248,7 @@
 	  {
 	    "id": 11,
 	    "event_id": 10,
-		"status": "active",
+		"status": "canceled",
 	    "date": "20221116",
 		"venue": "Longhorn Cafe",
 		"address": "1003 Rittiman Rd, San Antonio, TX 78218",
