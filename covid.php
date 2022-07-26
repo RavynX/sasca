@@ -2,7 +2,7 @@
 <?php startblock('content') ?>
 <div id="covid">
   <h1>SASCA COVID-19 Event Procedures</h1>
-  <p>Updated: June 10, 2021</p>
+  <p>Updated: July 26, 2022</p>
   <p class="blue">All updates are highlighted in blue font.</p>
   <p>In order to provide a safe environment for all event participants, SASCA is modifying our event procedures to best align with local and state guidelines to keep our communities safe during the COVID-19 pandemic.</p>
   <p class="red">We encourage everyone to maintain 6 feet of social distancing at all times throughout the event.</p>
@@ -13,7 +13,7 @@
     <tr>
       <td>Latest Update</td>
       <td>
-        <p class="blue">To keep in alignment with the Texas Governor's Open Texas 100% Efforts and CDC Guidance vaccinated individuals do not need to wear a mask. Non-vaccinated individuals are encouraged to wear a mask. Please respect others that choose to wear a mask.</p>
+        <p>To keep in alignment with the Texas Governor's Open Texas 100% Efforts and CDC Guidance vaccinated individuals do not need to wear a mask. Non-vaccinated individuals are encouraged to wear a mask. Please respect others that choose to wear a mask.</p>
         <p class="blue">Unless otherwise specified below, event procedures are back to normal.</p>
       </td>
     </tr>
@@ -24,26 +24,12 @@
     <tr>
       <td>Loaner Helmet Program</td>
       <td>
-        <p>NO LOANER HELMETS WILL BE AVAILABLE</p>
-        <p>SASCA has ordered a limited number of helmets for purchase at the event.</p></td>
+        <p class="blue">Loaner Helmets are available for use.</p></td>
     </tr>
     <tr>
       <td>Trailer Work</td>
       <td>
-        <p class="blue">Trailer Workers: If you choose to wear a mask, please bring your own. Gloves will be provided if requested.</p>
-        <p>Timing and Radio will be setup inside the trailer.</p>
-        <p>Announcer will be set up with a separate screen socially distant from Timing and Radio workers.</p>
-      </td>
-    </tr>
-    <tr>
-      <td>Novice Walk-through</td>
-      <td>
-        <div class="sub-info">
-          <ul>
-            <li>Novice Walk through will be conducted at the same time but in small groups with a few different coaches.</li>
-            <li class="blue">Note: Co-drivers and ride-alongs are allowed.  Please see Latest Update at the top for mask guidance.</li>
-          </ul>
-        </div>
+        <p class="blue">Trailer Workers: If you choose to wear a mask, please bring your own.</p>
       </td>
     </tr>
     <tr>
