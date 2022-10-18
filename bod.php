@@ -1,7 +1,7 @@
 <?php include 'index.php' ?>
 <?php startblock('content') ?>
 <div id="bod">
-	<h1>2019 Board of Directors</h1>
+	<h1>2022 Board of Directors</h1>
 	<table class="bod">
 		<tr>
 			<td class="title">President</td>
@@ -30,7 +30,7 @@
 		</tr>
 	</table>
 	<br/>
-	<h1>2019 Chairs</h1>
+	<h1>2022 Chairs</h1>
 	<table class="chairs">
 		<tr>
 			<td class="title">Novice Chief</td>
