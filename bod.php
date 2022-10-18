@@ -20,7 +20,7 @@
 		</tr>
 		<tr>
 			<td class="title">Secretary</td>
-			<td class="name">James-Erik Ferguson</td>
+			<td class="name">Drew Malkin</td>
 			<td class="email"><a class="glyphicon glyphicon-envelope" href="mailto:secretary@sasca.org"></a></td>
 		</tr>
 		<tr>
