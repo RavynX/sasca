@@ -241,18 +241,18 @@
 	    "event_id": 10,
 		"status": "active",
 	    "date": "20221028",
-		"venue": "Longhorn Cafe",
-		"address": "1003 Rittiman Rd, San Antonio, TX 78218",
-		"map_url": "https://goo.gl/maps/3WWg1pXmNQA2"
+		"venue": "TBD",
+		"address": "TBD",
+		"map_url": "TBD"
 	  },
 	  {
 	    "id": 11,
 	    "event_id": 10,
-		"status": "canceled",
-	    "date": "20221116",
-		"venue": "Longhorn Cafe",
-		"address": "1003 Rittiman Rd, San Antonio, TX 78218",
-		"map_url": "https://goo.gl/maps/3WWg1pXmNQA2"
+		"status": "active",
+	    "date": "20221115",
+		"venue": "Big'z",
+		"address": "10106 TX-151, San Antonio, TX 78251",
+		"map_url": "https://goo.gl/maps/ubUxYYrMFX8Farqk8"
 	  },
 	  {
 	    "id": 12,
