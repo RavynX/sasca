@@ -12,6 +12,7 @@
 				echo '</div>';
 				echo '<div class="quick-block-right">';
 				echo 'Check back later for new schedule.';
+				echo $nextEvent;
 				echo '</div>';
 			}
 			else if ($nextEvent['status'] == 'canceled') {

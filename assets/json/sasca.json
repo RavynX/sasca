@@ -9,7 +9,7 @@
 		"site_host": "SASCA",
 		"joint": "false",
 		"site": "RCCC",
-		"date": "20220304",
+		"date": "20230304",
 		"venue": "River City Community Church",
 		"address": "16765 Lookout Rd, Schertz, TX 78154",
 		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
@@ -23,7 +23,7 @@
 		"site_host": "SASCA",
 		"joint": "false",
 		"site": "RCCC",
-		"date": "20220325",
+		"date": "20230325",
 		"venue": "River City Community Church",
 		"address": "16765 Lookout Rd, Schertz, TX 78154",
 		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
@@ -37,7 +37,7 @@
 		"site_host": "SASCA",
 		"joint": "false",
 		"site": "RCCC",
-		"date": "20220429",
+		"date": "20230429",
 		"venue": "River City Community Church",
 		"address": "16765 Lookout Rd, Schertz, TX 78154",
 		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
@@ -51,7 +51,7 @@
 		"site_host": "SASCA",
 		"joint": "false",
 		"site": "RCCC",
-		"date": "20220603",
+		"date": "20230603",
 		"venue": "River City Community Church",
 		"address": "16765 Lookout Rd, Schertz, TX 78154",
 		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
@@ -65,7 +65,7 @@
 		"site_host": "SASCA",
 		"joint": "false",
 		"site": "RCCC",
-		"date": "20220701",
+		"date": "20230701",
 		"venue": "River City Community Church",
 		"address": "16765 Lookout Rd, Schertz, TX 78154",
 		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
@@ -79,7 +79,7 @@
 		"site_host": "SASCA",
 		"joint": "false",
 		"site": "RCCC",
-		"date": "20220722",
+		"date": "20230722",
 		"venue": "River City Community Church",
 		"address": "16765 Lookout Rd, Schertz, TX 78154",
 		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
@@ -93,7 +93,7 @@
 		"site_host": "SASCA",
 		"joint": "false",
 		"site": "RCCC",
-		"date": "20220812",
+		"date": "20230812",
 		"venue": "River City Community Church",
 		"address": "16765 Lookout Rd, Schertz, TX 78154",
 		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
@@ -107,7 +107,7 @@
 		"site_host": "SASCA",
 		"joint": "false",
 		"site": "RCCC",
-		"date": "20221014",
+		"date": "20231014",
 		"venue": "River City Community Church",
 		"address": "16765 Lookout Rd, Schertz, TX 78154",
 		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
@@ -121,7 +121,7 @@
 		"site_host": "SASCA",
 		"joint": "false",
 		"site": "RCCC",
-		"date": "20221104",
+		"date": "20231104",
 		"venue": "River City Community Church",
 		"address": "16765 Lookout Rd, Schertz, TX 78154",
 		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
@@ -135,7 +135,7 @@
 		"site_host": "SASCA",
 		"joint": "false",
 		"site": "RCCC",
-		"date": "20221111",
+		"date": "20231111",
 		"venue": "River City Community Church",
 		"address": "16765 Lookout Rd, Schertz, TX 78154",
 		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
@@ -149,7 +149,7 @@
 		"site_host": "SASCA",
 		"joint": "false",
 		"site": "RCCC",
-		"date": "20221202",
+		"date": "20231202",
 		"venue": "River City Community Church",
 		"address": "16765 Lookout Rd, Schertz, TX 78154",
 		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
@@ -159,7 +159,7 @@
 		"id": 1,
 	    "event_id": 1,
 		"status": "active",
-	    "date": "20220202",
+	    "date": "20230202",
 		"venue": "Online",
 	    "address": "Zoom",
 	    "map_url": ""
@@ -168,7 +168,7 @@
 		"id": 2,
 	    "event_id": 2,
 		"status": "active",
-	    "date": "20220216",
+	    "date": "20230216",
 		"venue": "Longhorn Cafe",
 		"address": "1003 Rittiman Rd, San Antonio, TX 78218",
 		"map_url": "https://goo.gl/maps/3WWg1pXmNQA2"
@@ -177,7 +177,7 @@
 		"id": 3,
 	    "event_id": 3,
 		"status": "active",
-	    "date": "20220316",
+	    "date": "20230316",
 		"venue": "Longhorn Cafe",
 		"address": "1003 Rittiman Rd, San Antonio, TX 78218",
 		"map_url": "https://goo.gl/maps/3WWg1pXmNQA2"
@@ -186,7 +186,7 @@
 		"id": 4,
 	    "event_id": 4,
 		"status": "active",
-	    "date": "20220330",
+	    "date": "20230330",
 		"venue": "Longhorn Cafe",
 		"address": "1003 Rittiman Rd, San Antonio, TX 78218",
 		"map_url": "https://goo.gl/maps/3WWg1pXmNQA2"
@@ -195,7 +195,7 @@
 		"id": 5,
 	    "event_id": 5,
 		"status": "active",
-	    "date": "20220518",
+	    "date": "20230518",
 		"venue": "Longhorn Cafe",
 		"address": "1003 Rittiman Rd, San Antonio, TX 78218",
 		"map_url": "https://goo.gl/maps/3WWg1pXmNQA2"
@@ -204,7 +204,7 @@
 		"id": 6,
 	    "event_id": 6,
 		"status": "active",
-	    "date": "20220615",
+	    "date": "20230615",
 		"venue": "Longhorn Cafe",
 		"address": "1003 Rittiman Rd, San Antonio, TX 78218",
 		"map_url": "https://goo.gl/maps/3WWg1pXmNQA2"
@@ -213,7 +213,7 @@
 		"id": 7,
 	    "event_id": 7,
 		"status": "active",
-	    "date": "20220629",
+	    "date": "20230629",
 		"venue": "Longhorn Cafe",
 		"address": "1003 Rittiman Rd, San Antonio, TX 78218",
 		"map_url": "https://goo.gl/maps/3WWg1pXmNQA2"
@@ -222,7 +222,7 @@
 	    "id": 8,
 	    "event_id": 8,
 		"status": "active",
-	    "date": "20220712",
+	    "date": "20230712",
 		"venue": "Big'z Burger Joint #2",
 		"address": "10106 TX-151, San Antonio, TX 78251",
 		"map_url": "https://goo.gl/maps/RrGqD6zzTPYPHpPt6"
@@ -231,7 +231,7 @@
 	    "id": 9,
 	    "event_id": 9,
 		"status": "active",
-	    "date": "20220726",
+	    "date": "20230726",
 		"venue": "Chicken N Pickle",
 		"address": "5215 UTSA Boulevard, San Antonio, TX 78249",
 		"map_url": "https://g.page/chickennpicklesat?share"
@@ -240,7 +240,7 @@
 	    "id": 10,
 	    "event_id": 10,
 		"status": "active",
-	    "date": "20221028",
+	    "date": "20231028",
 		"venue": "TBD",
 		"address": "TBD",
 		"map_url": "TBD"
@@ -249,7 +249,7 @@
 	    "id": 11,
 	    "event_id": 10,
 		"status": "active",
-	    "date": "20221115",
+	    "date": "20231115",
 		"venue": "Big'z",
 		"address": "10106 TX-151, San Antonio, TX 78251",
 		"map_url": "https://goo.gl/maps/ubUxYYrMFX8Farqk8"
@@ -258,7 +258,7 @@
 	    "id": 12,
 	    "event_id": 11,
 		"status": "active",
-	    "date": "20221214",
+	    "date": "20231214",
 		"venue": "Longhorn Cafe",
 		"address": "1003 Rittiman Rd, San Antonio, TX 78218",
 		"map_url": "https://goo.gl/maps/3WWg1pXmNQA2"
@@ -270,7 +270,7 @@
 	    "site_host": "SASCA",
 	    "in_event": true,
 	    "event_id": 0,
-	    "date": "2022",
+	    "date": "2023",
 	    "registration_link": "",
 	    "venue": ""
 	  },
