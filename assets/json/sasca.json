@@ -100,10 +100,24 @@
 	},
 	{
 		"id": 8,
+		"axware_id": 14335,
+		"status": "active",
+		"axware_host": "SASCA",
+		"results_filename": "e08-aug26",
+		"site_host": "Spokes",
+		"joint": "true",
+		"site": "RCCC",
+		"date": "20230826",
+		"venue": "River City Community Church",
+		"address": "16765 Lookout Rd, Schertz, TX 78154",
+		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
+	},
+	{
+		"id": 9,
 		"axware_id": 14283,
 		"status": "active",
 		"axware_host": "SASCA",
-		"results_filename": "e08-oct14",
+		"results_filename": "e09-oct14",
 		"site_host": "SASCA",
 		"joint": "false",
 		"site": "RCCC",
@@ -113,11 +127,11 @@
 		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
 	},
 	{
-		"id": 9,
+		"id": 10,
 		"axware_id": 14284,
 		"status": "active",
 		"axware_host": "SASCA",
-		"results_filename": "e09-nov04",
+		"results_filename": "e10`-nov04",
 		"site_host": "SASCA",
 		"joint": "false",
 		"site": "RCCC",
@@ -127,11 +141,11 @@
 		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
 	},
 	{
-		"id": 10,
+		"id": 11,
 		"axware_id": 14285,
 		"status": "active",
 		"axware_host": "SASCA",
-		"results_filename": "e10-nov11",
+		"results_filename": "e11-nov11",
 		"site_host": "SASCA",
 		"joint": "false",
 		"site": "RCCC",
@@ -141,7 +155,7 @@
 		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
 	},
 	{
-		"id": 11,
+		"id": 12,
 		"axware_id": 14286,
 		"status": "active",
 		"axware_host": "SASCA",
@@ -159,109 +173,109 @@
 		"id": 1,
 	    "event_id": 1,
 		"status": "active",
-	    "date": "20230202",
-		"venue": "Online",
-	    "address": "Zoom",
-	    "map_url": ""
+	    "date": "20230308",
+		"venue": "Mamacita's Restaurant",
+  	    "address": "8030, I-10, San Antonio, TX 78230",
+  	    "map_url": "https://goo.gl/maps/FihgbnQU3jDJuUoM7"
 		},
 	  {
 		"id": 2,
 	    "event_id": 2,
 		"status": "active",
-	    "date": "20230216",
-		"venue": "Longhorn Cafe",
-		"address": "1003 Rittiman Rd, San Antonio, TX 78218",
-		"map_url": "https://goo.gl/maps/3WWg1pXmNQA2"
+	    "date": "20230329",
+		"venue": "Mamacita's Restaurant",
+  	    "address": "8030, I-10, San Antonio, TX 78230",
+  	    "map_url": "https://goo.gl/maps/FihgbnQU3jDJuUoM7"
 		},
 	  {
 		"id": 3,
 	    "event_id": 3,
 		"status": "active",
-	    "date": "20230316",
-		"venue": "Longhorn Cafe",
-		"address": "1003 Rittiman Rd, San Antonio, TX 78218",
-		"map_url": "https://goo.gl/maps/3WWg1pXmNQA2"
+	    "date": "20230503",
+		"venue": "Mamacita's Restaurant",
+  	    "address": "8030, I-10, San Antonio, TX 78230",
+  	    "map_url": "https://goo.gl/maps/FihgbnQU3jDJuUoM7"
 		},
 	  {
 		"id": 4,
 	    "event_id": 4,
 		"status": "active",
-	    "date": "20230330",
-		"venue": "Longhorn Cafe",
-		"address": "1003 Rittiman Rd, San Antonio, TX 78218",
-		"map_url": "https://goo.gl/maps/3WWg1pXmNQA2"
+	    "date": "20230607",
+		"venue": "Mamacita's Restaurant",
+		"address": "8030, I-10, San Antonio, TX 78230",
+		"map_url": "https://goo.gl/maps/FihgbnQU3jDJuUoM7"
 		},
 	  {
 		"id": 5,
 	    "event_id": 5,
 		"status": "active",
-	    "date": "20230518",
-		"venue": "Longhorn Cafe",
-		"address": "1003 Rittiman Rd, San Antonio, TX 78218",
-		"map_url": "https://goo.gl/maps/3WWg1pXmNQA2"
+	    "date": "20230705",
+		"venue": "Mamacita's Restaurant",
+		"address": "8030, I-10, San Antonio, TX 78230",
+		"map_url": "https://goo.gl/maps/FihgbnQU3jDJuUoM7"
 		},
 	  {
 		"id": 6,
 	    "event_id": 6,
 		"status": "active",
-	    "date": "20230615",
-		"venue": "Longhorn Cafe",
-		"address": "1003 Rittiman Rd, San Antonio, TX 78218",
-		"map_url": "https://goo.gl/maps/3WWg1pXmNQA2"
+	    "date": "20230726",
+		"venue": "Mamacita's Restaurant",
+		"address": "8030, I-10, San Antonio, TX 78230",
+		"map_url": "https://goo.gl/maps/FihgbnQU3jDJuUoM7"
 		},
 	  {
 		"id": 7,
 	    "event_id": 7,
 		"status": "active",
-	    "date": "20230629",
-		"venue": "Longhorn Cafe",
-		"address": "1003 Rittiman Rd, San Antonio, TX 78218",
-		"map_url": "https://goo.gl/maps/3WWg1pXmNQA2"
+	    "date": "20230816",
+		"venue": "Mamacita's Restaurant",
+		"address": "8030, I-10, San Antonio, TX 78230",
+		"map_url": "https://goo.gl/maps/FihgbnQU3jDJuUoM7"
 		},
 	  {
 	    "id": 8,
 	    "event_id": 8,
 		"status": "active",
-	    "date": "20230712",
-		"venue": "Big'z Burger Joint #2",
-		"address": "10106 TX-151, San Antonio, TX 78251",
-		"map_url": "https://goo.gl/maps/RrGqD6zzTPYPHpPt6"
+	    "date": "20231018",
+		"venue": "Mamacita's Restaurant",
+		"address": "8030, I-10, San Antonio, TX 78230",
+		"map_url": "https://goo.gl/maps/FihgbnQU3jDJuUoM7"
 	  },
 	  {
 	    "id": 9,
 	    "event_id": 9,
 		"status": "active",
-	    "date": "20230726",
-		"venue": "Chicken N Pickle",
-		"address": "5215 UTSA Boulevard, San Antonio, TX 78249",
-		"map_url": "https://g.page/chickennpicklesat?share"
+	    "date": "20231108",
+		"venue": "Mamacita's Restaurant",
+		"address": "8030, I-10, San Antonio, TX 78230",
+		"map_url": "https://goo.gl/maps/FihgbnQU3jDJuUoM7"
 	  },
 	  {
 	    "id": 10,
 	    "event_id": 10,
 		"status": "active",
-	    "date": "20231028",
-		"venue": "TBD",
-		"address": "TBD",
-		"map_url": "TBD"
+	    "date": "20231115",
+		"venue": "Mamacita's Restaurant",
+		"address": "8030, I-10, San Antonio, TX 78230",
+		"map_url": "https://goo.gl/maps/FihgbnQU3jDJuUoM7"
 	  },
 	  {
 	    "id": 11,
 	    "event_id": 10,
 		"status": "active",
-	    "date": "20231115",
-		"venue": "Big'z",
-		"address": "10106 TX-151, San Antonio, TX 78251",
-		"map_url": "https://goo.gl/maps/ubUxYYrMFX8Farqk8"
+	    "date": "20231206",
+		"venue": "Mamacita's Restaurant",
+		"address": "8030, I-10, San Antonio, TX 78230",
+		"map_url": "https://goo.gl/maps/FihgbnQU3jDJuUoM7"
 	  },
 	  {
 	    "id": 12,
 	    "event_id": 11,
 		"status": "active",
 	    "date": "20231214",
-		"venue": "Longhorn Cafe",
-		"address": "1003 Rittiman Rd, San Antonio, TX 78218",
-		"map_url": "https://goo.gl/maps/3WWg1pXmNQA2"
+		"venue": "Mamacita's Restaurant",
+		"address": "8030, I-10, San Antonio, TX 78230",
+		"map_url": "https://goo.gl/maps/FihgbnQU3jDJuUoM7"
 	  }
 	],
 	"schools": [
