@@ -42,7 +42,7 @@
 		</tr>
 		<tr>
 			<td class="title">Membership Assistant</td>
-			<td class="name">Jay Cryderman</td>
+			<td class="name">Eric Yee</td>
 		</tr>
 		<tr>
 			<td class="title">Tech Chief</td>
