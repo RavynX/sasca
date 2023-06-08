@@ -24,8 +24,8 @@
         <li>Fees</li>
         <ol>
         	<li>Membership dues will be $25 per year.</li>
-        	<li>The autocross fee for pre-registered SASCA members is $25.00.</li>
-        	<li>The autocross fee for all others is $30.00.</li>
+        	<li>The autocross fee for pre-registered SASCA members is $30.00.</li>
+        	<li>The autocross fee for all others is $35.00.</li>
         	<li>Autocross fees may be changed for special events.</li>
         	<li>Members holding a SASCA Chairman position receive free club membership during their active tenure.</li>
         	<li>An additional event fee of $5 will be levied during the late registration period.</li>
