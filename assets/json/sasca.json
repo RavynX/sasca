@@ -102,8 +102,8 @@
 		"id": 8,
 		"axware_id": 14335,
 		"status": "active",
-		"axware_host": "SASCA",
-		"results_filename": "e08-aug26",
+		"axware_host": "Spokes",
+		"results_filename": "spokes08_rccc_2023-08-26",
 		"site_host": "Spokes",
 		"joint": "true",
 		"site": "RCCC",
@@ -128,34 +128,6 @@
 	},
 	{
 		"id": 10,
-		"axware_id": 14284,
-		"status": "active",
-		"axware_host": "SASCA",
-		"results_filename": "e10`-nov04",
-		"site_host": "SASCA",
-		"joint": "false",
-		"site": "RCCC",
-		"date": "20231104",
-		"venue": "River City Community Church",
-		"address": "16765 Lookout Rd, Schertz, TX 78154",
-		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
-	},
-	{
-		"id": 11,
-		"axware_id": 14285,
-		"status": "active",
-		"axware_host": "SASCA",
-		"results_filename": "e11-nov11",
-		"site_host": "SASCA",
-		"joint": "false",
-		"site": "RCCC",
-		"date": "20231111",
-		"venue": "River City Community Church",
-		"address": "16765 Lookout Rd, Schertz, TX 78154",
-		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
-	},
-	{
-		"id": 12,
 		"axware_id": 14286,
 		"status": "active",
 		"axware_host": "SASCA",
@@ -167,7 +139,22 @@
 		"venue": "River City Community Church",
 		"address": "16765 Lookout Rd, Schertz, TX 78154",
 		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
-	}],
+	},
+	{
+		"id": 11,
+		"axware_id": 14443,
+		"status": "active",
+		"axware_host": "SASCA",
+		"results_filename": "e11-dec16",
+		"site_host": "SASCA",
+		"joint": "false",
+		"site": "RCCC",
+		"date": "20231216",
+		"venue": "River City Community Church",
+		"address": "16765 Lookout Rd, Schertz, TX 78154",
+		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
+	}
+	],
 	"meetings": [
 		{
 		"id": 1,
@@ -236,7 +223,7 @@
 	    "id": 8,
 	    "event_id": 8,
 		"status": "active",
-	    "date": "20231018",
+	    "date": "20230830",
 		"venue": "Mamacita's Restaurant",
 		"address": "8030, I-10, San Antonio, TX 78230",
 		"map_url": "https://goo.gl/maps/FihgbnQU3jDJuUoM7"
@@ -245,7 +232,7 @@
 	    "id": 9,
 	    "event_id": 9,
 		"status": "active",
-	    "date": "20231108",
+	    "date": "20231018",
 		"venue": "Mamacita's Restaurant",
 		"address": "8030, I-10, San Antonio, TX 78230",
 		"map_url": "https://goo.gl/maps/FihgbnQU3jDJuUoM7"
@@ -254,7 +241,7 @@
 	    "id": 10,
 	    "event_id": 10,
 		"status": "active",
-	    "date": "20231115",
+	    "date": "20231206",
 		"venue": "Mamacita's Restaurant",
 		"address": "8030, I-10, San Antonio, TX 78230",
 		"map_url": "https://goo.gl/maps/FihgbnQU3jDJuUoM7"
@@ -263,21 +250,11 @@
 	    "id": 11,
 	    "event_id": 10,
 		"status": "active",
-	    "date": "20231206",
+	    "date": "20231220",
 		"venue": "Mamacita's Restaurant",
 		"address": "8030, I-10, San Antonio, TX 78230",
 		"map_url": "https://goo.gl/maps/FihgbnQU3jDJuUoM7"
-	  },
-	  {
-	    "id": 12,
-	    "event_id": 11,
-		"status": "active",
-	    "date": "20231214",
-		"venue": "Mamacita's Restaurant",
-		"address": "8030, I-10, San Antonio, TX 78230",
-		"map_url": "https://goo.gl/maps/FihgbnQU3jDJuUoM7"
-	  }
-	],
+	  }],
 	"schools": [
 	  {
 	    "id": 1,

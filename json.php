@@ -1,6 +1,7 @@
 <?php
   $axwareBaseEventURL = 'https://axwaresystems.com/axorm/calendar_main.php?viewevent=';
   $axwareBaseResultsURL = 'https://axwaresystems.com/axorm/files/';
+  $spokesBaseResultsURL = 'https://www.spokes.org/wp-content/uploads/results/';
   $currentSeasonJson = 'assets/json/sasca.json';
   $archiveSeasonJson = 'assets/json/archive.json';
   date_default_timezone_set('America/Chicago');
