@@ -404,6 +404,10 @@ nav ul li a:active {
   display: inline-block;
 }
 
+img.merch-link {
+  width: 700px;
+}
+
 /*********************************
 ******* @BOD **********************/
 #bod {
@@ -906,6 +910,10 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
     padding: 0;
   }
 
+  img.merch-link {
+    width: 700px;
+  }
+
   /* @Novices - Main Page */
   #novice_links {
     width: 100%;
@@ -1022,6 +1030,10 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
     margin-right: 3px;
   }
 
+  img.merch-link {
+    width: 500px;
+  }
+
   #novices {
     width: 100%;
   }
@@ -1071,6 +1083,10 @@ table.chairs tr.odd td.name, table.chairs tr.odd td.email {
 
   body {
 
+  }
+
+  img.merch-link {
+    width: 350px;
   }
 
   h1 {

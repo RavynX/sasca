@@ -123,4 +123,10 @@
 	<h1>Welcome to SASCA!</h1>
 	<p style="margin-top: 8px;">Thanks for swinging on by!  We're your local autocross club for the San Antonio, TX area.  Interested in seeing what we're about?  Come to our next event or one of our monthly meetings and introduce yourself.  It's free to spectate and many people offer their passenger seat for ride-alongs.</p>
 	<br/>
+	<div id="merch">
+		<h1>SASCA Merch is Here</h1>
+		<a href="https://merch.sasca.org/" target="_blank">
+			<img src="assets/images/sasca_merch.png" class="merch-link"/>
+		</a>
+	</div>
 </div>
