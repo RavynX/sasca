@@ -1,6 +1,7 @@
 <?php
   $axwareBaseEventURL = 'https://axwaresystems.com/axorm/calendar_main.php?viewevent=';
   $axwareBaseResultsURL = 'https://axwaresystems.com/axorm/files/';
+  $msrBaseResultsURL = 'results/';
   $spokesBaseResultsURL = 'https://www.spokes.org/wp-content/uploads/results/';
   $currentSeasonJson = 'assets/json/sasca.json';
   $archiveSeasonJson = 'assets/json/archive.json';

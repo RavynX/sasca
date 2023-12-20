@@ -56,16 +56,22 @@
 				echo 'No Prior Events this Year';
 			}
 			else if($previousEvent['axware_host'] == 'Spokes') {
-					echo '<a href="'.$spokesBaseResultsURL.$thisSeasonYear.'/'.$previousEvent['results_filename'].'_fin.htm" target="_blank" class="btn btn-primary" role="button">Final</a>';
-					echo '<a href="'.$spokesBaseResultsURL.$thisSeasonYear.'/'.$previousEvent['results_filename'].'_raw.htm" target="_blank" class="btn btn-primary" role="button">Raw</a>';
-					echo '<a href="'.$spokesBaseResultsURL.$thisSeasonYear.'/'.$previousEvent['results_filename'].'_pax.htm" target="_blank" class="btn btn-primary" role="button">PAX</a>';
-					echo '<a href="'.$spokesBaseResultsURL.$thisSeasonYear.'/'.$previousEvent['results_filename'].'_sum.htm" target="_blank" class="btn btn-primary" role="button">Summary</a>';
+				echo '<a href="'.$spokesBaseResultsURL.$thisSeasonYear.'/'.$previousEvent['results_filename'].'_fin.htm" target="_blank" class="btn btn-primary" role="button">Final</a>';
+				echo '<a href="'.$spokesBaseResultsURL.$thisSeasonYear.'/'.$previousEvent['results_filename'].'_raw.htm" target="_blank" class="btn btn-primary" role="button">Raw</a>';
+				echo '<a href="'.$spokesBaseResultsURL.$thisSeasonYear.'/'.$previousEvent['results_filename'].'_pax.htm" target="_blank" class="btn btn-primary" role="button">PAX</a>';
+				echo '<a href="'.$spokesBaseResultsURL.$thisSeasonYear.'/'.$previousEvent['results_filename'].'_sum.htm" target="_blank" class="btn btn-primary" role="button">Summary</a>';
 			}
+			else if($previousEvent['results_host'] == 'motorsportsreg') {
+				echo '<a href="'.$msrBaseResultsURL.$thisSeasonYear.'/'.$previousEvent['results_filename'].'_fin.htm" target="_blank" class="btn btn-primary" role="button">Final</a>';
+				echo '<a href="'.$msrBaseResultsURL.$thisSeasonYear.'_raw.htm" target="_blank" class="btn btn-primary" role="button">Raw</a>';
+				echo '<a href="'.$msrBaseResultsURL.$thisSeasonYear.'_pax.htm" target="_blank" class="btn btn-primary" role="button">PAX</a>';
+				echo '<a href="'.$msrBaseResultsURL.$thisSeasonYear.'_sum.htm" target="_blank" class="btn btn-primary" role="button">Summary</a>';
+			}	
 			else {
-					echo '<a href="'.$axwareBaseResultsURL.$previousEvent['axware_host'].'/'.$previousEvent['results_filename'].'_fin.htm" target="_blank" class="btn btn-primary" role="button">Final</a>';
-					echo '<a href="'.$axwareBaseResultsURL.$previousEvent['axware_host'].'/'.$previousEvent['results_filename'].'_raw.htm" target="_blank" class="btn btn-primary" role="button">Raw</a>';
-					echo '<a href="'.$axwareBaseResultsURL.$previousEvent['axware_host'].'/'.$previousEvent['results_filename'].'_pax.htm" target="_blank" class="btn btn-primary" role="button">PAX</a>';
-					echo '<a href="'.$axwareBaseResultsURL.$previousEvent['axware_host'].'/'.$previousEvent['results_filename'].'_sum.htm" target="_blank" class="btn btn-primary" role="button">Summary</a>';
+				echo '<a href="'.$axwareBaseResultsURL.$previousEvent['axware_host'].'/'.$previousEvent['results_filename'].'_fin.htm" target="_blank" class="btn btn-primary" role="button">Final</a>';
+				echo '<a href="'.$axwareBaseResultsURL.$previousEvent['axware_host'].'/'.$previousEvent['results_filename'].'_raw.htm" target="_blank" class="btn btn-primary" role="button">Raw</a>';
+				echo '<a href="'.$axwareBaseResultsURL.$previousEvent['axware_host'].'/'.$previousEvent['results_filename'].'_pax.htm" target="_blank" class="btn btn-primary" role="button">PAX</a>';
+				echo '<a href="'.$axwareBaseResultsURL.$previousEvent['axware_host'].'/'.$previousEvent['results_filename'].'_sum.htm" target="_blank" class="btn btn-primary" role="button">Summary</a>';
 			}
 		?>
 		</div>
