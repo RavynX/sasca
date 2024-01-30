@@ -1,7 +1,7 @@
 <?php include 'index.php' ?>
 <?php startblock('content') ?>
 <div id="bod">
-	<h1>2023 Board of Directors</h1>
+	<h1>2024 Board of Directors</h1>
 	<table class="bod">
 		<tr>
 			<td class="title">President</td>
@@ -10,7 +10,7 @@
 		</tr>
 		<tr>
 			<td class="title">Vice President</td>
-			<td class="name">Drew Malkin</td>
+			<td class="name">Ben Gresham</td>
 			<td class="email"><a class="glyphicon glyphicon-envelope" href="mailto:vicepresident@sasca.org"></a></td>
 		</tr>
 		<tr>
@@ -20,7 +20,7 @@
 		</tr>
 		<tr>
 			<td class="title">Secretary</td>
-			<td class="name">Dean Domingue</td>
+			<td class="name">Rachael Acosta</td>
 			<td class="email"><a class="glyphicon glyphicon-envelope" href="mailto:secretary@sasca.org"></a></td>
 		</tr>
 		<tr>
