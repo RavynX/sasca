@@ -126,6 +126,28 @@
 	<div id="content-notifications">
 		<a href="covid.php" class="btn btn-primary redBtn hideWeb" role="button">COVID-19 Impact for Events</a>
 	</div>
+	<div>
+		<h1>2024 Announcements</h1>
+		<p>SASCA has moved, and registration for SASCA#1-2024 is now open!!!</p>
+
+		<p>Registration for SASCA events will now take place on MotorsportsReg. Become part of the SASCA group so you can find our events easier:</p>
+
+		<p>JOIN THE SASCA MSR GROUP: <a href="http://msreg.com/SASCA-Membership" target="_blank">http://msreg.com/SASCA-Membership</a></p>
+		<p>If you were a paid member on AxWare, your membership status should have transferred.</p>
+		<p>You probably received an email from MotorsportsReg inviting you to become a member. If you didn’t already have an account, you should be able to create one from the same email that you used in AxWare and things should link up.</p>
+		<p>SASCA #1 is now open for registration. It will be on Saturday Feb. 10 at RCCC, so there is under a week for pre-registration. We will still take walk-ups on the day, but that will cost you an extra $5.</p>
+		<p><b>REGISTER HERE:</b> <a href="http://msreg.com/SASCA-1-2024" target="_blank">http://msreg.com/SASCA-1-2024</a></p>
+		<p>Email <a href="mailto:president@sasca.org">president@sasca.org</a> if you have any issues with membership, or with the registration process.</p>
+
+		<u>Things that are different now:</u>
+		<ul style="list-style-type: disc; padding-left: 20px;">
+			<li>When picking “Class” and “PAX”, it works a little different than what I expected. Read the Registration Instructions for clarification.</li>
+			<li>No reserved numbers. Numbers are up for grabs when each event is created, but there should only be conflicts if the same number is already registered in the same class. This probably won’t happen often.</li>
+			<li>No pre-registration without paying. If you pre-register on MSR you need to pay on MSR.</li>
+			<li>Other things I am overlooking that will pop up when it’s most inconvenient.</li>
+		</ul>
+	</div>
+
 	<h1>Welcome to SASCA!</h1>
 	<p style="margin-top: 8px;">Thanks for swinging on by!  We're your local autocross club for the San Antonio, TX area.  Interested in seeing what we're about?  Come to our next event or one of our monthly meetings and introduce yourself.  It's free to spectate and many people offer their passenger seat for ride-alongs.</p>
 	<br/>
