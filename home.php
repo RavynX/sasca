@@ -123,9 +123,6 @@
 	</div>
 </div>
 <div id="content">
-	<div id="content-notifications">
-		<a href="covid.php" class="btn btn-primary redBtn hideWeb" role="button">COVID-19 Impact for Events</a>
-	</div>
 	<div>
 		<h1>2024 Announcements</h1>
 		<p>SASCA has moved, and registration for SASCA#1-2024 is now open!!!</p>
@@ -147,9 +144,6 @@
 			<li>Other things I am overlooking that will pop up when it’s most inconvenient.</li>
 		</ul>
 	</div>
-
-	<h1>Welcome to SASCA!</h1>
-	<p style="margin-top: 8px;">Thanks for swinging on by!  We're your local autocross club for the San Antonio, TX area.  Interested in seeing what we're about?  Come to our next event or one of our monthly meetings and introduce yourself.  It's free to spectate and many people offer their passenger seat for ride-alongs.</p>
 	<br/>
 	<div id="merch">
 		<h1>SASCA Merch is Here</h1>
@@ -157,4 +151,9 @@
 			<img src="assets/images/sasca_merch.png" class="merch-link"/>
 		</a>
 	</div>
+	<br/>
+	<h1>Welcome to SASCA!</h1>
+	<p style="margin-top: 8px;">Thanks for swinging on by!  We're your local autocross club for the San Antonio, TX area.  Interested in seeing what we're about?  Come to our next event or one of our monthly meetings and introduce yourself.  It's free to spectate and many people offer their passenger seat for ride-alongs.</p>
+	<br/>
+	
 </div>
