@@ -42,7 +42,10 @@
   function getNextEvent($events) {
     foreach($events as $event) {
       if (afterYesterday($event['date'])) {
-        if ($event['axware_id'] > 0) {
+        if ($event['results_host'] === 'axware' and $event['axware_id'] > 0) {
+          return $event;
+        }
+        elseif ($event['results_host'] === 'msr' and !empty($event['msr_url'])) {
           return $event;
         }
       }
