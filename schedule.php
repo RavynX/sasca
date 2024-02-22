@@ -28,19 +28,34 @@
 				echo "<td><a href='".$event['map_url']."' target='_blank'>".$event['site']."</a></td>";
 
 				if ($event['status'] == 'canceled') {
-					echo '<td><a href="'.$axwareBaseEventURL.$event['axware_id'].'" target="_blank" role="button" class="canceled">Canceled</a></td>';
+					if ($event['axware_id'] > 0) {
+						echo '<td><a href="'.$axwareBaseEventURL.$event['axware_id'].'" target="_blank" role="button" class="canceled">Canceled</a></td>';
+					}
+					else {
+						echo '<td><a href="'.$event['msr_url'].'" target="_blank" role="button" class="canceled">Canceled</a></td>';
+					}
 				}
 				else if ($event['status'] == 'none') {
 					echo '<td>No Event Planned</td>';
 				}
-				else if ($event['axware_id'] == 0) {
+				else if ($event['results_host'] === 'axware' and $event['axware_id'] == 0) {
 					echo '<td>TBD</td>';
 				}
 				else if(afterYesterday($event['date'])) {
-					echo '<td><a href="'.$axwareBaseEventURL.$event['axware_id'].'" target="_blank" class="btn btn-primary" role="button">Register</a></td>';
+					if ($event['results_host'] === 'axware') {
+						echo '<td><a href="'.$axwareBaseEventURL.$event['axware_id'].'" target="_blank" class="btn btn-primary" role="button">Register</a></td>';
+					}
+					else {
+						echo '<td><a href="'.$event['msr_url'].'" target="_blank" class="btn btn-primary" role="button">Register</a></td>';
+					}
 				}
 				else {
-					echo '<td><a href="'.$axwareBaseEventURL.$event['axware_id'].'" target="_blank" role="button">Results</a></td>';
+					if ($event['results_host'] === 'axware') {
+						echo '<td><a href="'.$axwareBaseEventURL.$event['axware_id'].'" target="_blank" role="button">Results</a></td>';
+					}
+					else {
+						echo '<td>Event Complete</td>';
+					}
 				}
 				echo "</tr>";
 }
