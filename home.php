@@ -99,6 +99,9 @@
 				if (empty($nextMeeting)) {
 					echo 'End of Season';
 				}
+				else if ($nextMeeting['status'] == 'tbd') {
+					echo 'Meeting not decided yet.<br/>';
+				}
 				else if ($nextMeeting['status'] == 'canceled') {
 					echo 'Event #'.$nextMeeting['event_id'].' Meeting<br/>';
 					echo '<p class="red">Canceled</red>';
@@ -115,6 +118,9 @@
 				<?php
 					if (empty($nextMeeting)) {
 						echo 'Check back later for new schedule.';
+					}
+					else if ($nextMeeting['status'] == 'tbd') {
+						echo '';
 					}
 					else if ($nextMeeting['status'] == 'canceled') {
 						echo '';

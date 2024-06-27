@@ -217,15 +217,15 @@
 	    "event_id": 3,
 		"status": "active",
 	    "date": "20240605",
-		"venue": "Mamacita's Restaurant",
-  	    "address": "8030, I-10, San Antonio, TX 78230",
-  	    "map_url": "https://goo.gl/maps/FihgbnQU3jDJuUoM7"
+		"venue": "The Rustic",
+  	    "address": "17619 La Cantera Pkwy Unit 204",
+  	    "map_url": "https://maps.app.goo.gl/Mfzrmmmj88sF2KU77"
 		},
 	  {
 		"id": 4,
 	    "event_id": 4,
 		"status": "canceled",
-	    "date": "20240626",
+	    "date": "20240526",
 		"venue": "EZ's Brick Oven & Grill",
 		"address": "734 W Bitters Rd, San Antonio, TX 78216",
 		"map_url": "https://goo.gl/maps/HKLH9dEVj81tC7Gk6"
@@ -234,15 +234,15 @@
 		"id": 5,
 	    "event_id": 5,
 		"status": "active",
-	    "date": "20240717",
-		"venue": "Big'z Burger Joint 151",
-		"address": "10106 TX-151, San Antonio, TX 78251",
-		"map_url": "https://goo.gl/maps/CoP1htkJ5V6A3j846"
+	    "date": "20240606",
+		"venue": "Cookshack at the Forum",
+		"address": "8211 Agora Pkwy #112, Selma, TX 78154",
+		"map_url": "https://maps.app.goo.gl/FbQDT9CCfZDnK8y77"
 		},
 	  {
 		"id": 6,
 	    "event_id": 6,
-		"status": "active",
+		"status": "tbd",
 	    "date": "20240814",
 		"venue": "Black Laboratory Brewing",
 		"address": "1602 E Houston St Suite 109, San Antonio, TX 78202",
@@ -251,7 +251,7 @@
 	  {
 		"id": 7,
 	    "event_id": 7,
-		"status": "active",
+		"status": "tbd",
 	    "date": "20241016",
 		"venue": "Mamacita's Restaurant",
 		"address": "8030, I-10, San Antonio, TX 78230",
@@ -260,7 +260,7 @@
 	  {
 	    "id": 8,
 	    "event_id": 8,
-		"status": "active",
+		"status": "tbd",
 	    "date": "20241106",
 		"venue": "Mamacita's Restaurant",
 		"address": "8030, I-10, San Antonio, TX 78230",
@@ -269,7 +269,7 @@
 	  {
 	    "id": 9,
 	    "event_id": 9,
-		"status": "active",
+		"status": "tbd",
 	    "date": "20241218",
 		"venue": "Black Laboratory Brewing",
 		"address": "1602 E Houston St Suite 109, San Antonio, TX 78202",
@@ -278,7 +278,7 @@
 	  {
 	    "id": 10,
 	    "event_id": 10,
-		"status": "active",
+		"status": "tbd",
 	    "date": "20241206",
 		"venue": "Black Laboratory Brewing",
 		"address": "1602 E Houston St Suite 109, San Antonio, TX 78202",
@@ -287,7 +287,7 @@
 	  {
 	    "id": 11,
 	    "event_id": 10,
-		"status": "active",
+		"status": "tbd",
 	    "date": "20241220",
 		"venue": "Black Laboratory Brewing",
 		"address": "1602 E Houston St Suite 109, San Antonio, TX 78202",
