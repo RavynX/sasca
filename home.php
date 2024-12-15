@@ -137,6 +137,11 @@
 </div>
 <div id="content">
 	<div>
+		<h1>2024 Year End Results</h1>
+		<p><a href="results/2024/2024_Championship_YEP.html" target="_blank">2024 SASCA Championship Year End Points</a></p>
+		<p><a href="results/2024/2024_PAX_YEP.html" target="_blank">2024 SASCA PAX Year End Points</a></p>
+	</div>
+	<div>
 		<h1>2024 Announcements</h1>
 		<p>SASCA has moved, and registration for SASCA#1-2024 is now open!!!</p>
 

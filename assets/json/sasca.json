@@ -175,22 +175,6 @@
 		"venue": "River City Community Church",
 		"address": "16765 Lookout Rd, Schertz, TX 78154",
 		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
-	},
-	{
-		"id": 12,
-		"axware_id": 0,
-		"status": "none",
-		"axware_host": "SASCA",
-		"results_host": "msr",
-		"msr_url": "https://msreg.com/SASCA-12-2024",
-		"results_filename": "e12-dec16",
-		"site_host": "SASCA",
-		"joint": "false",
-		"site": "",
-		"date": "",
-		"venue": "River City Community Church",
-		"address": "16765 Lookout Rd, Schertz, TX 78154",
-		"map_url": "https://goo.gl/maps/8TCVryDTjQU2"
 	}
 	],
 	"meetings": [
